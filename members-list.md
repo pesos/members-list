@@ -13,6 +13,10 @@ Tell us something we don't know.
 
 ## The list
 
+[Add your details over here]
+
+
+
 **Name**: Atharva Raykar  
 **SRN**: PES1201800101  
 **Link to Profile**: [tfidfwastaken](https://github.com/tfidfwastaken)  
@@ -69,6 +73,24 @@ Hello! I'm Anant and I'm a coding enthusiast and trying to learn new things. cur
 **About Me**:  
 Hey there! I go by the handle SaqlainAI. I love to learn new things and usually hate to revisit them. The most introverted guy could meet. Working with data is what I love the most.
 
+**Name**: Vishalsagar Udupi    
+**SRN**: PES1201800534   
+**Link to Profile**: [techie0007](https://github.com/techie0007)    
+**About Me**:  
+Hey there, I'm vishal. I generally develop android apps, but otherwise I love gaming and watching movies. I love to play badminton and table tennis and the rest you'll know when we catch up.   
+
+**Name**: Navaneeth M    
+**SRN**: PES1201801597  
+**Link to Profile**: [navaneethM1](https://github.com/navaneethM1)  
+**About Me**:    
+Hi there! My name is Navaneeth. I love tennis. I like watching animated movies.
+
+**Name**: Aditi Ahuja         
+**SRN**: PES1201800165       
+**Link to Profile**: [metonymic-smokey](https://github.com/metonymic-smokey)              
+**About Me**:       
+Hey! I go by metonymic-smokey in here, which is proof of my love for arcane poetic devices and (mostly unsuccessful) attempts at composing meaningful poetry. Tryna find my niche amidst all these FOSSibilities, one (very)bad pun at a time(see what I did there?). 
+
 **Name**: Bharath Bhambore  
 **SRN**: PES1201801948  
 **Link to Profile**: [BharathBhambore](https://github.com/BharathBhambore)  
@@ -93,7 +115,13 @@ Hi! My github name is psiayn (produced somewhat like cyan). Well I am a huge ble
 **About Me**:  
 Student Developer.  
 Wielder of the Kodhanda Bow.  
- 
+
+**Name**: Trivikram B Budhabhatti  
+**SRN**: PES1201800936  
+**Link to Profile**: [Trivikram-B](https://github.com/Trivikram-B)  
+**About Me**:  
+Hey there, I'm Trivikram, I like Photography, Exploring stuff, Drawing and Coding.
+
 **Name**: Akhil Eppa    
 **SRN**: PES1201802026  
 **Link to Profile**: [akhil-epppa](https://github.com/akhil-eppa)  
@@ -106,5 +134,32 @@ Hello! I am Akhil. My github username is pretty straightforward which is "akhil-
 **About Me**:    
 Hi! I am Ishitha and my user name is ishi20. Love to try out new things but have a problem with continuing with them. Love reading books and also love dogs.
 
+**Name**: Abhay Pratap Singh   
+**SRN**: PES1201802019  
+**Link to Profile**: [abhay-bharat](https://github.com/bharat)  
+**About Me**:    
+Hello people! My github username is abhay-bharat, I like giving out ideas and working in collaboration with 'experts'. For more information.....  
 
-[Continue adding your names here]
+**Name**: Ramya C P  
+**SRN**:  PES1201801554  
+**Link to Profile**: [RAMYA-CP](https://github.com/RAMYA-CP)  
+**About Me**:  
+Hey! I'm Ramya, I am a Recovering ice cream addict XD.  I like to learn new stuff . Really excited to be in PESOS.  
+
+**Name**: Mayur P L   
+**SRN**: PES1201801439  
+**Link to Profile**: [The-Death-Reaper](https://github.com/The-Death-Reaper)  
+**About Me**:    
+Hey! I go by the handle "The-Death-Reaper". A gamer at heart and an anime-freak at night :stuck_out_tongue_closed_eyes:. I also dabble in a few sports on the side.  
+
+**Name**: Sourav T Raveendran     
+**SRN**: PES1201800433  
+**Link to Profile**: [souravtecken](https://github.com/souravtecken)  
+**About Me**:    
+You can call me Bum. :hatching_chick:
+
+**Name**: Keshav Bantwal    
+**SRN**: PES1201801383  
+**Link to Profile**: [keshavbantu](https://github.com/keshavbantu)  
+**About Me**:    
+Hi! My github username keshavbantu. Bantu is short for bantwal. I dig cybersecurity and linux. I do Malware/Computer Virus Analysis at times. I run arch btw xD.
