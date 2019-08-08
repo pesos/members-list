@@ -24,5 +24,9 @@ Hi there. I'm Atharva, and I usually go by the handle "vuhh". I like surreal art
 Hey there! I am using github :stuck_out_tongue:   
 Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things the other way around. Dont worry, you'll understand after we meet.
 
+**Name**: M. S. Akshatha Laxmi    
+**SRN**: PES1201800130   
+**About Me**:    
+Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
 [Continue adding your names here]
