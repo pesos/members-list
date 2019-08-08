@@ -33,4 +33,8 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
-[Continue adding your names here]
+**Name**: Mayur P. L   
+**SRN**: PES1201801439  
+**Link to Profile**: [The-Death-Reaper](https://github.com/The-Death-Reaper)  
+**About Me**:    
+Hey! I go by the handle "The-Death-Reaper". A gamer at heart and an anime-freak at night. I also dabble in a few sports on the side.  
