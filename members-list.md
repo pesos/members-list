@@ -32,6 +32,12 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
+**Name**: Shubham Gupta   
+**SRN**: PES1201801295  
+**Link to Profile**: [IamShubhamGupto](https://github.com/IamShubhamGupto)  
+**About Me**:    
+Hey there! My name is Shubham, my friends call me Gupto cause Bengali `¯\_(ツ)_/¯`. I like shooting and editing photos. Doggos are fun.
+
 **Name**: Pranav Kesavarapu  
 **SRN**: PES1201800299  
 **Link to Profile** : [psiayn](https://github.com/psiayn)  
