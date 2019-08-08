@@ -36,6 +36,6 @@ Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I l
 **Name**: Vishalsagar Udupi   
 **SRN**: PES1201800534 
 **Link to Profile**: https://github.com/techie0007
-**About Me**:  Hey there , Im vishal . I generally develop android apps , but otherwise i love gaming and watching movies. i love to play badminton and table tennis and the rest you'll know when we catch up.   
+**About Me**:  Hey there , Im vishal . I generally develop android apps , but otherwise i love gaming and watching movies. i love to play badminton and table tennis and the rest you'll know when we catch up. 
 
 [Continue adding your names here]
