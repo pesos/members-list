@@ -26,7 +26,7 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 
 **Name**: M. S. Akshatha Laxmi    
 **SRN**: PES1201800130  
-**Link to Profile**: [alastairmoody-madeye]https://github.com/alastairmoody-madeye  
+**Link to Profile**: [alastairmoody-madeye](https://github.com/alastairmoody-madeye)  
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
