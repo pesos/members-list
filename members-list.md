@@ -33,4 +33,10 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
+**Name**: Anant Vaid 
+**SRN**: PES2201800712
+**Link to Profile**: [anantvaid](https://github.com/anantvaid)  
+**About Me**:  
+Hello! I'm Anant and I'm a coding enthusiast and trying to learn new things. currently I've learnt JavaScript with React and Redux:)
+
 [Continue adding your names here]
