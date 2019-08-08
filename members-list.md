@@ -164,6 +164,12 @@ You can call me Bum. :hatching_chick:
 **About Me**:    
 Hi! My github username keshavbantu. Bantu is short for bantwal. I dig cybersecurity and linux. I do Malware/Computer Virus Analysis at times. I run arch btw xD.
 
+**Name**: Siddhant Rao  
+**SRN**: PES1201800313    
+**Link to Profile**: [siddhantrao23](https://github.com/siddhantrao23)    
+**About Me**:  
+Hello! I'm Siddhant. I like creepy history and creepy things in general. Some people call me 'chintu', you can guess why.
+
 **Name**: Madhav Jivrajani  
 **SRN**: PES1201800028  
 **Link to Profile**: [MadhavJivrajani](https://github.com/MadhavJivrajani)  
