@@ -93,12 +93,18 @@ Hi! My github name is psiayn (produced somewhat like cyan). Well I am a huge ble
 **About Me**:  
 Student Developer.  
 Wielder of the Kodhanda Bow.  
-
+ 
 **Name**: Akhil Eppa    
 **SRN**: PES1201802026  
 **Link to Profile**: [akhil-epppa](https://github.com/akhil-eppa)  
 **About Me**:  
 Hello! I am Akhil. My github username is pretty straightforward which is "akhil-eppa". I like automobiles and also a space enthusiast. I look forward to interacting with all of you here.
+
+**Name**: Ishitha Agarwal   
+**SRN**: PES1201800181
+**Link to Profile**: [ishi20](https://github.com/ishi20)  
+**About Me**:    
+Hi! I am Ishitha and my user name is ishi20. Love to try out new things but have a problem with continuing with them. Love reading books and also love dogs.
 
 
 [Continue adding your names here]
