@@ -32,6 +32,13 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
+
+**Name**: Saqlain Pasha  
+**SRN** : PES1201701539  
+**Link to Profile** :[SaqlainAI](https://github.com/SaqlainAI)  
+**About Me**:  
+Hey there! I go by the handle SaqlainAI. I love to learn new things and usually hate to revisit them. The most introverted guy could meet. Working with data is what I love the most.
+
 **Name**: Bharath Bhambore  
 **SRN**: PES1201801948  
 **Link to Profile**: [BharathBhambore](https://github.com/BharathBhambore)  
@@ -56,6 +63,7 @@ Hi! My github name is psiayn (produced somewhat like cyan). Well I am a huge ble
 **About Me**:  
 Student Developer.  
 Wielder of the Kodhanda Bow.  
+
 
 
 [Continue adding your names here]
