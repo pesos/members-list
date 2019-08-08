@@ -30,7 +30,14 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **SRN**: PES1201800130  
 **Link to Profile**: [alastairmoody-madeye](https://github.com/alastairmoody-madeye)  
 **About Me**:    
-Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead
+Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.
+
+**Name**: Neil John   
+**SRN**: PES1201801292  
+**Link to Profile**: [xorsys11](https://github.com/xorsys11)  
+**About Me**:    
+Hey.  
+My github username is xorsys11, mainly because 'xorsys' without any numbers was taken. I enjoy playing and watching football and I'm not a fan of emojies except 'xD'.  
 
 **Name**: Vishwas Badiger  
 **SRN**: PES1201801609  
@@ -90,7 +97,8 @@ Wielder of the Kodhanda Bow.
 **Name**: Akhil Eppa    
 **SRN**: PES1201802026  
 **Link to Profile**: [akhil-epppa](https://github.com/akhil-eppa)  
-**About Me**:
+**About Me**:  
 Hello! I am Akhil. My github username is pretty straightforward which is "akhil-eppa". I like automobiles and also a space enthusiast. I look forward to interacting with all of you here.
+
 
 [Continue adding your names here]
