@@ -157,3 +157,11 @@ You can call me Bum. :hatching_chick:
 **Link to Profile**: [keshavbantu](https://github.com/keshavbantu)  
 **About Me**:    
 Hi! My github username keshavbantu. Bantu is short for bantwal. I dig cybersecurity and linux. I do Malware/Computer Virus Analysis at times. I run arch btw xD.
+
+**Name**: Shriprajwal Krishnamurthy    
+**SRN**: PES1201801383  
+**Link to Profile**: [TheDaemonLord](https://github.com/TheDaemonLord)  
+**About Me**:    
+Just another weeb here. I like playing chess.
+
+
