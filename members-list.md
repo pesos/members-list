@@ -31,6 +31,11 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **SRN**: PES1201800130  
 **Link to Profile**: [alastairmoody-madeye](https://github.com/alastairmoody-madeye)  
 **About Me**:    
-Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
+Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead
 
-[Continue adding your names here]
+**Name**: Vishwas Badiger  
+**SRN**: PES1201801609  
+**Link to Profile**: [vishwas36](https://github.com/vishwas36)  
+**About Me**:  
+Hey! My GitHub username is vishwas36, Love "Friends". Peace✌️
+
