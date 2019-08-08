@@ -11,3 +11,10 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 Tell us something we don't know.
 
 ## The list
+
+**Name**: Atharva Raykar  
+**SRN**: PES1201800101  
+**About Me**:  
+Hi there. I'm Atharva, and I usually go by the handle "vuhh". I like surreal art. I also like sending out :melon: emojis every once in a while for no real reason.
+
+[Continue adding your names here]
