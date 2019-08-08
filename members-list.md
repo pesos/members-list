@@ -17,4 +17,12 @@ Tell us something we don't know.
 **About Me**:  
 Hi there. I'm Atharva, and I usually go by the handle "vuhh". I like surreal art. I also like sending out :melon: emojis every once in a while for no real reason.
 
+
+**Name**: Parth Krishna  
+**SRN**: 01FB16ECS248  
+**About Me**:  
+Hey there! I am using github :stuck_out_tongue:
+Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things the other way around. Dont worry, you'll understand after we meet.
+
+
 [Continue adding your names here]
