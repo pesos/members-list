@@ -33,4 +33,9 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
+**Name**: Abhay Pratap Singh   
+**SRN**: PES1201802019  
+**Link to Profile**: [abhay-bharat](https://github.com/bharat)  
+**About Me**:    
+Hello people! My github username is abhay-bharat, I like giving out ideas and working in collaboration with 'experts'. For more information.....  
 [Continue adding your names here]
