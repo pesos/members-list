@@ -57,5 +57,10 @@ Hi! My github name is psiayn (produced somewhat like cyan). Well I am a huge ble
 Student Developer.  
 Wielder of the Kodhanda Bow.  
 
+**Name**: Trivikram B Budhabhatti  
+**SRN**: PES1201800936  
+**Link to Profile**: [Trivikram-B](https://github.com/Trivikram-B)  
+**About Me**:
+Hey there, I'm Trivikram, I like Photography,Exploring stuffs,Drawing and Coding.
 
 [Continue adding your names here]
