@@ -75,6 +75,12 @@ Hey there! I go by the handle SaqlainAI. I love to learn new things and usually 
 **About Me**:  
 Hey there, I'm vishal. I generally develop android apps, but otherwise I love gaming and watching movies. I love to play badminton and table tennis and the rest you'll know when we catch up.   
 
+**Name**: Navaneeth M    
+**SRN**: PES1201801597  
+**Link to Profile**: [navaneethM1](https://github.com/navaneethM1)  
+**About Me**:    
+Hi there! My name is Navaneeth. I love tennis. I like watching animated movies.
+
 **Name**: Bharath Bhambore  
 **SRN**: PES1201801948  
 **Link to Profile**: [BharathBhambore](https://github.com/BharathBhambore)  
@@ -118,4 +124,5 @@ Hello people! My github username is abhay-bharat, I like giving out ideas and wo
 **Link to Profile**: [RAMYA-CP](https://github.com/RAMYA-CP)  
 **About Me**:  
 Hey! I'm Ramya, I am a Recovering ice cream addict XD.  I like to learn new stuff . Really excited to be in PESOS.  
+
 [Continue adding your names here]
