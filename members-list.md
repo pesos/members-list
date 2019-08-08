@@ -102,7 +102,7 @@ Hello! I am Akhil. My github username is pretty straightforward which is "akhil-
 
 **Name**: Ishitha Agarwal   
 **SRN**: PES1201800181
-**Link to Profile**: [ishi20](https://github.com/ishi20)  
+ **Link to Profile**: [ishi20](https://github.com/ishi20)  
 **About Me**:    
 Hi! I am Ishitha and my user name is ishi20. Love to try out new things but have a problem with continuing with them. Love reading books and also love dogs.
 
