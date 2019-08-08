@@ -4,6 +4,7 @@
 > Please adhere to this format when adding your name to this list  
 > **Name**: [Your Full Name Here]  `<-- Don't forget to add two spaces here`  
 **SRN**: [SRN]  `<-- Don't forget to add two spaces here`  
+**Link to Profile**: `[name](https://github.com/[PROFILENAME])`  `<-- Don't forget to add two spaces here`  
 **About Me**:  `<-- Don't forget to add two spaces here`  
 Write a short, fun description about yourself. Don't overthink it and please be genuine and light-hearted.
 This isn't a flexing contest.
@@ -14,12 +15,14 @@ Tell us something we don't know.
 
 **Name**: Atharva Raykar  
 **SRN**: PES1201800101  
+**Link to Profile**: [tfidfwastaken](https://github.com/tfidfwastaken)  
 **About Me**:  
 Hi there. I'm Atharva, and I usually go by the handle "vuhh". I like surreal art. I also like sending out :melon: emojis every once in a while for no real reason.
 
 
 **Name**: Parth Krishna  
 **SRN**: 01FB16ECS248  
+**Link to Profile**: [thenerdsuperuser](https://github.com/thenerdsuperuser)  
 **About Me**:  
 Hey there! I am using github :stuck_out_tongue:   
 Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things the other way around. Dont worry, you'll understand after we meet.
