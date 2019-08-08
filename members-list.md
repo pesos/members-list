@@ -32,6 +32,12 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
+**Name**:  Raghav Roy  
+**SRN**:  PES1201800342  
+**Link to Profile**:  [RaghavRoy145]((https://github.com/RaghavRoy145)  
+**About Me**:  
+Hey! I'm Raghav, and I'm supremely lazy, and this does not help the fact that literally EVERYTHING interests me, so I never stop talking. I'm so sorry. I love my cats to death and I read everything that isn't course material. My extremely imaginative profile name should be enough to speak volumes about me.   
+
 **Name**: Siddharth K Rao.   
 **SRN**: PES1201802127   
 **Link to Profile**: [sherunlocked49](https://github.com/sherunlocked49).   
