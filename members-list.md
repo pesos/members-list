@@ -33,4 +33,9 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
+**Name**: Ramya C P
+**SRN**:  PES1201801554
+**Link to Profile**: [RAMYA-CP](https://github.com/RAMYA-CP)
+**About Me**:
+Hey! I'm Ramya, I am a Recovering ice cream addict XD.  I like to learn new stuff . Really excited to be in PESOS.  
 [Continue adding your names here]
