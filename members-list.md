@@ -33,4 +33,10 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
+**Name**: Navaneeth M    
+**SRN**: PES1201801597  
+**Link to Profile**: [navaneethM1](https://github.com/navaneethM1)  
+**About Me**:    
+Hi there! My name is Navaneeth. I love tennis. I like watching animated movies.
+
 [Continue adding your names here]
