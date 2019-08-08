@@ -37,4 +37,4 @@ Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I l
 **SRN**: PES1201801439  
 **Link to Profile**: [The-Death-Reaper](https://github.com/The-Death-Reaper)  
 **About Me**:    
-Hey! I go by the handle "The-Death-Reaper". A gamer at heart and an anime-freak at night. I also dabble in a few sports on the side.  
+Hey! I go by the handle "The-Death-Reaper". A gamer at heart and an anime-freak at night :stuck_out_tongue_closed_eyes:. I also dabble in a few sports on the side.  
