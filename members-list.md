@@ -33,4 +33,10 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
+**Name**: Aditi Ahuja         
+**SRN**: PES1201800165       
+**Link to Profile**: [metonymic-smokey](https://github.com/metonymic-smokey)              
+**About Me**:       
+Hey! I go by metonymic-smokey in here, which is proof of my love for arcane poetic devices and (mostly unsuccessful) attempts at composing meaningful poetry. Tryna find my niche amidst all these FOSSibilities, one (very)bad pun at a time(see what I did there?). 
+
 [Continue adding your names here]
