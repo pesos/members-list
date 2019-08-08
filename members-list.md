@@ -13,6 +13,10 @@ Tell us something we don't know.
 
 ## The list
 
+[Add your details over here]
+
+
+
 **Name**: Atharva Raykar  
 **SRN**: PES1201800101  
 **Link to Profile**: [tfidfwastaken](https://github.com/tfidfwastaken)  
@@ -81,6 +85,12 @@ Hey there, I'm vishal. I generally develop android apps, but otherwise I love ga
 **About Me**:    
 Hi there! My name is Navaneeth. I love tennis. I like watching animated movies.
 
+**Name**: Aditi Ahuja         
+**SRN**: PES1201800165       
+**Link to Profile**: [metonymic-smokey](https://github.com/metonymic-smokey)              
+**About Me**:       
+Hey! I go by metonymic-smokey in here, which is proof of my love for arcane poetic devices and (mostly unsuccessful) attempts at composing meaningful poetry. Tryna find my niche amidst all these FOSSibilities, one (very)bad pun at a time(see what I did there?). 
+
 **Name**: Bharath Bhambore  
 **SRN**: PES1201801948  
 **Link to Profile**: [BharathBhambore](https://github.com/BharathBhambore)  
@@ -106,12 +116,17 @@ Hi! My github name is psiayn (produced somewhat like cyan). Well I am a huge ble
 Student Developer.  
 Wielder of the Kodhanda Bow.  
 
+**Name**: Trivikram B Budhabhatti  
+**SRN**: PES1201800936  
+**Link to Profile**: [Trivikram-B](https://github.com/Trivikram-B)  
+**About Me**:  
+Hey there, I'm Trivikram, I like Photography, Exploring stuff, Drawing and Coding.
+
 **Name**: Akhil Eppa    
 **SRN**: PES1201802026  
 **Link to Profile**: [akhil-epppa](https://github.com/akhil-eppa)  
 **About Me**:  
 Hello! I am Akhil. My github username is pretty straightforward which is "akhil-eppa". I like automobiles and also a space enthusiast. I look forward to interacting with all of you here.
-
 
 **Name**: Abhay Pratap Singh   
 **SRN**: PES1201802019  
@@ -136,3 +151,9 @@ Hey! I go by the handle "The-Death-Reaper". A gamer at heart and an anime-freak 
 **Link to Profile**: [souravtecken](https://github.com/souravtecken)  
 **About Me**:    
 You can call me Bum. :hatching_chick:
+
+**Name**: Keshav Bantwal    
+**SRN**: PES1201801383  
+**Link to Profile**: [keshavbantu](https://github.com/keshavbantu)  
+**About Me**:    
+Hi! My github username keshavbantu. Bantu is short for bantwal. I dig cybersecurity and linux. I do Malware/Computer Virus Analysis at times. I run arch btw xD.
