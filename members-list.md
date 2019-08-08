@@ -33,4 +33,10 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
+**Name**: Bharath Bhambore  
+**SRN**: PES1201801948  
+**Link to Profile**: [BharathBhambore](https://github.com/BharathBhambore)  
+**About Me**: 
+I don't believe in miracles. I rely on them.  
+
 [Continue adding your names here]
