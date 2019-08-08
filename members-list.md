@@ -13,6 +13,10 @@ Tell us something we don't know.
 
 ## The list
 
+[Add your details over here]
+
+
+
 **Name**: Atharva Raykar  
 **SRN**: PES1201800101  
 **Link to Profile**: [tfidfwastaken](https://github.com/tfidfwastaken)  
@@ -81,6 +85,12 @@ Hey there, I'm vishal. I generally develop android apps, but otherwise I love ga
 **About Me**:    
 Hi there! My name is Navaneeth. I love tennis. I like watching animated movies.
 
+**Name**: Aditi Ahuja         
+**SRN**: PES1201800165       
+**Link to Profile**: [metonymic-smokey](https://github.com/metonymic-smokey)              
+**About Me**:       
+Hey! I go by metonymic-smokey in here, which is proof of my love for arcane poetic devices and (mostly unsuccessful) attempts at composing meaningful poetry. Tryna find my niche amidst all these FOSSibilities, one (very)bad pun at a time(see what I did there?). 
+
 **Name**: Bharath Bhambore  
 **SRN**: PES1201801948  
 **Link to Profile**: [BharathBhambore](https://github.com/BharathBhambore)  
@@ -130,3 +140,4 @@ Hey! I'm Ramya, I am a Recovering ice cream addict XD.  I like to learn new stuf
 **Link to Profile**: [The-Death-Reaper](https://github.com/The-Death-Reaper)  
 **About Me**:    
 Hey! I go by the handle "The-Death-Reaper". A gamer at heart and an anime-freak at night :stuck_out_tongue_closed_eyes:. I also dabble in a few sports on the side.  
+
