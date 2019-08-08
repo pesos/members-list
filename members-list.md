@@ -33,8 +33,8 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
-**Name**: Siddharth K Rao
-**SRN**: PES1201802127
-**Link to Profile**: [sherunlocked49](https://github.com/sherunlocked49)
-**About Me**:
+**Name**: Siddharth K Rao.   
+**SRN**: PES1201802127.   
+**Link to Profile**: [sherunlocked49](https://github.com/sherunlocked49).   
+**About Me**:.   
 Hey! I like decoding stuff and would love to play badminton. I'm a good photographer 📷 (I guess xD).
