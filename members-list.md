@@ -19,7 +19,6 @@ Tell us something we don't know.
 **About Me**:  
 Hi there. I'm Atharva, and I usually go by the handle "vuhh". I like surreal art. I also like sending out :melon: emojis every once in a while for no real reason.
 
-
 **Name**: Parth Krishna  
 **SRN**: 01FB16ECS248  
 **Link to Profile**: [thenerdsuperuser](https://github.com/thenerdsuperuser)  
@@ -37,6 +36,19 @@ Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I l
 **SRN**: PES1201801295  
 **Link to Profile**: [IamShubhamGupto](https://github.com/IamShubhamGupto)  
 **About Me**:    
-Hey there! My name is Shubham, my friends call me Gupto cause Bengali ¯\_(ツ)_/¯. I like shooting and editing photos. Doggos are fun.
+Hey there! My name is Shubham, my friends call me Gupto cause Bengali `¯\_(ツ)_/¯`. I like shooting and editing photos. Doggos are fun.
+
+**Name**: Pranav Kesavarapu  
+**SRN**: PES1201800299  
+**Link to Profile** : [psiayn](https://github.com/psiayn)  
+**About Me**:  
+Hi! My github name is psiayn (produced somewhat like cyan). Well I am a huge bleach fan. Love to lurk around in the internet looking for cool projects.
+
+**Name**: Shreeram Chandra  
+**SRN**: PES1201700364   
+**Link to Profile**: [Kodhandarama](https://github.com/Kodhandarama)  
+**About Me**:  
+Student Developer.  
+Wielder of the Kodhanda Bow.  
 
 [Continue adding your names here]
