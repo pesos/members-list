@@ -69,6 +69,12 @@ Hello! I'm Anant and I'm a coding enthusiast and trying to learn new things. cur
 **About Me**:  
 Hey there! I go by the handle SaqlainAI. I love to learn new things and usually hate to revisit them. The most introverted guy could meet. Working with data is what I love the most.
 
+**Name**: Vishalsagar Udupi    
+**SRN**: PES1201800534   
+**Link to Profile**: [techie0007](https://github.com/techie0007)    
+**About Me**:  
+Hey there, I'm vishal. I generally develop android apps, but otherwise I love gaming and watching movies. I love to play badminton and table tennis and the rest you'll know when we catch up.   
+
 **Name**: Bharath Bhambore  
 **SRN**: PES1201801948  
 **Link to Profile**: [BharathBhambore](https://github.com/BharathBhambore)  
@@ -106,4 +112,5 @@ Hello! I am Akhil. My github username is pretty straightforward which is "akhil-
 **Link to Profile**: [abhay-bharat](https://github.com/bharat)  
 **About Me**:    
 Hello people! My github username is abhay-bharat, I like giving out ideas and working in collaboration with 'experts'. For more information.....  
+
 [Continue adding your names here]
