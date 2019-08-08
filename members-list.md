@@ -116,12 +116,17 @@ Hi! My github name is psiayn (produced somewhat like cyan). Well I am a huge ble
 Student Developer.  
 Wielder of the Kodhanda Bow.  
 
+**Name**: Trivikram B Budhabhatti  
+**SRN**: PES1201800936  
+**Link to Profile**: [Trivikram-B](https://github.com/Trivikram-B)  
+**About Me**:  
+Hey there, I'm Trivikram, I like Photography, Exploring stuff, Drawing and Coding.
+
 **Name**: Akhil Eppa    
 **SRN**: PES1201802026  
 **Link to Profile**: [akhil-epppa](https://github.com/akhil-eppa)  
 **About Me**:  
 Hello! I am Akhil. My github username is pretty straightforward which is "akhil-eppa". I like automobiles and also a space enthusiast. I look forward to interacting with all of you here.
-
 
 **Name**: Abhay Pratap Singh   
 **SRN**: PES1201802019  
@@ -147,5 +152,4 @@ Hey! I go by the handle "The-Death-Reaper". A gamer at heart and an anime-freak 
 **About Me**:    
 Hi! My github username keshavbantu. Bantu is short for bantwal. I dig cybersecurity and linux. I do Malware/Computer Virus Analysis at times. I run arch btw xD.
 
-[Continue adding your names here]
 
