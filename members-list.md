@@ -33,4 +33,10 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 **About Me**:    
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
+**Name**: Akhil Eppa    
+**SRN**: PES1201802026  
+**Link to Profile**: [akhil-epppa](https://github.com/akhil-eppa)  
+**About Me**:
+Hello! I am Akhil. My github username is pretty straightforward which is "akhil-eppa". I like automobiles and also a space enthusiast. I look forward to interacting with all of you here.
+
 [Continue adding your names here]
