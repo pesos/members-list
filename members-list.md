@@ -14,16 +14,17 @@ Tell us something we don't know.
 ## The list
 
 [Add your details over here]
-**Name**: Bhargav SNV   
-**SRN**: PES1201800308   
-**Link to Profile**: [Gituser143](https://github.com/Gituser143)
+
+
+
+
+
+
+**Name**: Bhargav SNV  
+**SRN**: PES1201800308  
+**Link to Profile**: [Gituser143](https://github.com/Gituser143)  
 **About Me**:    
 Hey !! I'm Bhargav SNV, I'm a huge Sci-Fi lover and I'm mostly into the cyber security. No, I am not a hackerman (yet) and I will not fix your computer.
-
-
-
-
-
 
 **Name**: GBS AKHIL  
 **SRN**: PES1201800188  
@@ -31,10 +32,10 @@ Hey !! I'm Bhargav SNV, I'm a huge Sci-Fi lover and I'm mostly into the cyber se
 **About Me**:  
 Hi! I love watching anime stuff,TV series and also interested in coding small games like 2048 which i have done it in my 2nd semester as a project.   
 
-**Name**: Yukti Khosla 
+**Name**: Yukti Khosla  
 **SRN**: PES1201800427  
-**Link to Profile**: [Yukti-09](https://github.com/Yukti-09)
-**About Me**: 
+**Link to Profile**: [Yukti-09](https://github.com/Yukti-09)  
+**About Me**:  
 Hey! Full-time nerd and I take pride in that. I have a zeal for coding. Swimming and running make my day!
 
 **Name**: Atharva Raykar  
