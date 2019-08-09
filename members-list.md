@@ -180,6 +180,12 @@ Just another weeb here. I like playing chess.
 **About Me**:  
 Hello! I'm Siddhant. I like creepy history and creepy things in general. Some people call me 'chintu', you can guess why.
 
+**Name**: Varun P  
+**SRN**: PES1201800326  
+**Link to Profile**: [varunp2k](https://github.com/varunp2k)  
+**About Me**:  
+Hello there. I am Varun. Love the intersection between Machine Learning and Cyber Security not to mention exploit development too. CTF and hackathon enthusiast. Always in a dilema between Parrot or Kali .
+
 **Name**: Madhav Jivrajani  
 **SRN**: PES1201800028  
 **Link to Profile**: [MadhavJivrajani](https://github.com/MadhavJivrajani)  
