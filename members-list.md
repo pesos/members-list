@@ -164,6 +164,12 @@ You can call me Bum. :hatching_chick:
 **About Me**:    
 Hi! My github username keshavbantu. Bantu is short for bantwal. I dig cybersecurity and linux. I do Malware/Computer Virus Analysis at times. I run arch btw xD.
 
+**Name**: Shriprajwal Krishnamurthy    
+**SRN**: PES1201800348  
+**Link to Profile**: [TheDaemonLord](https://github.com/TheDaemonLord)  
+**About Me**:    
+Just another weeb here. I like playing chess.
+
 **Name**: Siddhant Rao  
 **SRN**: PES1201800313    
 **Link to Profile**: [siddhantrao23](https://github.com/siddhantrao23)    
@@ -174,8 +180,7 @@ Hello! I'm Siddhant. I like creepy history and creepy things in general. Some pe
 **SRN**: PES1201800028  
 **Link to Profile**: [MadhavJivrajani](https://github.com/MadhavJivrajani)  
 **About Me**:  
-Hey, I have real-estate in nimhans. 
-
+Hey, I have real-estate in nimhans.  
 If you put doggo in front of me, me cri. :dog: 
 
 **Name**: Karan Kumar G  
@@ -183,3 +188,10 @@ If you put doggo in front of me, me cri. :dog:
 **Link to Profile**: [Spielerr](https://github.com/Spielerr)    
 **About Me**:  
 Spielerr reporting for service. Love hacking problems and always ready to help out. Open sourcing with fellow like-minded peeps!? Count me in :)
+
+**Name**: Anirudh Murali  
+**SRN**: PES1201800131  
+**Link to Profile**: [anihm136](https://github.com/anihm136)  
+**About Me**:  
+Hey, I'm Anirudh. I'm a swimmer and an ex biology student. Sometimes I try to do computer stuff. Other times I type and pray. Also, I copied the first profile and made minor changes as required. I'm like that.
+(P.S - Don't bother checking out my github account, it's new. Just like me to open source contributions)
