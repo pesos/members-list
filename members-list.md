@@ -183,6 +183,12 @@ Hello! I'm Siddhant. I like creepy history and creepy things in general. Some pe
 Hey, I have real-estate in nimhans.  
 If you put doggo in front of me, me cri. :dog: 
 
+**Name**: Karan Kumar G  
+**SRN**: PES1201801883    
+**Link to Profile**: [Spielerr](https://github.com/Spielerr)    
+**About Me**:  
+Spielerr reporting for service. Love hacking problems and always ready to help out. Open sourcing with fellow like-minded peeps!? Count me in :)
+
 **Name**: Anirudh Murali  
 **SRN**: PES1201800131  
 **Link to Profile**: [anihm136](https://github.com/anihm136)  
