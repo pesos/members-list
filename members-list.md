@@ -228,3 +228,9 @@ Spielerr reporting for service. Love hacking problems and always ready to help o
 **About Me**:  
 Hey, I'm Anirudh. I'm a swimmer and an ex biology student. Sometimes I try to do computer stuff. Other times I type and pray. Also, I copied the first profile and made minor changes as required. I'm like that.
 (P.S - Don't bother checking out my github account, it's new. Just like me to open source contributions)
+
+**Name**: Karan Panjabi  
+**SRN**: PES1201701142  
+**Link to Profile**: [karanpanjabi](https://github.com/karanpanjabi)  
+**About Me**:  
+Sup chaps! Love to procrastinate and sleep... and sometimes code. ;]
