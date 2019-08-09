@@ -183,6 +183,12 @@ Hello! I'm Siddhant. I like creepy history and creepy things in general. Some pe
 Hey, I have real-estate in nimhans.  
 If you put doggo in front of me, me cri. :dog: 
 
+**Name**: Rithik Mali  
+**SRN**: PES1201800300  
+**Link to Profile**: [rithikmali](https://github.com/rithikmali)  
+**About Me**:  
+Hey! I'm Rithik. For some reason that I dont know, all my friends call me by my surname. And I have got used to it so much as to when someone calls me by my name, I sometimes forget to respond :P
+
 **Name**: Karan Kumar G  
 **SRN**: PES1201801883    
 **Link to Profile**: [Spielerr](https://github.com/Spielerr)    
