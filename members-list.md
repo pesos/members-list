@@ -13,12 +13,12 @@ Tell us something we don't know.
 
 ## The list
 
-[Add your details over here]
 
-
-
-
-
+**Name**: Vallabhaneni Dhanush  
+**SRN**: PES1201802041  
+**Link to Profile**: [Dhanush-05](https://github.com/Dhanush-05)  
+**About Me**:  
+Hey! Anime geek, football enthusiast and conversationalist. This is my first time using Github and I will admit that it is slighlty overwhelming and exciting !
 
 **Name**: Bhargav SNV  
 **SRN**: PES1201800308  
