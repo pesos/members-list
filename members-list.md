@@ -128,6 +128,12 @@ Hey there, I'm Trivikram, I like Photography, Exploring stuff, Drawing and Codin
 **About Me**:  
 Hello! I am Akhil. My github username is pretty straightforward which is "akhil-eppa". I like automobiles and also a space enthusiast. I look forward to interacting with all of you here.
 
+**Name**: Ishitha Agarwal   
+**SRN**: PES1201800181  
+**Link to Profile**: [ishi20](https://github.com/ishi20)  
+**About Me**:    
+Hi! I am Ishitha and my user name is ishi20. Love to try out new things but have a problem with continuing with them. Love reading books and also love dogs.
+
 **Name**: Abhay Pratap Singh   
 **SRN**: PES1201802019  
 **Link to Profile**: [abhay-bharat](https://github.com/bharat)  
@@ -164,4 +170,15 @@ Hi! My github username keshavbantu. Bantu is short for bantwal. I dig cybersecur
 **About Me**:    
 Just another weeb here. I like playing chess.
 
+**Name**: Siddhant Rao  
+**SRN**: PES1201800313    
+**Link to Profile**: [siddhantrao23](https://github.com/siddhantrao23)    
+**About Me**:  
+Hello! I'm Siddhant. I like creepy history and creepy things in general. Some people call me 'chintu', you can guess why.
 
+**Name**: Madhav Jivrajani  
+**SRN**: PES1201800028  
+**Link to Profile**: [MadhavJivrajani](https://github.com/MadhavJivrajani)  
+**About Me**:  
+Hey, I have real-estate in nimhans.  
+If you put doggo in front of me, me cri. :dog: 
