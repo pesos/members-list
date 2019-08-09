@@ -71,7 +71,7 @@ Hey! My GitHub username is vishwas36, Love "Friends". Peace✌️
 
 **Name**:  Raghav Roy  
 **SRN**:  PES1201800342  
-**Link to Profile**:  [RaghavRoy145]((https://github.com/RaghavRoy145)  
+**Link to Profile**:  [RaghavRoy145](https://github.com/RaghavRoy145)  
 **About Me**:  
 Hey! I'm Raghav, and I'm supremely lazy, and this does not help the fact that literally EVERYTHING interests me, so I never stop talking. I'm so sorry. I love my cats to death and I read everything that isn't course material. My extremely imaginative profile name should be enough to speak volumes about me.   
 
