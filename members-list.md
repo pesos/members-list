@@ -164,6 +164,12 @@ You can call me Bum. :hatching_chick:
 **About Me**:    
 Hi! My github username keshavbantu. Bantu is short for bantwal. I dig cybersecurity and linux. I do Malware/Computer Virus Analysis at times. I run arch btw xD.
 
+**Name**: Shriprajwal Krishnamurthy    
+**SRN**: PES1201800348  
+**Link to Profile**: [TheDaemonLord](https://github.com/TheDaemonLord)  
+**About Me**:    
+Just another weeb here. I like playing chess.
+
 **Name**: Siddhant Rao  
 **SRN**: PES1201800313    
 **Link to Profile**: [siddhantrao23](https://github.com/siddhantrao23)    
@@ -174,6 +180,5 @@ Hello! I'm Siddhant. I like creepy history and creepy things in general. Some pe
 **SRN**: PES1201800028  
 **Link to Profile**: [MadhavJivrajani](https://github.com/MadhavJivrajani)  
 **About Me**:  
-Hey, I have real-estate in nimhans. 
-
+Hey, I have real-estate in nimhans.  
 If you put doggo in front of me, me cri. :dog: 
