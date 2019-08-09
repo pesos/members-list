@@ -15,12 +15,24 @@ Tell us something we don't know.
 
 [Add your details over here]
 
+
+
+
+
+
+
+
 **Name**: GBS AKHIL  
 **SRN**: PES1201800188  
 **Link to Profile**: [akhil19845](https://github.com/akhil19845)  
 **About Me**:  
-Hi! I love watching anime stuff,TV series and also interested in coding small games like 2048 which i have done it in my 2nd semester as   a project.   
+Hi! I love watching anime stuff,TV series and also interested in coding small games like 2048 which i have done it in my 2nd semester as a project.   
 
+**Name**: Yukti Khosla 
+**SRN**: PES1201800427  
+**Link to Profile**: [Yukti-09](https://github.com/Yukti-09)
+**About Me**: 
+Hey! Full-time nerd and I take pride in that. I have a zeal for coding. Swimming and running make my day!
 
 **Name**: Atharva Raykar  
 **SRN**: PES1201800101  
@@ -169,16 +181,46 @@ You can call me Bum. :hatching_chick:
 **About Me**:    
 Hi! My github username keshavbantu. Bantu is short for bantwal. I dig cybersecurity and linux. I do Malware/Computer Virus Analysis at times. I run arch btw xD.
 
+**Name**: Shriprajwal Krishnamurthy    
+**SRN**: PES1201800348  
+**Link to Profile**: [TheDaemonLord](https://github.com/TheDaemonLord)  
+**About Me**:    
+Just another weeb here. I like playing chess.
+
 **Name**: Siddhant Rao  
 **SRN**: PES1201800313    
 **Link to Profile**: [siddhantrao23](https://github.com/siddhantrao23)    
 **About Me**:  
 Hello! I'm Siddhant. I like creepy history and creepy things in general. Some people call me 'chintu', you can guess why.
 
+**Name**: Varun P  
+**SRN**: PES1201800326  
+**Link to Profile**: [varunp2k](https://github.com/varunp2k)  
+**About Me**:  
+Hello there. I am Varun. Love the intersection between Machine Learning and Cyber Security not to mention exploit development too. CTF and hackathon enthusiast. Always in a dilema between Parrot or Kali .
+
 **Name**: Madhav Jivrajani  
 **SRN**: PES1201800028  
 **Link to Profile**: [MadhavJivrajani](https://github.com/MadhavJivrajani)  
 **About Me**:  
-Hey, I have real-estate in nimhans. 
-
+Hey, I have real-estate in nimhans.  
 If you put doggo in front of me, me cri. :dog: 
+
+**Name**: Rithik Mali  
+**SRN**: PES1201800300  
+**Link to Profile**: [rithikmali](https://github.com/rithikmali)  
+**About Me**:  
+Hey! I'm Rithik. For some reason that I dont know, all my friends call me by my surname. And I have got used to it so much as to when someone calls me by my name, I sometimes forget to respond :P
+
+**Name**: Karan Kumar G  
+**SRN**: PES1201801883    
+**Link to Profile**: [Spielerr](https://github.com/Spielerr)    
+**About Me**:  
+Spielerr reporting for service. Love hacking problems and always ready to help out. Open sourcing with fellow like-minded peeps!? Count me in :)
+
+**Name**: Anirudh Murali  
+**SRN**: PES1201800131  
+**Link to Profile**: [anihm136](https://github.com/anihm136)  
+**About Me**:  
+Hey, I'm Anirudh. I'm a swimmer and an ex biology student. Sometimes I try to do computer stuff. Other times I type and pray. Also, I copied the first profile and made minor changes as required. I'm like that.
+(P.S - Don't bother checking out my github account, it's new. Just like me to open source contributions)
