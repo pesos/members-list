@@ -182,3 +182,10 @@ Hello! I'm Siddhant. I like creepy history and creepy things in general. Some pe
 **About Me**:  
 Hey, I have real-estate in nimhans.  
 If you put doggo in front of me, me cri. :dog: 
+
+**Name**: Anirudh Murali  
+**SRN**: PES1201800131  
+**Link to Profile**: [anihm136](https://github.com/anihm136)  
+**About Me**:  
+Hey, I'm Anirudh. I'm a swimmer and an ex biology student. Sometimes I try to do computer stuff. Other times I type and pray. Also, I copied the first profile and made minor changes as required. I'm like that.
+(P.S - Don't bother checking out my github account, it's new. Just like me to open source contributions)
