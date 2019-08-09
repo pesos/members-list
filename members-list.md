@@ -15,7 +15,11 @@ Tell us something we don't know.
 
 [Add your details over here]
 
-
+**Name**: Yukti Khosla 
+**SRN**: PES1201800427  
+**Link to Profile**: [Yukti-09](https://github.com/Yukti-09)
+**About Me**: 
+Hey! Full-time nerd and I take pride in that. I have a zeal for coding. Swimming and running make my day!
 
 **Name**: Atharva Raykar  
 **SRN**: PES1201800101  
