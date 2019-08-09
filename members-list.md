@@ -15,11 +15,11 @@ Tell us something we don't know.
 
 [Add your details over here]
 
-**Name**: GBS AKHIL
-**SRN**: PES1201800188
-**Link to Profile**: [akhil19845](https://github.com/akhil19845)
-**About Me**:
-Hi! I love watching anime stuff,TV series and also interested in coding small games like 2048 which i have done it in my 2nd semester as a project. 
+**Name**: GBS AKHIL  
+**SRN**: PES1201800188  
+**Link to Profile**: [akhil19845](https://github.com/akhil19845)  
+**About Me**:  
+Hi! I love watching anime stuff,TV series and also interested in coding small games like 2048 which i have done it in my 2nd semester as   a project.   
 
 
 **Name**: Atharva Raykar  
