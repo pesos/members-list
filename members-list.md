@@ -15,11 +15,11 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
-
-
-
-
-
+**Name**: Ashish Shenoy  
+**SRN**: PES1201801447  
+**Link to Profile**: [AshishShenoy](https://github.com/AshishShenoy)  
+**About Me**:  
+Well, hello there! I'm a movie aficionado, football fan, PC gamer, and an open source enthusiast rolled into one giant ball of 'I need to do something worthwile with my time.'. So here I am, reporting for duty.
 
 **Name**: Vallabhaneni Dhanush  
 **SRN**: PES1201802041  
