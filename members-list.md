@@ -248,3 +248,8 @@ Hey!! I am Sparsh. ***"I am happy/looking forward to be in PESOS"***
 **About Me**:  
 Sup chaps! Love to procrastinate and sleep... and sometimes code. ;]
 
+**Name**: Tarun Gupta J  
+**SRN**: PES1201800073    
+**Link to Profile**: [TarunGuptaJ](https://github.com/TarunGuptaJ)    
+**About Me**:  
+Hey, I'm Tarun. I play cricket and enjoy talking to new people. Love taking part in hackathons and solving logical problems.
