@@ -248,3 +248,8 @@ Hey!! I am Sparsh. ***"I am happy/looking forward to be in PESOS"***
 **About Me**:  
 Sup chaps! Love to procrastinate and sleep... and sometimes code. ;]
 
+**Name**: Ish Bosamiya  
+**SRN**: PES1201801608  
+**Link to Profile**: [ishbosamiya](https://github.com/ishbosamiya)  
+**About Me**:  
+Hey, I'm Ish! I have an addiction to Computer Graphics, extremely passionate about Blender. Follow me on twitter [@ishbosamiya](https://twitter.com/ishbosamiya).
