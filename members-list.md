@@ -253,3 +253,10 @@ Sup chaps! Love to procrastinate and sleep... and sometimes code. ;]
 **Link to Profile**: [ishbosamiya](https://github.com/ishbosamiya)  
 **About Me**:  
 Hey, I'm Ish! I have an addiction to Computer Graphics, extremely passionate about Blender. Follow me on twitter [@ishbosamiya](https://twitter.com/ishbosamiya).
+
+**Name**: Tarun Gupta J  
+**SRN**: PES1201800073    
+**Link to Profile**: [TarunGuptaJ](https://github.com/TarunGuptaJ)    
+**About Me**:  
+Hey, I'm Tarun. I play cricket and enjoy talking to new people. Love taking part in hackathons and solving logical problems.
+
