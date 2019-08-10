@@ -13,12 +13,19 @@ Tell us something we don't know.
 
 ## The list
 
+[Add your details over here] `← Don't remove this line`
+
+
+
+
+
+
 
 **Name**: Vallabhaneni Dhanush  
 **SRN**: PES1201802041  
 **Link to Profile**: [Dhanush-05](https://github.com/Dhanush-05)  
 **About Me**:  
-Hey! Anime geek, football enthusiast and conversationalist. This is my first time using Github and I will admit that it is slighlty overwhelming and exciting !
+Hey! Anime geek, football enthusiast and conversationalist. This is my first time using Github and I will admit that it is slighty overwhelming and exciting!
 
 **Name**: Bhargav SNV  
 **SRN**: PES1201800308  
@@ -228,3 +235,16 @@ Spielerr reporting for service. Love hacking problems and always ready to help o
 **About Me**:  
 Hey, I'm Anirudh. I'm a swimmer and an ex biology student. Sometimes I try to do computer stuff. Other times I type and pray. Also, I copied the first profile and made minor changes as required. I'm like that.
 (P.S - Don't bother checking out my github account, it's new. Just like me to open source contributions)
+
+**Name**: Sparsh Temani  
+**SRN**: PES1201800284  
+**Link to Profile**: [SparshTemani](https://github.com/SparshTemani)  
+**About Me**:    
+Hey!! I am Sparsh. ***"I am happy/looking forward to be in PESOS"***
+
+**Name**: Karan Panjabi  
+**SRN**: PES1201701142  
+**Link to Profile**: [karanpanjabi](https://github.com/karanpanjabi)  
+**About Me**:  
+Sup chaps! Love to procrastinate and sleep... and sometimes code. ;]
+
