@@ -228,3 +228,10 @@ Spielerr reporting for service. Love hacking problems and always ready to help o
 **About Me**:  
 Hey, I'm Anirudh. I'm a swimmer and an ex biology student. Sometimes I try to do computer stuff. Other times I type and pray. Also, I copied the first profile and made minor changes as required. I'm like that.
 (P.S - Don't bother checking out my github account, it's new. Just like me to open source contributions)
+
+
+**Name**: Sparsh Temani  
+**SRN**: PES1201800284  
+**Link to Profile**: [SparshTemani](https://github.com/SparshTemani)  
+**About Me**:    
+Hey!! I am Sparsh. ***"I am happy/looking forward to be in PESOS"***
