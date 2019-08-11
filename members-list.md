@@ -19,6 +19,12 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**: K.Nidarshan  
+**SRN**: PES1201800244
+**Link to Profile**: [Heisenberg-15](https://github.com/Heisenberg-15)
+**About Me**:
+Hey! Iam a passionate problem solver who is relatively new to opensource. I like to code ,watch tv shows and learn new stuff. Looking forward to work with you all!
+
 **Name**: Chethan B R  
 **SRN**: PES1201801497    
 **Link to Profile**: [Chethan64](https://github.com/Chethan64)     
