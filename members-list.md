@@ -270,9 +270,14 @@ Hey, I'm Ish! I have an addiction to Computer Graphics, extremely passionate abo
 **About Me**:  
 Hey, I'm Tarun. I play cricket and enjoy talking to new people. Love taking part in hackathons and solving logical problems.
 
+**Name**: Bharath V    
+**SRN**: PES1201802045   
+**Link to Profile**: [bharath2001](https://github.com/bharath2001)  
+**About Me**:  
+Hey!! I'm Bharath. I love reading novels, playing basketball and hanging out with friends. I like working on cloud computing, machine learning and network security. 
+
 **Name**: Shreya Prabhu  
 **SRN**: PES1201800128  
 **Link to Profile**:[shreyapr6](https://github.com/shreyapr6)  
 **About Me**:  
 Hi, I'm Shreya. I spend my spare time reading or cooking. Always eager to learn something new.
-
