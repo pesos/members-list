@@ -19,6 +19,12 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**: Chethan B R  
+**SRN**: PES1201801497    
+**Link to Profile**: [Chethan64](https://github.com/Chethan64)     
+**About Me**:  
+Heyyy! I'm Chethan! I binge watch TV shows, PC gamer, sports fanatic, like to code and solve problems - be it 1+1=.. or a BST. And also yeah, I'm a night-owl, I can pull off 7 all nighters in a week! Accio PESOS!  
+
 **Name**: Ashish Shenoy  
 **SRN**: PES1201801447  
 **Link to Profile**: [AshishShenoy](https://github.com/AshishShenoy)  
