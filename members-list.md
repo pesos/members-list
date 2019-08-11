@@ -246,6 +246,12 @@ Spielerr reporting for service. Love hacking problems and always ready to help o
 Hey, I'm Anirudh. I'm a swimmer and an ex biology student. Sometimes I try to do computer stuff. Other times I type and pray. Also, I copied the first profile and made minor changes as required. I'm like that.
 (P.S - Don't bother checking out my github account, it's new. Just like me to open source contributions)
 
+**Name**:  Darshan D  
+**SRN**:  PES1201801456  
+**Link to Profile**: [darshand15](https://github.com/darshand15)  
+**About Me**:  
+Hello!! I'm Darshan, an enthusiastic coder, eager to learn and try out new things. Looking forward to working with like-minded people.
+
 **Name**: Sparsh Temani  
 **SRN**: PES1201800284  
 **Link to Profile**: [SparshTemani](https://github.com/SparshTemani)  
