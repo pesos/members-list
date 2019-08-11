@@ -11,19 +11,37 @@ This isn't a flexing contest.
 Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS".
 Tell us something we don't know.
 
+---
+**Do not modify anything above this line** ^
+
+
 ## The list
 
-[Add your details over here]
-**Name**: Bhargav SNV   
-**SRN**: PES1201800308   
-**Link to Profile**: [Gituser143](https://github.com/Gituser143)
+[Add your details over here] `← Don't remove this line`
+
+**Name**: Chethan B R  
+**SRN**: PES1201801497    
+**Link to Profile**: [Chethan64](https://github.com/Chethan64)     
+**About Me**:  
+Heyyy! I'm Chethan! I binge watch TV shows, PC gamer, sports fanatic, like to code and solve problems - be it 1+1=.. or a BST. And also yeah, I'm a night-owl, I can pull off 7 all nighters in a week! Accio PESOS!  
+
+**Name**: Ashish Shenoy  
+**SRN**: PES1201801447  
+**Link to Profile**: [AshishShenoy](https://github.com/AshishShenoy)  
+**About Me**:  
+Well, hello there! I'm a movie aficionado, football fan, PC gamer, and an open source enthusiast rolled into one giant ball of 'I need to do something worthwile with my time.'. So here I am, reporting for duty.
+
+**Name**: Vallabhaneni Dhanush  
+**SRN**: PES1201802041  
+**Link to Profile**: [Dhanush-05](https://github.com/Dhanush-05)  
+**About Me**:  
+Hey! Anime geek, football enthusiast and conversationalist. This is my first time using Github and I will admit that it is slighty overwhelming and exciting!
+
+**Name**: Bhargav SNV  
+**SRN**: PES1201800308  
+**Link to Profile**: [Gituser143](https://github.com/Gituser143)  
 **About Me**:    
 Hey !! I'm Bhargav SNV, I'm a huge Sci-Fi lover and I'm mostly into the cyber security. No, I am not a hackerman (yet) and I will not fix your computer.
-
-
-
-
-
 
 **Name**: GBS AKHIL  
 **SRN**: PES1201800188  
@@ -31,10 +49,10 @@ Hey !! I'm Bhargav SNV, I'm a huge Sci-Fi lover and I'm mostly into the cyber se
 **About Me**:  
 Hi! I love watching anime stuff,TV series and also interested in coding small games like 2048 which i have done it in my 2nd semester as a project.   
 
-**Name**: Yukti Khosla 
+**Name**: Yukti Khosla  
 **SRN**: PES1201800427  
-**Link to Profile**: [Yukti-09](https://github.com/Yukti-09)
-**About Me**: 
+**Link to Profile**: [Yukti-09](https://github.com/Yukti-09)  
+**About Me**:  
 Hey! Full-time nerd and I take pride in that. I have a zeal for coding. Swimming and running make my day!
 
 **Name**: Atharva Raykar  
@@ -71,7 +89,7 @@ Hey! My GitHub username is vishwas36, Love "Friends". Peace✌️
 
 **Name**:  Raghav Roy  
 **SRN**:  PES1201800342  
-**Link to Profile**:  [RaghavRoy145]((https://github.com/RaghavRoy145)  
+**Link to Profile**:  [RaghavRoy145](https://github.com/RaghavRoy145)  
 **About Me**:  
 Hey! I'm Raghav, and I'm supremely lazy, and this does not help the fact that literally EVERYTHING interests me, so I never stop talking. I'm so sorry. I love my cats to death and I read everything that isn't course material. My extremely imaginative profile name should be enough to speak volumes about me.   
 
@@ -233,3 +251,39 @@ Hey, I'm Anirudh. I'm a swimmer and an ex biology student. Sometimes I try to do
 **Link to Profile**: [darshand15](https://github.com/darshand15)  
 **About Me**:  
 Hello!! I'm Darshan, an enthusiastic coder, eager to learn and try out new things. Looking forward to working with like-minded people.
+
+**Name**: Sparsh Temani  
+**SRN**: PES1201800284  
+**Link to Profile**: [SparshTemani](https://github.com/SparshTemani)  
+**About Me**:    
+Hey!! I am Sparsh. ***"I am happy/looking forward to be in PESOS"***
+
+**Name**: Karan Panjabi  
+**SRN**: PES1201701142  
+**Link to Profile**: [karanpanjabi](https://github.com/karanpanjabi)  
+**About Me**:  
+Sup chaps! Love to procrastinate and sleep... and sometimes code. ;]
+
+**Name**: Ish Bosamiya  
+**SRN**: PES1201801608  
+**Link to Profile**: [ishbosamiya](https://github.com/ishbosamiya)  
+**About Me**:  
+Hey, I'm Ish! I have an addiction to Computer Graphics, extremely passionate about Blender. Follow me on twitter [@ishbosamiya](https://twitter.com/ishbosamiya).
+
+**Name**: Tarun Gupta J  
+**SRN**: PES1201800073    
+**Link to Profile**: [TarunGuptaJ](https://github.com/TarunGuptaJ)    
+**About Me**:  
+Hey, I'm Tarun. I play cricket and enjoy talking to new people. Love taking part in hackathons and solving logical problems.
+
+**Name**: Bharath V    
+**SRN**: PES1201802045   
+**Link to Profile**: [bharath2001](https://github.com/bharath2001)  
+**About Me**:  
+Hey!! I'm Bharath. I love reading novels, playing basketball and hanging out with friends. I like working on cloud computing, machine learning and network security. 
+
+**Name**: Shreya Prabhu  
+**SRN**: PES1201800128  
+**Link to Profile**:[shreyapr6](https://github.com/shreyapr6)  
+**About Me**:  
+Hi, I'm Shreya. I spend my spare time reading or cooking. Always eager to learn something new.

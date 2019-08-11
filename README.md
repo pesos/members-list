@@ -28,6 +28,10 @@ This is proof that you are a member of PES Open Source and **this requirement is
 
 > ![Submitting PR](/images/createpr2.png)
 
+- **VERY IMPORTANT: Please join our Slack Channel after doing the above.**  
+Also download the Slack app and set the notification settings to “All new messages”.  
+**Do not forget to do this or else you will miss out on all our important updates!!!**
+
 ---
 
 That's it! Now all you have to do is wait for us to merge your Pull Request, and you will have your name added.
