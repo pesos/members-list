@@ -11,19 +11,37 @@ This isn't a flexing contest.
 Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS".
 Tell us something we don't know.
 
+---
+**Do not modify anything above this line** ^
+
+
 ## The list
 
-[Add your details over here]
-**Name**: Bhargav SNV   
-**SRN**: PES1201800308   
-**Link to Profile**: [Gituser143](https://github.com/Gituser143)
+[Add your details over here] `← Don't remove this line`
+
+**Name**: Chethan B R  
+**SRN**: PES1201801497    
+**Link to Profile**: [Chethan64](https://github.com/Chethan64)     
+**About Me**:  
+Heyyy! I'm Chethan! I binge watch TV shows, PC gamer, sports fanatic, like to code and solve problems - be it 1+1=.. or a BST. And also yeah, I'm a night-owl, I can pull off 7 all nighters in a week! Accio PESOS!  
+
+**Name**: Ashish Shenoy  
+**SRN**: PES1201801447  
+**Link to Profile**: [AshishShenoy](https://github.com/AshishShenoy)  
+**About Me**:  
+Well, hello there! I'm a movie aficionado, football fan, PC gamer, and an open source enthusiast rolled into one giant ball of 'I need to do something worthwile with my time.'. So here I am, reporting for duty.
+
+**Name**: Vallabhaneni Dhanush  
+**SRN**: PES1201802041  
+**Link to Profile**: [Dhanush-05](https://github.com/Dhanush-05)  
+**About Me**:  
+Hey! Anime geek, football enthusiast and conversationalist. This is my first time using Github and I will admit that it is slighty overwhelming and exciting!
+
+**Name**: Bhargav SNV  
+**SRN**: PES1201800308  
+**Link to Profile**: [Gituser143](https://github.com/Gituser143)  
 **About Me**:    
 Hey !! I'm Bhargav SNV, I'm a huge Sci-Fi lover and I'm mostly into the cyber security. No, I am not a hackerman (yet) and I will not fix your computer.
-
-
-
-
-
 
 **Name**: GBS AKHIL  
 **SRN**: PES1201800188  
@@ -31,10 +49,10 @@ Hey !! I'm Bhargav SNV, I'm a huge Sci-Fi lover and I'm mostly into the cyber se
 **About Me**:  
 Hi! I love watching anime stuff,TV series and also interested in coding small games like 2048 which i have done it in my 2nd semester as a project.   
 
-**Name**: Yukti Khosla 
+**Name**: Yukti Khosla  
 **SRN**: PES1201800427  
-**Link to Profile**: [Yukti-09](https://github.com/Yukti-09)
-**About Me**: 
+**Link to Profile**: [Yukti-09](https://github.com/Yukti-09)  
+**About Me**:  
 Hey! Full-time nerd and I take pride in that. I have a zeal for coding. Swimming and running make my day!
 
 **Name**: Atharva Raykar  
@@ -71,7 +89,7 @@ Hey! My GitHub username is vishwas36, Love "Friends". Peace✌️
 
 **Name**:  Raghav Roy  
 **SRN**:  PES1201800342  
-**Link to Profile**:  [RaghavRoy145]((https://github.com/RaghavRoy145)  
+**Link to Profile**:  [RaghavRoy145](https://github.com/RaghavRoy145)  
 **About Me**:  
 Hey! I'm Raghav, and I'm supremely lazy, and this does not help the fact that literally EVERYTHING interests me, so I never stop talking. I'm so sorry. I love my cats to death and I read everything that isn't course material. My extremely imaginative profile name should be enough to speak volumes about me.   
 
@@ -227,9 +245,3 @@ Spielerr reporting for service. Love hacking problems and always ready to help o
 **About Me**:  
 Hey, I'm Anirudh. I'm a swimmer and an ex biology student. Sometimes I try to do computer stuff. Other times I type and pray. Also, I copied the first profile and made minor changes as required. I'm like that.
 (P.S - Don't bother checking out my github account, it's new. Just like me to open source contributions)
-
-**Name**: Rishit Chaudhary  
-**SRN**: PES1201800316  
-**Link to Profile**: [rishitc](https://github.com/rishitc)  
-**About Me**:  
-Hello everyone! I'm Rishit. Firstly a shoutout to all the racing fans in the group (if any lol). I love doing the same thing over and over, but with fresh challenges always coming in. Thinking about it, that kind of explains why I'm looking forward to racing around the Circuit de la Sarthe online for 24 hours straight.  
