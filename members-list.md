@@ -287,3 +287,10 @@ Hey!! I'm Bharath. I love reading novels, playing basketball and hanging out wit
 **Link to Profile**:[shreyapr6](https://github.com/shreyapr6)  
 **About Me**:  
 Hi, I'm Shreya. I spend my spare time reading or cooking. Always eager to learn something new.
+
+**Name**: Rishit Chaudhary  
+**SRN**: PES1201800316  
+**Link to Profile**: [rishitc](https://github.com/rishitc)  
+**About Me**:  
+Hello everyone! I'm Rishit. Firstly a shoutout to all the racing fans in the group (if any lol). I love doing the same thing over and over, but with fresh challenges always coming in. Thinking about it, that kind of explains why I'm looking forward to racing around the Circuit de la Sarthe online for 24 hours straight.  
+
