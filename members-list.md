@@ -229,7 +229,7 @@ Hey, I'm Anirudh. I'm a swimmer and an ex biology student. Sometimes I try to do
 (P.S - Don't bother checking out my github account, it's new. Just like me to open source contributions)
 
 **Name**: Rishit Chaudhary  
-**SRN**: PES1201800316
+**SRN**: PES1201800316  
 **Link to Profile**: [rishitc](https://github.com/rishitc)  
 **About Me**:  
-Hello everyone! I'm Rishit. Firstly a shoutout to all the racing fans in the group (if any lol). I love doing the same thing over and over, but with fresh challenges always coming in. Thinking about it, that kind of explains why I'm looking forward to racing around the Circuit de la Sarthe online for 24 hours straight. 
+Hello everyone! I'm Rishit. Firstly a shoutout to all the racing fans in the group (if any lol). I love doing the same thing over and over, but with fresh challenges always coming in. Thinking about it, that kind of explains why I'm looking forward to racing around the Circuit de la Sarthe online for 24 hours straight.  
