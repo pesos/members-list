@@ -3,9 +3,9 @@
 ## Format
 > Please adhere to this format when adding your name to this list  
 > **Name**:     
-**SRN**: 
-**Link to Profile**: [UserName]  (https://github.com/[UserName])
-**About Me**: 
+>**SRN**: 
+>**Link to Profile**: [UserName]  (https://github.com/[UserName])
+>**About Me**: 
 Write a short, fun description about yourself. Don't overthink it and please be genuine and light-hearted.
 This isn't a flexing contest.
 Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS".
