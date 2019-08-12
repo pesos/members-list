@@ -2,7 +2,7 @@
 
 ## Format
 > Please adhere to this format when adding your name to this list  
-> **Name**:     
+>**Name**:  
 >**SRN**: 
 >**Link to Profile**: [UserName]  (https://github.com/[UserName])
 >**About Me**: 
