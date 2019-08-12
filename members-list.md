@@ -2,10 +2,11 @@
 
 ## Format
 > Please adhere to this format when adding your name to this list  
-> **Name**: [Your Full Name Here]  `<-- Don't forget to add two spaces here`  
-**SRN**: [SRN]  `<-- Don't forget to add two spaces here`  
-**Link to Profile**: `[name](https://github.com/[PROFILENAME])`  `<-- Don't forget to add two spaces here`  
-**About Me**:  `<-- Don't forget to add two spaces here`  
+> **Name**: Samhita Irrinki    
+**SRN**: PES1201800394
+**Link to Profile**: [Samhita25]  (https://github.com/Samhita25)
+**About Me**:  Hey, Samhita here! Really looking forward to having fun with PESOS xD
+I'm mostly a beginner but really excited and keen on learning more. One hundered percent an extrovert and always excited to interact and throw ideas! 
 Write a short, fun description about yourself. Don't overthink it and please be genuine and light-hearted.
 This isn't a flexing contest.
 Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS".
