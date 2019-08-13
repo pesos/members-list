@@ -311,3 +311,9 @@ Hello everyone! I'm Rishit. Firstly a shoutout to all the racing fans in the gro
 **Link to Profile**: [RakshithJayanth](https://github.com/RakshithJayanth)  
 **About Me**:    
 Hi there! My name is Rakshith ayanth. I love badminton. I like watching devotional movies.
+
+**Name**: Samyak S Sarnayak  
+**SRN**: PES1201801565  
+**Link to Profile**: [Samyak2](https://github.com/Samyak2)    
+**About Me**:   
+Hi, I'm Samyak. I am interested in Machine Learning, Deep Learning and Neural Networks (I also like coding in general). In my free time I play games and watch movies and anime. My GitHub profile name is Samyak2 because Samyak was taken. 
