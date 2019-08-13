@@ -19,11 +19,23 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**: K.Nidarshan      
+**SRN**: PES1201800244  
+**Link to Profile**: [Heisenberg-15](https://github.com/Heisenberg-15)  
+**About Me**:  
+Hey! Iam a passionate problem solver who is relatively new to opensource. I like to code ,watch tv shows and learn new stuff. Looking forward to work with you all!
+
 **Name**: Chethan B R  
 **SRN**: PES1201801497    
 **Link to Profile**: [Chethan64](https://github.com/Chethan64)     
 **About Me**:  
 Heyyy! I'm Chethan! I binge watch TV shows, PC gamer, sports fanatic, like to code and solve problems - be it 1+1=.. or a BST. And also yeah, I'm a night-owl, I can pull off 7 all nighters in a week! Accio PESOS!  
+
+**Name**: Mugdha Pattnaik  
+**SRN**: PES1201800058    
+**Link to Profile**: [mugdhapattnaik](https://github.com/mugdhapattnaik)    
+**About Me**:  
+Hi!! I got bored and went to nimhans to buy real estate. I specialise in extraordinarily stupid things and hence will almost always be laughing at everything. Also I melt when I see animals :heart_eyes:
 
 **Name**: Ashish Shenoy  
 **SRN**: PES1201801447  
@@ -294,3 +306,8 @@ Hi, I'm Shreya. I spend my spare time reading or cooking. Always eager to learn 
 **About Me**:  
 Hello everyone! I'm Rishit. Firstly a shoutout to all the racing fans in the group (if any lol). I love doing the same thing over and over, but with fresh challenges always coming in. Thinking about it, that kind of explains why I'm looking forward to racing around the Circuit de la Sarthe online for 24 hours straight :red_car:.  
 
+**Name**: Rakshith Jayanth   
+**SRN**: PES1201800273
+**Link to Profile**: [RakshithJayanth](https://github.com/RakshithJayanth)  
+**About Me**:    
+Hi there! My name is Rakshith ayanth. I love badminton. I like watching devotional movies.
