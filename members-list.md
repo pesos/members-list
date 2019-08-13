@@ -31,6 +31,12 @@ Hey! Iam a passionate problem solver who is relatively new to opensource. I like
 **About Me**:  
 Heyyy! I'm Chethan! I binge watch TV shows, PC gamer, sports fanatic, like to code and solve problems - be it 1+1=.. or a BST. And also yeah, I'm a night-owl, I can pull off 7 all nighters in a week! Accio PESOS!  
 
+**Name**: Mugdha Pattnaik  
+**SRN**: PES1201800058    
+**Link to Profile**: [mugdhapattnaik](https://github.com/mugdhapattnaik)    
+**About Me**:  
+Hi!! I got bored and went to nimhans to buy real estate. I specialise in extraordinarily stupid things and hence will almost always be laughing at everything. Also I melt when I see animals :heart_eyes:
+
 **Name**: Ashish Shenoy  
 **SRN**: PES1201801447  
 **Link to Profile**: [AshishShenoy](https://github.com/AshishShenoy)  
