@@ -311,3 +311,9 @@ Hello everyone! I'm Rishit. Firstly a shoutout to all the racing fans in the gro
 **Link to Profile**: [RakshithJayanth](https://github.com/RakshithJayanth)  
 **About Me**:    
 Hi there! My name is Rakshith ayanth. I love badminton. I like watching devotional movies.
+
+**Name**: Shivani Bisht      
+**SRN**: PES1201800270  
+**Link to Profile**: [BishtShivani](https://github.com/BishtShivani)  
+**About Me**:  
+Hey? My last attempt at watching an early monday morning movie before college reopened was a fail and I still cry about it at night. TMI?
