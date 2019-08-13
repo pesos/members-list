@@ -293,3 +293,9 @@ Hey!! I'm Bharath. I love reading novels, playing basketball and hanging out wit
 **Link to Profile**:[shreyapr6](https://github.com/shreyapr6)  
 **About Me**:  
 Hi, I'm Shreya. I spend my spare time reading or cooking. Always eager to learn something new.
+
+**Name**: Rakshith Jayanth   
+**SRN**: PES1201800273
+**Link to Profile**: [RakshithJayanth](https://github.com/RakshithJayanth)  
+**About Me**:    
+Hi there! My name is Rakshith ayanth. I love badminton. I like watching devotional movies.
