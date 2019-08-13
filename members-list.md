@@ -311,3 +311,9 @@ Hello everyone! I'm Rishit. Firstly a shoutout to all the racing fans in the gro
 **Link to Profile**: [RakshithJayanth](https://github.com/RakshithJayanth)  
 **About Me**:    
 Hi there! My name is Rakshith ayanth. I love badminton. I like watching devotional movies.
+
+**Name**: Prithvi Manoj Krishna  
+**SRN**: PES1201700142    
+**Link to Profile**: [pmk21](https://github.com/pmk21)  
+**About Me**:  
+Hey guys, I'm Prithvi. I am a Machine Learning and Deep Learning enthusiast and love working on open source projects. Eager to work on something here. Always love learning. If you have any cool or interesting projects, hit me up!
