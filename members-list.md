@@ -311,3 +311,9 @@ Hello everyone! I'm Rishit. Firstly a shoutout to all the racing fans in the gro
 **Link to Profile**: [RakshithJayanth](https://github.com/RakshithJayanth)  
 **About Me**:    
 Hi there! My name is Rakshith ayanth. I love badminton. I like watching devotional movies.
+
+**Name**: Thejas Bhat  
+**SRN**: PES1201701421
+**Link to Profile**: [Thejas-bhat](https://github.com/Thejas-bhat)  
+**About Me**:    
+Hello, I'm Thejas. My intrests include coding, math and sleep. Always ready to explore something new :).  
