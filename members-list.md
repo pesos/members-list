@@ -329,3 +329,9 @@ Hi, I'm Samyak. I am interested in Machine Learning, Deep Learning and Neural Ne
 **Link to Profile**: [pmk21](https://github.com/pmk21)  
 **About Me**:  
 Hey guys, I'm Prithvi. I am a Machine Learning and Deep Learning enthusiast and love working on open source projects. Eager to work on something here. Always love learning. If you have any cool or interesting projects, hit me up!
+
+**Name**: Shivani Bisht      
+**SRN**: PES1201800270  
+**Link to Profile**: [BishtShivani](https://github.com/BishtShivani)  
+**About Me**:  
+Hey? My last attempt at watching an early monday morning movie before college reopened was a fail and I still cry about it at night. TMI?
