@@ -317,3 +317,9 @@ Hi there! My name is Rakshith ayanth. I love badminton. I like watching devotion
 **Link to Profile**: [Thejas-bhat](https://github.com/Thejas-bhat)  
 **About Me**:  
 Hello, I'm Thejas. My intrests include coding, math and sleep. Always ready to explore something new :)
+
+**Name**: Samyak S Sarnayak  
+**SRN**: PES1201801565  
+**Link to Profile**: [Samyak2](https://github.com/Samyak2)    
+**About Me**:   
+Hi, I'm Samyak. I am interested in Machine Learning, Deep Learning and Neural Networks (I also like coding in general). In my free time I play games and watch movies and anime. My GitHub profile name is Samyak2 because Samyak was taken. 
