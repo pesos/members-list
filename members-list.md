@@ -323,3 +323,9 @@ Hello, I'm Thejas. My intrests include coding, math and sleep. Always ready to e
 **Link to Profile**: [Samyak2](https://github.com/Samyak2)    
 **About Me**:   
 Hi, I'm Samyak. I am interested in Machine Learning, Deep Learning and Neural Networks (I also like coding in general). In my free time I play games and watch movies and anime. My GitHub profile name is Samyak2 because Samyak was taken. 
+
+**Name**: Prithvi Manoj Krishna  
+**SRN**: PES1201700142    
+**Link to Profile**: [pmk21](https://github.com/pmk21)  
+**About Me**:  
+Hey guys, I'm Prithvi. I am a Machine Learning and Deep Learning enthusiast and love working on open source projects. Eager to work on something here. Always love learning. If you have any cool or interesting projects, hit me up!
