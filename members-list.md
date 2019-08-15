@@ -21,7 +21,7 @@ Tell us something we don't know.
 
 **Name**: Adarsh Shetty  
 **SRN**: PES1201801305  
-**Link to Profile**: `[ObliviousParadigm]https://github.com/ObliviousParadigm  
+**Link to Profile**: [ObliviousParadigm](https://github.com/ObliviousParadigm)  
 **About Me**:  
 Hey! Just started reading books, they're actually not that bad! Love murder mystery novels, "And Then There Were None" is really good. I have a zeal for coding. Love to game but... Ubuntu :/
 
