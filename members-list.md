@@ -19,6 +19,12 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**: Adarsh Shetty  
+**SRN**: PES1201801305  
+**Link to Profile**: `[ObliviousParadigm]https://github.com/ObliviousParadigm  
+**About Me**:  
+Hey! Just started reading books, they're actually not that bad! Love murder mystery novels, "And Then There Were None" is really good. I have a zeal for coding. Love to game but... Ubuntu :/
+
 **Name**: K.Nidarshan      
 **SRN**: PES1201800244  
 **Link to Profile**: [Heisenberg-15](https://github.com/Heisenberg-15)  
