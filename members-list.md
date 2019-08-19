@@ -19,6 +19,12 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**: Anand Hegde  
+**SRN**: PES1201800133  
+**Link to Profile**: [anand372](https://github.com/anand372)  
+**About Me**:  
+Hey guys!!!,i just love watching movies(especially animated),TV shows and killing time :),Also like to play sports like badminton and Football.
+
 **Name**: Adarsh Shetty  
 **SRN**: PES1201801305  
 **Link to Profile**: [ObliviousParadigm](https://github.com/ObliviousParadigm)  
