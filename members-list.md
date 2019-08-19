@@ -147,6 +147,12 @@ Hi there! My name is Navaneeth. I love tennis. I like watching animated movies.
 **About Me**:       
 Hey! I go by metonymic-smokey in here, which is proof of my love for arcane poetic devices and (mostly unsuccessful) attempts at composing meaningful poetry. Tryna find my niche amidst all these FOSSibilities, one (very)bad pun at a time(see what I did there?). 
 
+**Name**: N. Sanketh Reddy  
+**SRN**:PES1201800389  
+**Link to Profile**: [nsankethreddy](https://github.com/nsankethreddy)  
+**About Me**:  
+Hey!! I know the whole CSE stream revolves around coding, but im not a huge fan of sitting in front of a system and doing stuff. But I just love LOGICal thiking, to find out new logics and finding out different and new methods to to solve the pre-existing problems.
+
 **Name**: Bharath Bhambore  
 **SRN**: PES1201801948  
 **Link to Profile**: [BharathBhambore](https://github.com/BharathBhambore)  
