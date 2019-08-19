@@ -34,3 +34,10 @@ Okay, jokes apart. I go by the handle "thenerdsuperuser". I like doing things th
 Hi! My github username is alastairmoody-madeye, I know that's a mouthful XD. I love basketball and doggos. Also if you couldn't tell by my username, I am a Potterhead.  
 
 [Continue adding your names here]
+**Name**: N. Sanketh Reddy
+**SRN**:PES1201800389  
+**Link to Profile**: [nsankethreddy].(https://github.com/nsankethreddy)  
+**About Me**:
+Hey!! I know the whole CSE stream revolves around coding, but im not a huge fan of sitting in front of a system and doing stuff.But I just love LOGICal thiking,  to find out new logics and finding out different and new methods to to solve the pre-existing problems.
+
+
