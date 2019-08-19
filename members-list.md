@@ -347,3 +347,9 @@ Hey guys, I'm Prithvi. I am a Machine Learning and Deep Learning enthusiast and 
 **Link to Profile**: [BishtShivani](https://github.com/BishtShivani)  
 **About Me**:  
 Hey? My last attempt at watching an early monday morning movie before college reopened was a fail and I still cry about it at night. TMI?
+
+**Name**: D G Shivu
+**SRN**: PES1201801284
+**Link to profile**: [Shivz3232](https://github.com/Shivz3232)
+**About me**:
+Gamer by birth, last respawned year 2000; Love physics and the math behind it; Very keen code reader, looking to put it to real use; Talking to machines science Pentium ||.
