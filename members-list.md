@@ -363,4 +363,5 @@ Gamer by birth, last respawned year 2000; Love physics and the math behind it; V
 **Name**:  Arpit Kumar  
 **SRN**:  PES1201800406
 **Link to Profile**:  [arpit-k](https://github.com/arpit-k)  
-**About Me**:  Hey folks,This is Arpit here and I love doing uncommon stuffs.
+**About Me**:
+Hey folks,This is Arpit here and I love doing uncommon stuffs.
