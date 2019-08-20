@@ -360,8 +360,8 @@ Hey? My last attempt at watching an early monday morning movie before college re
 **About me**:  
 Gamer by birth, last respawned year 2000; Love physics and the math behind it; Very keen code reader, looking to put it to real use; Talking to machines science Pentium ||.
 
-**Name**:  Arpit Kumar  
-**SRN**:  PES1201800406
+**Name**:  Arpit Kumar    
+**SRN**:  PES1201800406  
 **Link to Profile**:  [arpit-k](https://github.com/arpit-k)  
 **About Me**:
 Hey folks,This is Arpit here and I love doing uncommon stuffs.
