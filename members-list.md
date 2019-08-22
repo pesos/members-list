@@ -254,8 +254,8 @@ Hello there. I am Varun. Love the intersection between Machine Learning and Cybe
 **SRN**: PES1201800028  
 **Link to Profile**: [MadhavJivrajani](https://github.com/MadhavJivrajani)  
 **About Me**:  
-Hey, I have real-estate in nimhans.  
-If you put doggo in front of me, me cri. :dog: 
+I thought duck was chicken so I fell into ulsoor lake.  
+Other than that being  into ulsoor lake I'm lil bit into Quantum Computing and love doggos :dog:
 
 **Name**: Rithik Mali  
 **SRN**: PES1201800300  
