@@ -360,10 +360,14 @@ Hey? My last attempt at watching an early monday morning movie before college re
 **About me**:  
 Gamer by birth, last respawned year 2000; Love physics and the math behind it; Very keen code reader, looking to put it to real use; Talking to machines science Pentium ||.
 
-
 **Name**: Taran Singhania  
 **SRN**: PES1201800333  
 **Link to Profile**: [TarnaSinghania](https://github.com/TaranSinghania)  
 **About Me**:  
   Hey, I go by Taran. I like machine learning and math. 
 
+**Name**: Abhishek Das  
+**SRN**: PES1201800177 
+**Link to profile**: [Abhishek262](https://github.com/Abhishek262)  
+**About me**:  
+Hey, I'm Abhishek. I'm a right proper night owl and love reading books and gaming. Procrastination should probably have been my last name.... That said, I really look forward to learning new stuff :D
