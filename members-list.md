@@ -364,5 +364,5 @@ Gamer by birth, last respawned year 2000; Love physics and the math behind it; V
 **SRN**: PES1201801879  
 **Link to Profile**: [amrutha00](https://github.com/amrutha00)  
 **About Me**:  
-Hey!I am Amrutha.Just an old soul with a young spirit.Exploring everything that screws with my mind,currently AI and spirirtuality;).
+Hey!I am Amrutha.Just an old soul with a young spirit.Exploring everything that screws with my mind,currently AI and spirituality;).
 #ForcaBarca
