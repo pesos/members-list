@@ -371,3 +371,9 @@ Gamer by birth, last respawned year 2000; Love physics and the math behind it; V
 **Link to profile**: [Abhishek262](https://github.com/Abhishek262)  
 **About me**:  
 Hey, I'm Abhishek. I'm a right proper night owl and love reading books and gaming. Procrastination should probably have been my last name.... That said, I really look forward to learning new stuff :D
+
+**Name**: MOHAMMED AFIF AHMED  
+**SRN**: PES1201801280  
+**Link to profile**: [afif1400](https://github.com/afif1400)   
+**About me**:  
+born curious, love reading about quantum computing want to excel in this field and want it to become accessible by general public, great fan of science fiction,hoping to make it real!..
