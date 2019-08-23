@@ -254,8 +254,8 @@ Hello there. I am Varun. Love the intersection between Machine Learning and Cybe
 **SRN**: PES1201800028  
 **Link to Profile**: [MadhavJivrajani](https://github.com/MadhavJivrajani)  
 **About Me**:  
-Hey, I have real-estate in nimhans.  
-If you put doggo in front of me, me cri. :dog: 
+I thought duck was chicken so I fell into ulsoor lake.  
+Other than that being  into ulsoor lake I'm lil bit into Quantum Computing and love doggos :dog:
 
 **Name**: Rithik Mali  
 **SRN**: PES1201800300  
@@ -359,6 +359,12 @@ Hey? My last attempt at watching an early monday morning movie before college re
 **Link to profile**: [Shivz3232](https://github.com/Shivz3232)  
 **About me**:  
 Gamer by birth, last respawned year 2000; Love physics and the math behind it; Very keen code reader, looking to put it to real use; Talking to machines science Pentium ||.
+
+**Name**: Taran Singhania  
+**SRN**: PES1201800333  
+**Link to Profile**: [TarnaSinghania](https://github.com/TaranSinghania)  
+**About Me**:  
+  Hey, I go by Taran. I like machine learning and math. 
 
 **Name**: Abhishek Das  
 **SRN**: PES1201800177 
