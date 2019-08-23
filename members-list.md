@@ -359,3 +359,9 @@ Hey? My last attempt at watching an early monday morning movie before college re
 **Link to profile**: [Shivz3232](https://github.com/Shivz3232)  
 **About me**:  
 Gamer by birth, last respawned year 2000; Love physics and the math behind it; Very keen code reader, looking to put it to real use; Talking to machines science Pentium ||.
+
+**Name**: Amrutha U
+**SRN**: PES1201801879
+**Link to Profile**:[amrutha00](https://github.com/amrutha00)  
+**About Me**:  
+Hey!I am Amrutha U.Just an old soul with a young spirit.Big Foodie,and yea also a craving for learning new skillz.I explore anything that screws with my mind.Exicted to meet you new Peeps!#ForcaBarca;)
