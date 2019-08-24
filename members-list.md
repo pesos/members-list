@@ -360,6 +360,13 @@ Hey? My last attempt at watching an early monday morning movie before college re
 **About me**:  
 Gamer by birth, last respawned year 2000; Love physics and the math behind it; Very keen code reader, looking to put it to real use; Talking to machines science Pentium ||.
 
+**Name**: Amrutha U  
+**SRN**: PES1201801879  
+**Link to Profile**: [amrutha00](https://github.com/amrutha00)  
+**About Me**:  
+Hey!I am Amrutha. Just an old soul with a young spirit. Exploring everything that screws with my mind,currently AI and spirituality;).
+#ForcaBarca
+
 **Name**: Taran Singhania  
 **SRN**: PES1201800333  
 **Link to Profile**: [TarnaSinghania](https://github.com/TaranSinghania)  
