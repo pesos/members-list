@@ -364,5 +364,23 @@ Gamer by birth, last respawned year 2000; Love physics and the math behind it; V
 **SRN**: PES1201801879  
 **Link to Profile**: [amrutha00](https://github.com/amrutha00)  
 **About Me**:  
-Hey!I am Amrutha.Just an old soul with a young spirit.Exploring everything that screws with my mind,currently AI and spirituality;).
+Hey!I am Amrutha. Just an old soul with a young spirit. Exploring everything that screws with my mind,currently AI and spirituality;).
 #ForcaBarca
+
+**Name**: Taran Singhania  
+**SRN**: PES1201800333  
+**Link to Profile**: [TarnaSinghania](https://github.com/TaranSinghania)  
+**About Me**:  
+  Hey, I go by Taran. I like machine learning and math. 
+
+**Name**: Abhishek Das  
+**SRN**: PES1201800177 
+**Link to profile**: [Abhishek262](https://github.com/Abhishek262)  
+**About me**:  
+Hey, I'm Abhishek. I'm a right proper night owl and love reading books and gaming. Procrastination should probably have been my last name.... That said, I really look forward to learning new stuff :D
+
+**Name**: MOHAMMED AFIF AHMED  
+**SRN**: PES1201801280  
+**Link to profile**: [afif1400](https://github.com/afif1400)   
+**About me**:  
+born curious, love reading about quantum computing want to excel in this field and want it to become accessible by general public, great fan of science fiction,hoping to make it real!..
