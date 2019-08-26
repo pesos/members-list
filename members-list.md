@@ -391,8 +391,8 @@ Hey, I'm Abhishek. I'm a right proper night owl and love reading books and gamin
 **About me**:  
 born curious, love reading about quantum computing want to excel in this field and want it to become accessible by general public, great fan of science fiction,hoping to make it real!..
 
-**Name**: Tejas Srinivasan 
-**SRN**: PES1201800110 
-**Link to profile**: [Ojjie](https://github.com/Ojjie)  
+**Name**: Tejas Srinivasan <br/>
+**SRN**: PES1201800110    <br/>
+**Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
