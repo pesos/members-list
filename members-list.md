@@ -19,6 +19,12 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**: Pranay Mundra  
+**SRN**: PES1201801166  
+**Link to Profile**: [mundra-pranay](https://github.com/mundra-pranay)  
+**About Me**:  
+What up this is the boring Pranay Mundra who has unconventional tastes in music and movies. I'm passionate about algorithms and data structures.
+
 **Name**: Anand Hegde  
 **SRN**: PES1201800133  
 **Link to Profile**: [anand372](https://github.com/anand372)  
