@@ -394,4 +394,4 @@ born curious, love reading about quantum computing want to excel in this field a
 **Name**: Tejas Srinivasan 
 **SRN**: PES1201800110 
 **Link to profile**: [Ojjie](https://github.com/Ojjie)   
-**About me**:  Student Developer.Interested in Open Source.Master Procrastinator and Practitioner of the art of deep sleep.
+**About me**:  Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
