@@ -31,6 +31,7 @@ What up this is the boring Pranay Mundra who has unconventional tastes in music 
 **About Me**:  
 Hey guys!!!,i just love watching movies(especially animated),TV shows and killing time :),Also like to play sports like badminton and Football.
 
+
 **Name**: Adarsh Shetty  
 **SRN**: PES1201801305  
 **Link to Profile**: [ObliviousParadigm](https://github.com/ObliviousParadigm)  
@@ -402,3 +403,9 @@ born curious, love reading about quantum computing want to excel in this field a
 **Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
+
+**Name**: S Krishna <br/>
+**SRN**: PES1201801930   <br/>
+**Link to profile**: [krishnas2k](https://github.com/krishnas2k)<br/>
+**About me**: 
+I don't keep myself updated with the latest technologies. And I am completely new to OpenSource. Want to explore the different domains of Computer Science and get better at programming. 
