@@ -403,8 +403,8 @@ born curious, love reading about quantum computing want to excel in this field a
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
 
-**Name**: Utkarsh Verma
-**SRN**: PES12018003300
-**Link to profile**: [utkarshfz](https://github.com/utkarshfz)
+**Name**: Utkarsh Verma <br />
+**SRN**: PES12018003300 <br />
+**Link to profile**: [utkarshfz](https://github.com/utkarshfz)<br />
 **About me**: 
-Like working on new stuffs.
+Like working on new stuffs.<br />
