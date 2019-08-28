@@ -402,3 +402,9 @@ born curious, love reading about quantum computing want to excel in this field a
 **Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
+
+**Name**: Utkarsh Verma
+**SRN**: PES12018003300
+**Link to profile**: [utkarshfz](https://github.com/utkarshfz)
+**About me**: 
+Like working on new stuffs.
