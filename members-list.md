@@ -2,12 +2,12 @@
 
 ## Format
 > Please adhere to this format when adding your name to this list  
-> **Name**: `<-- Don't forget to add two spaces here`  
-**SRN**: `<-- Don't forget to add two spaces here`  
+> **Name**: [Your Full Name Here] `<-- Don't forget to add two spaces here`  
+**SRN**: [SRN] `<-- Don't forget to add two spaces here`  
 **Link to Profile**: [name](https://github.com/[name])  `<-- Don't forget to add two spaces here` 
-**About Me**:  `<-- Don't forget to add two spaces here`  
-
- 
+**About Me**:  `<-- Don't forget to add two spaces here` 
+`Write a short,fun description about yourself. Please be genuine and light-hearted. This isn't a flexing contest.
+Also don't be a cop-out by saying something like "I am happy/looking forwars to be in PESOS". Tell us something we don't know`
 
 ---
 **Do not modify anything above this line** ^
