@@ -2,12 +2,11 @@
 
 ## Format
 > Please adhere to this format when adding your name to this list  
-> **Name**: Nisha S  
-**SRN**: PES1201801777  
-**Link to Profile**: [nisha-s](https://github.com/nisha-s)  
+> **Name**: `<-- Don't forget to add two spaces here`  
+**SRN**: `<-- Don't forget to add two spaces here`  
+**Link to Profile**: [name](https://github.com/[name])  `<-- Don't forget to add two spaces here` 
 **About Me**:  `<-- Don't forget to add two spaces here`  
-Hello everyone! I'm Nisha. I enjoying coding and shading. I am a picky eater. I lack patience and my biggest pet peeve is ignorance.
-I like watching tv shows. I'm not addicted though.
+
  
 
 ---
@@ -401,3 +400,11 @@ born curious, love reading about quantum computing want to excel in this field a
 **Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
+
+
+**Name**: Nisha S  
+**SRN**: PES1201801777  
+**Link to Profile**: [nisha-s](https://github.com/nisha-s)  
+**About Me**:    
+Hello everyone! I'm Nisha. I enjoying coding and shading. I am a picky eater. I lack patience and my biggest pet peeve is ignorance.
+I like watching tv shows. I'm not addicted though.
