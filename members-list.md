@@ -402,3 +402,8 @@ born curious, love reading about quantum computing want to excel in this field a
 **Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
+
+**Name**: Haritha GB  
+**SRN**: PES1201800325  
+**Link to profile**: https://github.com/harithagb  
+**About me**: Hey, I'm Haritha! I'm your classic astrophysics x electronics nerd :) I code whenever I can and when I'm bored I sing or write! Don't even bother checking my GitHub account, it's new :D 
