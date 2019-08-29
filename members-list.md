@@ -85,10 +85,10 @@ Hi! I love watching anime stuff,TV series and also interested in coding small ga
 **About Me**: 
 Hey! I'm Devesha, I like exploring and learning new things. I like to spend time in finding a new logic and implementing it in a code.
 
-**Name**: Rochak Kaushik
-**SRN**: PES1201800086
-**Link to Profile**: [RochakK](https://github.com/RochakK)
-**About Me**:
+**Name**: Rochak Kaushik  
+**SRN**: PES1201800086  
+**Link to Profile**: [RochakK](https://github.com/RochakK)  
+**About Me**:  
 Hi! I'm Rochak, I love playing games be it mobile or pc games,a cricket fanatic and try to think out of the box to solve problems.   
 
 **Name**: Yukti Khosla  
