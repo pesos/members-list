@@ -20,7 +20,7 @@ Tell us something we don't know.
 [Add your details over here] `← Don't remove this line`
 **Name**: Srinath M P  
 **SRN**: PES1201801946  
-**Link to Profile**:[Srinathmp](https://github.com/Srinathmp)
+**Link to Profile**:[Srinathmp](https://github.com/Srinathmp)  
 **About Me**:
 Hi!! This is Srinath MP.I'm a problem seeker,perseverent solver,love reading novels,huge basketball fan.
 
