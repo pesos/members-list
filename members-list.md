@@ -19,6 +19,12 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**: Aneesh Nagesh Bhat  
+**SRN**: PES1201800216  
+**Link to Profile**: [aneeshnbhat](https://github.com/aneeshnbhat)  
+**About Me**:  
+I like to learn new stuff, play video games and watch youtubers play video games, I'm interested in machine-learning, and like to code. 
+
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
 **Link to Profile**: [mundra-pranay](https://github.com/mundra-pranay)  
