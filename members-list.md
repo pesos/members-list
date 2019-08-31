@@ -18,6 +18,11 @@ Tell us something we don't know.
 ## The list
 
 [Add your details over here] `← Don't remove this line`
+**Name**: R  Sree Harsha Reddy  
+**SRN**: PES1201800233  
+**Link to Profile**:  [harsha7108](https://github.com/harsha7108)  
+**About Me**:  
+Hey! I like to learn new stuff .I'm a sport fanatic and a big fan of Manchester United.     
 
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
