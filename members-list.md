@@ -19,6 +19,12 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**: Chinthan Krishna K  
+**SRN**: PES1201800121  
+**Link to Profile**: [tanckk](https;//github.com/tanckk)  
+**About Me**:  
+Heyy! A football fan (playing, but not watching), lover of fiction, sci-fi and fantasy, and knowledge seeker. Looking forward to "formally" and "properly" working with GitHub and contributing to open source. Main motive is to learn though! ;)
+
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
 **Link to Profile**: [mundra-pranay](https://github.com/mundra-pranay)  
