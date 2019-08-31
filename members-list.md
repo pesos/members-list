@@ -402,3 +402,9 @@ born curious, love reading about quantum computing want to excel in this field a
 **Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
+
+**Name**: Rahul K R  
+**SRN**: PES1201802064    
+**Link to Profile**: [RahulKR](https://github.com/RahulRavishankar)    
+**About Me**:  
+Hey, I'm Rahul. I'm interested in Machine Learning and Computer Vision. Excited to keep learning and working with like-minded people.
