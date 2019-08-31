@@ -18,11 +18,10 @@ Tell us something we don't know.
 ## The list
 
 [Add your details over here] `← Don't remove this line`
-
-**Name**:Samhita Irrinki    
-**SRN**: PES1201800394
-**Link to Profile**: [Samhita25]  (https://github.com/[Samhita25])
-**About Me**: 
+**Name**: Samhita Irrinki 
+**SRN**: PES1201800394   
+**Link to Profile**: [Samhita25](https://github.com/[Samhita25])  
+**About Me**:  
 Hey, Samhita here! Really looking forward to having fun with PESOS xD
 I'm mostly a beginner but really excited and keen on learning more. One hundered percent an extrovert and always excited to interact and throw ideas! 
 
