@@ -19,6 +19,12 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**: Pranay Mundra  
+**SRN**: PES1201801166  
+**Link to Profile**: [mundra-pranay](https://github.com/mundra-pranay)  
+**About Me**:  
+What up this is the boring Pranay Mundra who has unconventional tastes in music and movies. I'm passionate about algorithms and data structures.
+
 **Name**: Anand Hegde  
 **SRN**: PES1201800133  
 **Link to Profile**: [anand372](https://github.com/anand372)  
@@ -72,6 +78,12 @@ Hey !! I'm Bhargav SNV, I'm a huge Sci-Fi lover and I'm mostly into the cyber se
 **Link to Profile**: [akhil19845](https://github.com/akhil19845)  
 **About Me**:  
 Hi! I love watching anime stuff,TV series and also interested in coding small games like 2048 which i have done it in my 2nd semester as a project.   
+
+**Name**: B Devesha Reddy
+**SRN**: PES1201800259
+**Link to Profile**: [RedDevesh](https://github.com/RedDevesh)
+**About Me**: 
+Hey! I'm Devesha, I like exploring and learning new things. I like to spend time in finding a new logic and implementing it in a code. 
 
 **Name**: Yukti Khosla  
 **SRN**: PES1201800427  
@@ -254,8 +266,8 @@ Hello there. I am Varun. Love the intersection between Machine Learning and Cybe
 **SRN**: PES1201800028  
 **Link to Profile**: [MadhavJivrajani](https://github.com/MadhavJivrajani)  
 **About Me**:  
-Hey, I have real-estate in nimhans.  
-If you put doggo in front of me, me cri. :dog: 
+I thought duck was chicken so I fell into ulsoor lake.  
+Other than that being  into ulsoor lake I'm lil bit into Quantum Computing and love doggos :dog:
 
 **Name**: Rithik Mali  
 **SRN**: PES1201800300  
@@ -366,4 +378,34 @@ Gamer by birth, last respawned year 2000; Love physics and the math behind it; V
 **About Me**:
 Hey folks,This is Arpit here and I love doing uncommon stuffs.
 
+=======
+**Name**: Amrutha U  
+**SRN**: PES1201801879  
+**Link to Profile**: [amrutha00](https://github.com/amrutha00)  
+**About Me**:  
+Hey!I am Amrutha. Just an old soul with a young spirit. Exploring everything that screws with my mind,currently AI and spirituality;).
+#ForcaBarca
 
+**Name**: Taran Singhania  
+**SRN**: PES1201800333  
+**Link to Profile**: [TarnaSinghania](https://github.com/TaranSinghania)  
+**About Me**:  
+  Hey, I go by Taran. I like machine learning and math. 
+
+**Name**: Abhishek Das  
+**SRN**: PES1201800177 
+**Link to profile**: [Abhishek262](https://github.com/Abhishek262)  
+**About me**:  
+Hey, I'm Abhishek. I'm a right proper night owl and love reading books and gaming. Procrastination should probably have been my last name.... That said, I really look forward to learning new stuff :D
+
+**Name**: MOHAMMED AFIF AHMED  
+**SRN**: PES1201801280  
+**Link to profile**: [afif1400](https://github.com/afif1400)   
+**About me**:  
+born curious, love reading about quantum computing want to excel in this field and want it to become accessible by general public, great fan of science fiction,hoping to make it real!..
+
+**Name**: Tejas Srinivasan <br/>
+**SRN**: PES1201800110    <br/>
+**Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
+**About me**: 
+Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
