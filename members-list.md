@@ -402,3 +402,10 @@ born curious, love reading about quantum computing want to excel in this field a
 **Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
+
+**Name**:  MAHESH D    
+**SRN**:  PES1201800210    
+**Link to profile**:  [maheshd20](https://github.com/maheshd20)  
+**About me**:  
+Well i spend countless hours arguing on the internet . NBA fanatic.. love gaming and weirdly enough i love math.
+
