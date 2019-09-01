@@ -87,9 +87,9 @@ Hey! I'm Devesha, I like exploring and learning new things. I like to spend time
 
 **Name**: Rochak Kaushik  
 **SRN**: PES1201800086  
-**Link to Profile**: [RochakK](https://github.com/RochakK)  
+**Link to Profile**: [RochakK](https://github.com/RochakK)   
 **About Me**:  
-Hi! I'm Rochak, I love playing games be it mobile or pc games,a cricket fanatic and try to think out of the box to solve problems.   
+Hi! I'm Rochak, I love playing FPS games be it mobile or pc games,a cricket fanatic and out of the box problem solver.   
 
 **Name**: Yukti Khosla  
 **SRN**: PES1201800427  
