@@ -19,6 +19,13 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**: Rathish A T  
+**SRN**: PES1201801532  
+**Link to Profile**: [ursonor99](https://github.com/ursonor99)  
+**About Me**:  
+Hi, I like anime ,tv shows  and can watch them all day long(and sometimes i do). I like to draw and also use blender now and then . 
+
+
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
 **Link to Profile**: [mundra-pranay](https://github.com/mundra-pranay)  
