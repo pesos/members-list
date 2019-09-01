@@ -402,3 +402,9 @@ born curious, love reading about quantum computing want to excel in this field a
 **Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
+
+**Name**: Srinidhi Temkar  
+**SRN**: PES1201800255  
+**Link to Profile**: [srinidhitemkar](https://github.com/srinidhitemkar)  
+**About Me**:  
+Heya! I used to collect pistachio shells when I was younger. I have no idea why. I still have them xD. Also, currently wondering why almost everyone above have started their 'About Me' section with their names or usernames when they know everyone can see those in the sections just above it :')  
