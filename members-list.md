@@ -13,15 +13,15 @@ Tell us something we don't know.
 
 ---
 **Do not modify anything above this line** ^
+
+## The list
+
+[Add your details over here] `← Don't remove this line`
 **Name**: Archana J   
 **SRN**: PES1201801306  
 **Link to Profile**: [archana](https://github.com/archu-2000)  
 **About Me**:  
 Heyy!! I'm Archana. I love math xD. I'm a coding enthusiast too! My hobbies are singing and dancing. 
-
-## The list
-
-[Add your details over here] `← Don't remove this line`
 
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
