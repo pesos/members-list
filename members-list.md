@@ -402,3 +402,9 @@ born curious, love reading about quantum computing want to excel in this field a
 **Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
+
+**Name**: Ishan Agarwal
+**SRN**: PES1201800291
+**Link to profile**: [ishanagarwal1606](https://github.com/ishanagarwal1606)
+**About me**: 
+Challenge me to laziness, and i'll think about it, probably. Dream company : Google <3 , Learning competitive coding.
