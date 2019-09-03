@@ -13,7 +13,11 @@ Tell us something we don't know.
 
 ---
 **Do not modify anything above this line** ^
-
+**Name**: Archana J   
+**SRN**: PES1201801306  
+**Link to Profile**: [archana](https://github.com/archu-2000)  
+**About Me**:  
+Heyy!! I'm Archana. I love math xD. I'm a coding enthusiast too! My hobbies are singing and dancing. 
 
 ## The list
 
