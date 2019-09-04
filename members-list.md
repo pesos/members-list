@@ -19,11 +19,11 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
-**Name**: Gaurav Pandey
-**SRN**: PES1201801145
-**Link to Profile**: [GauravPandey892](https://github.com/GauravPandey892)
-**About Me**:
-Knock, Knock. Who’s there? Gaurav. Gaurav who? Gaurav who likes to read books, run and play guitar. 
+**Name**: Gaurav Pandey  
+**SRN**: PES1201801145  
+**Link to Profile**: [GauravPandey892](https://github.com/GauravPandey892) 
+**About Me**:  
+Knock, Knock. Who’s there? Gaurav. Gaurav who? Gaurav who likes to read books, run and play guitar.   
 Okay bye!!!
 
 **Name**: Pranay Mundra  
