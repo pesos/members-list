@@ -472,6 +472,12 @@ born curious, love reading about quantum computing want to excel in this field a
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
 
+**Name**: Ishan Agarwal
+**SRN**: PES1201800291
+**Link to profile**: [ishanagarwal1606](https://github.com/ishanagarwal1606)
+**About me**: 
+Challenge me to laziness, and i'll think about it, probably. Dream company : Google <3 , Learning competitive coding.
+
 **Name**: Nisha S  
 **SRN**: PES1201801777  
 **Link to Profile**: [nisha-s](https://github.com/nisha-s)  
@@ -514,3 +520,4 @@ Heya! I used to collect pistachio shells when I was younger. I have no idea why.
 **Link to profile**: [maheshd20](https://github.com/maheshd20)  
 **About me**:  
 Well i spend countless hours arguing on the internet . NBA fanatic.. love gaming and weirdly enough i love math.
+
