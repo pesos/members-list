@@ -77,6 +77,12 @@ Well, hello there! I'm a movie aficionado, football fan, PC gamer, and an open s
 **About Me**:  
 Hey! Anime geek, football enthusiast and conversationalist. This is my first time using Github and I will admit that it is slighty overwhelming and exciting!
 
+**Name**: Deepank Girish  
+**SRN**: PES1201800395  
+**Link to Profile**: [gdeepank](https://github.com/gdeepank)  
+**About Me**:    
+Aloha. Deepank here. Data analytics, Artificial Intelligence and Manchester United is what gets me kickin everyday. 
+
 **Name**: Bhargav SNV  
 **SRN**: PES1201800308  
 **Link to Profile**: [Gituser143](https://github.com/Gituser143)  
