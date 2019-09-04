@@ -19,6 +19,11 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**: Ravichandu S  
+**SRN**: PES1201801802  
+**Link to Profile**: [WaterResistantCoder](https://github.com/[WaterResistantCoder])  
+**About Me**: Gamer/Otaku/Coder.  
+
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
 **Link to Profile**: [mundra-pranay](https://github.com/mundra-pranay)  
