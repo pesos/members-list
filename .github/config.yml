@@ -11,9 +11,7 @@ newIssueWelcomeComment: >
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
   Welcome to PESOS! 
-  Please complete your membership process by joining our Slack Workspace [here](https://pesos.github.io/get-started/communication-channels)
-  Download the Slack App and set your notification preferences to "All new messages".
-  All communication and updates will take place on the workspace.
+  Please complete your membership process by joining our Slack Workspace [here](https://pesos.github.io/get-started/communication-channels)  Download the Slack App and set your notification preferences to "All new messages".  All communication and updates will take place on the workspace.
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
