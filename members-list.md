@@ -77,6 +77,12 @@ Whatever I do must be done perfectly.
 **About Me**:  
 Hey people! It's Soundarya here. I'm usually the girl with the guitar and who also uses a :) very often. Singing, swimming and playing tennis all day long doesn't tire me. I'm relatively new to Open Source. Waiting to meet and learn from y'all :)  
 
+**Name**: Chinthan Krishna K  
+**SRN**: PES1201800121  
+**Link to Profile**: [tanckk](https;//github.com/tanckk)  
+**About Me**:  
+Heyy! A football fan (playing, but not watching), lover of fiction, sci-fi and fantasy, and knowledge seeker. Looking forward to "formally" and "properly" working with GitHub and contributing to open source. Main motive is to learn though! ;)
+
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
 **Link to Profile**: [mundra-pranay](https://github.com/mundra-pranay)  
