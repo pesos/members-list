@@ -3,14 +3,12 @@
 ## Format
 
 > Please adhere to this format when adding your name to this list  
-> **Name**: [Your Full Name Here]  `<-- Don't forget to add two spaces here`  
-**SRN**: [SRN]  `<-- Don't forget to add two spaces here`  
-**Link to Profile**: `[name](https://github.com/[PROFILENAME])`  `<-- Don't forget to add two spaces here`  
-**About Me**:  `<-- Don't forget to add two spaces here`  
-Write a short, fun description about yourself. Don't overthink it and please be genuine and light-hearted.
-This isn't a flexing contest.
-Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS".
-Tell us something we don't know.
+> **Name**: [Your Full Name Here] `<-- Don't forget to add two spaces here`  
+**SRN**: [SRN] `<-- Don't forget to add two spaces here`  
+**Link to Profile**: `[name](https://github.com/[name])`  `<-- Don't forget to add two spaces here` <br/>
+**About Me**:  `<-- Don't forget to add two spaces here`<br/>
+`Write a short,fun description about yourself. Please be genuine and light-hearted. This isn't a flexing contest.
+Also don't be a cop-out by saying something like "I am happy/looking forwars to be in PESOS". Tell us something we don't know`
 
 ---
 **Do not modify anything above this line** ^
@@ -23,7 +21,7 @@ Tell us something we don't know.
 **SRN**: PES1201801764  
 **Link to Profile**: [vybhav-bhadri](https://github.com/vybhav-bhadri)  
 **About Me**:  
-Hey!!!love for nature,passiontate about web devlopment and real world problem solving.
+Hello World!!,I'm trying to get a summer body from the day I started to learn coding.  
 
 **Name**: Aneesh Nagesh Bhat  
 **SRN**: PES1201800216  
@@ -467,6 +465,13 @@ Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
 **Link to profile**: [ishanagarwal1606](https://github.com/ishanagarwal1606)
 **About me**: 
 Challenge me to laziness, and i'll think about it, probably. Dream company : Google <3 , Learning competitive coding.
+
+**Name**: Nisha S  
+**SRN**: PES1201801777  
+**Link to Profile**: [nisha-s](https://github.com/nisha-s)  
+**About Me**:    
+Hello everyone! I'm Nisha. I enjoying coding and shading. I am a picky eater. I lack patience and my biggest pet peeve is ignorance.
+I like watching tv shows. I'm not addicted though.
 
 **Name**: Rehan Vipin  
 **SRN**: PES1201801655  
