@@ -1,6 +1,7 @@
 # The Official Members list
 
 ## Format
+
 > Please adhere to this format when adding your name to this list  
 > **Name**: [Your Full Name Here]  `<-- Don't forget to add two spaces here`  
 **SRN**: [SRN]  `<-- Don't forget to add two spaces here`  
@@ -14,7 +15,6 @@ Tell us something we don't know.
 ---
 **Do not modify anything above this line** ^
 
-
 ## The list
 
 [Add your details over here] `← Don't remove this line`
@@ -25,11 +25,46 @@ Tell us something we don't know.
 **About Me**:  
 I like to learn new stuff, play video games and watch youtubers play video games, I'm interested in machine-learning, and like to code. 
 
+**Name**: S Surya Saveri  
+**SRN**: PES1201800791  
+**Link to Profile**:[saveri1205](https://github.com/saveri1205)  
+**About Me**:  
+Hey there i am Saveri. I love music and painting and i am a chocolate lover! :P.I am really excuted to be a part of PESOS
+
+**Name**: Ravichandu S  
+**SRN**: PES1201801802  
+**Link to Profile**: [WaterResistantCoder](https://github.com/[WaterResistantCoder])  
+**About Me**: Gamer/Otaku/Coder.  
+
+**Name**: Archana J   
+**SRN**: PES1201801306  
+**Link to Profile**: [archana](https://github.com/archu-2000)  
+**About Me**:  
+Heyy!! I'm Archana. I love math xD. I'm a coding enthusiast too! My hobbies are singing and dancing. 
+
+**Name**: Rathish A T  
+**SRN**: PES1201801532  
+**Link to Profile**: [ursonor99](https://github.com/ursonor99)  
+**About Me**:  
+Hi, I like anime ,tv shows  and can watch them all day long(and sometimes i do). I like to draw and also use blender now and then . 
+
+**Name**: Swati Naik  
+**SRN**: PES1201801489  
+**Link to Profile**: [swati-25](Https://GitHub.com/swati-25)  
+**About Me"":  
+Whatever I do must be done perfectly.
+
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
 **Link to Profile**: [mundra-pranay](https://github.com/mundra-pranay)  
 **About Me**:  
-What up this is the boring Pranay Mundra who has unconventional tastes in music and movies. I'm passionate about algorithms and data structures.
+What up this is the boring Pranay Mundra who has unconventional tastes in music and movies. I'm passionate about algorithms and data structures.  
+
+**Name**: Manu M Bhat  
+**SRN**: PES1201801452  
+**Link to Profile**: [ManuMBhat](https://github.com/ManuMBhat)  
+**About Me**:
+I am a newbie at open source and would be welcome to anything new to be learnt. I tend to get excited about lot of things and try to do many things(ik, not good!), but I do get most things accomplished(atleast that's what I believe).  
 
 **Name**: Anand Hegde  
 **SRN**: PES1201800133  
@@ -73,6 +108,12 @@ Well, hello there! I'm a movie aficionado, football fan, PC gamer, and an open s
 **About Me**:  
 Hey! Anime geek, football enthusiast and conversationalist. This is my first time using Github and I will admit that it is slighty overwhelming and exciting!
 
+**Name**: Deepank Girish  
+**SRN**: PES1201800395  
+**Link to Profile**: [gdeepank](https://github.com/gdeepank)  
+**About Me**:    
+Aloha. Deepank here. Data analytics, Artificial Intelligence and Manchester United is what gets me kickin everyday. 
+
 **Name**: Bhargav SNV  
 **SRN**: PES1201800308  
 **Link to Profile**: [Gituser143](https://github.com/Gituser143)  
@@ -85,10 +126,10 @@ Hey !! I'm Bhargav SNV, I'm a huge Sci-Fi lover and I'm mostly into the cyber se
 **About Me**:  
 Hi! I love watching anime stuff,TV series and also interested in coding small games like 2048 which i have done it in my 2nd semester as a project.   
 
-**Name**: B Devesha Reddy
-**SRN**: PES1201800259
-**Link to Profile**: [RedDevesh](https://github.com/RedDevesh)
-**About Me**: 
+**Name**: B Devesha Reddy.         
+**SRN**: PES1201800259.        
+**Link to Profile**: [RedDevesh](https://github.com/RedDevesh).         
+**About Me**:           
 Hey! I'm Devesha, I like exploring and learning new things. I like to spend time in finding a new logic and implementing it in a code. 
 
 **Name**: Yukti Khosla  
@@ -378,6 +419,12 @@ Hey? My last attempt at watching an early monday morning movie before college re
 **About me**:  
 Gamer by birth, last respawned year 2000; Love physics and the math behind it; Very keen code reader, looking to put it to real use; Talking to machines science Pentium ||.
 
+**Name**:  Arpit Kumar    
+**SRN**:  PES1201800406  
+**Link to Profile**:  [arpit-k](https://github.com/arpit-k)  
+**About Me**:
+Hey folks,This is Arpit here and I love doing uncommon stuffs.
+
 **Name**: Amrutha U  
 **SRN**: PES1201801879  
 **Link to Profile**: [amrutha00](https://github.com/amrutha00)  
@@ -408,3 +455,33 @@ born curious, love reading about quantum computing want to excel in this field a
 **Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
+
+**Name**: S Krishna  
+**SRN**: PES1201801930  
+**Link to profile**: [krishnas2k](https://github.com/krishnas2k)  
+**About me**:  
+I don't keep myself updated with the latest technologies. And I am completely new to OpenSource. Want to explore the different domains of Computer Science and get better at programming. 
+
+**Name**: Abhijnana Kashyap  
+**SRN**: PES1201800155  
+**Link to Profile**: [enigma00155](https://github.com/enigma00155)  
+**About Me**:  
+Sup guys , I go by the handle as above.Had a lot issues with my name though its a simple one to spell out,interested in cyber security  alot. see u guys soon XD
+
+**Name**: Haritha GB  
+**SRN**: PES1201800325  
+**Link to profile**: https://github.com/harithagb  
+**About me**:  
+Hey, I'm Haritha! I'm your classic astrophysics x electronics nerd :) I code whenever I can and when I'm bored I sing or write! Don't even bother checking my GitHub account, it's new :D
+
+**Name**: Srinidhi Temkar  
+**SRN**: PES1201800255  
+**Link to Profile**: [srinidhitemkar](https://github.com/srinidhitemkar)  
+**About Me**:  
+Heya! I used to collect pistachio shells when I was younger. I have no idea why. I still have them xD. Also, currently wondering why almost everyone above have started their 'About Me' section with their names or usernames when they entered those in the sections just above it :')  
+
+**Name**: MAHESH D  
+**SRN**: PES1201800210  
+**Link to profile**: [maheshd20](https://github.com/maheshd20)  
+**About me**:  
+Well i spend countless hours arguing on the internet . NBA fanatic.. love gaming and weirdly enough i love math.
