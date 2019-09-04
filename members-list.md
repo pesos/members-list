@@ -19,6 +19,12 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**:Swati Naik. 
+**SRN**:PES1201801489. 
+**Link to Profile**:[swati-25](Https://GitHub.com/swati-25). 
+**About Me"":
+Whatever I do must be done perfectly. 
+
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
 **Link to Profile**: [mundra-pranay](https://github.com/mundra-pranay)  
