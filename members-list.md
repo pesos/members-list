@@ -15,7 +15,13 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 ## The list
 
-[Add your details over here] `← Don't remove this line`
+[Add your details over here] `← Don't remove this line`  
+
+**Name**: Srinath M P  
+**SRN**: PES1201801946  
+**Link to Profile**:[Srinathmp](https://github.com/Srinathmp)  
+**About Me**:
+Hi!! This is Srinath MP.I'm a problem seeker,perseverent solver,love reading novels,huge basketball fan.
 
 **Name**: Vybhav Bhadri  
 **SRN**: PES1201801764  
