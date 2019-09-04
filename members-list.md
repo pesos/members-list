@@ -19,6 +19,12 @@ Tell us something we don't know.
 
 [Add your details over here] `← Don't remove this line`
 
+**Name**: Aneesh Nagesh Bhat  
+**SRN**: PES1201800216  
+**Link to Profile**: [aneeshnbhat](https://github.com/aneeshnbhat)  
+**About Me**:  
+I like to learn new stuff, play video games and watch youtubers play video games, I'm interested in machine-learning, and like to code. 
+
 **Name**: S Surya Saveri  
 **SRN**: PES1201800791  
 **Link to Profile**:[saveri1205](https://github.com/saveri1205)  
@@ -29,7 +35,6 @@ Hey there i am Saveri. I love music and painting and i am a chocolate lover! :P.
 **SRN**: PES1201801802  
 **Link to Profile**: [WaterResistantCoder](https://github.com/[WaterResistantCoder])  
 **About Me**: Gamer/Otaku/Coder.  
-
 
 **Name**: Archana J   
 **SRN**: PES1201801306  
@@ -43,12 +48,11 @@ Heyy!! I'm Archana. I love math xD. I'm a coding enthusiast too! My hobbies are 
 **About Me**:  
 Hi, I like anime ,tv shows  and can watch them all day long(and sometimes i do). I like to draw and also use blender now and then . 
 
-
 **Name**: Swati Naik  
 **SRN**: PES1201801489  
 **Link to Profile**: [swati-25](Https://GitHub.com/swati-25)  
-**About Me"":
-Whatever I do must be done perfectly.  
+**About Me"":  
+Whatever I do must be done perfectly.
 
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
@@ -67,7 +71,6 @@ I am a newbie at open source and would be welcome to anything new to be learnt. 
 **Link to Profile**: [anand372](https://github.com/anand372)  
 **About Me**:  
 Hey guys!!!,i just love watching movies(especially animated),TV shows and killing time :),Also like to play sports like badminton and Football.
-
 
 **Name**: Adarsh Shetty  
 **SRN**: PES1201801305  
