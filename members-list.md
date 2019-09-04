@@ -43,6 +43,12 @@ Heyy!! I'm Archana. I love math xD. I'm a coding enthusiast too! My hobbies are 
 Hi, I like anime ,tv shows  and can watch them all day long(and sometimes i do). I like to draw and also use blender now and then . 
 
 
+**Name**: Swati Naik  
+**SRN**: PES1201801489  
+**Link to Profile**: [swati-25](Https://GitHub.com/swati-25)  
+**About Me"":
+Whatever I do must be done perfectly.  
+
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
 **Link to Profile**: [mundra-pranay](https://github.com/mundra-pranay)  
