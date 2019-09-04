@@ -1,6 +1,7 @@
 # The Official Members list
 
 ## Format
+
 > Please adhere to this format when adding your name to this list  
 > **Name**: [Your Full Name Here]  `<-- Don't forget to add two spaces here`  
 **SRN**: [SRN]  `<-- Don't forget to add two spaces here`  
@@ -39,7 +40,13 @@ Heyy!! I'm Archana. I love math xD. I'm a coding enthusiast too! My hobbies are 
 **SRN**: PES1201801166  
 **Link to Profile**: [mundra-pranay](https://github.com/mundra-pranay)  
 **About Me**:  
-What up this is the boring Pranay Mundra who has unconventional tastes in music and movies. I'm passionate about algorithms and data structures.
+What up this is the boring Pranay Mundra who has unconventional tastes in music and movies. I'm passionate about algorithms and data structures.  
+
+**Name**: Manu M Bhat  
+**SRN**: PES1201801452  
+**Link to Profile**: [ManuMBhat](https://github.com/ManuMBhat)  
+**About Me**:
+I am a newbie at open source and would be welcome to anything new to be learnt. I tend to get excited about lot of things and try to do many things(ik, not good!), but I do get most things accomplished(atleast that's what I believe).  
 
 **Name**: Anand Hegde  
 **SRN**: PES1201800133  
