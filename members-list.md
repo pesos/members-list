@@ -563,3 +563,9 @@ Well i spend countless hours arguing on the internet . NBA fanatic.. love gaming
 **Link to Profile**: [jayanarayanan](https://github.com/jayanarayanan)  
 **About Me**:  
 Hey. I'm Jayanarayanan, and people call me Jay. New to open source, but looking forward to learn a lot. Also, don't bother checking my github profile, you won't find anything.  
+
+**Name**: Samhita Irrinki  
+**SRN**: PES1201800394  
+**Link to Profile**: [Samhita25](https://github.com/[Samhita25])  
+**About Me**:  
+Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostly a beginner but really excited and keen on learning more. One hundered percent an extrovert and always excited to interact and throw ideas!  
