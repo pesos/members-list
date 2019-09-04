@@ -14,7 +14,6 @@ Tell us something we don't know.
 ---
 **Do not modify anything above this line** ^
 
-
 ## The list
 
 [Add your details over here] `← Don't remove this line`
@@ -28,6 +27,13 @@ Hey there i am Saveri. I love music and painting and i am a chocolate lover! :P.
 **SRN**: PES1201801802  
 **Link to Profile**: [WaterResistantCoder](https://github.com/[WaterResistantCoder])  
 **About Me**: Gamer/Otaku/Coder.  
+
+
+**Name**: Archana J   
+**SRN**: PES1201801306  
+**Link to Profile**: [archana](https://github.com/archu-2000)  
+**About Me**:  
+Heyy!! I'm Archana. I love math xD. I'm a coding enthusiast too! My hobbies are singing and dancing. 
 
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
