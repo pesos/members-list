@@ -491,6 +491,12 @@ born curious, love reading about quantum computing want to excel in this field a
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
 
+**Name**: Rahul K R  
+**SRN**: PES1201802064    
+**Link to Profile**: [RahulKR](https://github.com/RahulRavishankar)    
+**About Me**:  
+Hey, I'm Rahul. I'm interested in Machine Learning and Computer Vision. Excited to keep learning and working with like-minded people.
+
 **Name**: Ishan Agarwal
 **SRN**: PES1201800291
 **Link to profile**: [ishanagarwal1606](https://github.com/ishanagarwal1606)
@@ -539,4 +545,3 @@ Heya! I used to collect pistachio shells when I was younger. I have no idea why.
 **Link to profile**: [maheshd20](https://github.com/maheshd20)  
 **About me**:  
 Well i spend countless hours arguing on the internet . NBA fanatic.. love gaming and weirdly enough i love math.
-
