@@ -18,6 +18,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 =======
 [Add your details over here] `← Don't remove this line`  
 
+**Name**: Ch. Vishal Ratnam  
+**SRN**: PES1201701775  
+**Link to Profile**:  [Vishalratnam](https://github.com/Vishalratnam)  
+**About Me**:  
+Hey! I can code all day.  
+
 **Name**: R  Sree Harsha Reddy  
 **SRN**: PES1201800233  
 **Link to Profile**:  [harsha7108](https://github.com/harsha7108)  
