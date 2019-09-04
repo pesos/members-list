@@ -18,6 +18,16 @@ Tell us something we don't know.
 ## The list
 
 [Add your details over here] `← Don't remove this line`
+**Name**: S Surya Saveri  
+**SRN**: PES1201800791  
+**Link to Profile**:[saveri1205](https://github.com/saveri1205)  
+**About Me**:  
+Hey there i am Saveri. I love music and painting and i am a chocolate lover! :P.I am really excuted to be a part of PESOS
+
+**Name**: Ravichandu S  
+**SRN**: PES1201801802  
+**Link to Profile**: [WaterResistantCoder](https://github.com/[WaterResistantCoder])  
+**About Me**: Gamer/Otaku/Coder.  
 
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
@@ -79,10 +89,10 @@ Hey !! I'm Bhargav SNV, I'm a huge Sci-Fi lover and I'm mostly into the cyber se
 **About Me**:  
 Hi! I love watching anime stuff,TV series and also interested in coding small games like 2048 which i have done it in my 2nd semester as a project.   
 
-**Name**: B Devesha Reddy
-**SRN**: PES1201800259
-**Link to Profile**: [RedDevesh](https://github.com/RedDevesh)
-**About Me**: 
+**Name**: B Devesha Reddy.         
+**SRN**: PES1201800259.        
+**Link to Profile**: [RedDevesh](https://github.com/RedDevesh).         
+**About Me**:           
 Hey! I'm Devesha, I like exploring and learning new things. I like to spend time in finding a new logic and implementing it in a code. 
 
 **Name**: Yukti Khosla  
@@ -407,4 +417,10 @@ Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
 **SRN**: PES1201800255  
 **Link to Profile**: [srinidhitemkar](https://github.com/srinidhitemkar)  
 **About Me**:  
-Heya! I used to collect pistachio shells when I was younger. I have no idea why. I still have them xD. Also, currently wondering why almost everyone above have started their 'About Me' section with their names or usernames when they know everyone can see those in the sections just above it :')  
+Heya! I used to collect pistachio shells when I was younger. I have no idea why. I still have them xD. Also, currently wondering why almost everyone above have started their 'About Me' section with their names or usernames when they entered those in the sections just above it :')  
+
+**Name**:  MAHESH D    
+**SRN**:  PES1201800210    
+**Link to profile**:  [maheshd20](https://github.com/maheshd20)  
+**About me**:  
+Well i spend countless hours arguing on the internet . NBA fanatic.. love gaming and weirdly enough i love math.
