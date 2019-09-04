@@ -18,6 +18,11 @@ Tell us something we don't know.
 ## The list
 
 [Add your details over here] `← Don't remove this line`
+**Name**: S Surya Saveri  
+**SRN**: PES1201800791  
+**Link to Profile**:[saveri1205](https://github.com/saveri1205)  
+**About Me**:  
+Hey there i am Saveri. I love music and painting and i am a chocolate lover! :P.I am really excuted to be a part of PESOS
 
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
