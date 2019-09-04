@@ -569,3 +569,9 @@ Hey. I'm Jayanarayanan, and people call me Jay. New to open source, but looking 
 **Link to Profile**: [Samhita25](https://github.com/[Samhita25])  
 **About Me**:  
 Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostly a beginner but really excited and keen on learning more. One hundered percent an extrovert and always excited to interact and throw ideas!  
+
+**Name**: Utkarsh Verma  
+**SRN**: PES12018003300  
+**Link to profile**: [utkarshfz](https://github.com/utkarshfz)  
+**About me**:  
+Like working on new stuffs.  
