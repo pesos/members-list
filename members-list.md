@@ -491,6 +491,12 @@ born curious, love reading about quantum computing want to excel in this field a
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
 
+ **Name**: Kavya S   
+**SRN**: PES1201801445    
+**Link to Profile**: [Kavya-Shekar](https://github.com/Kavya-Shekar)   
+**About Me**:  
+Hii everyone, I'm Kavya. Enjoy watching random tv-series and listening to ballad songs. Starting to learn about machine learning and a bit of wed-dev.   
+
 **Name**: Rahul K R  
 **SRN**: PES1201802064    
 **Link to Profile**: [RahulKR](https://github.com/RahulRavishankar)    
