@@ -462,6 +462,12 @@ born curious, love reading about quantum computing want to excel in this field a
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
 
+**Name**: Rehan Vipin  
+**SRN**: PES1201801655  
+**Link to profile**: [rehanvipin](https://github.com/rehanvipin)  
+**About me**:  
+I love contributing to free and open-source software which helps them with their tasks. I would contribute actively to any software developed by Pesos. I primarily work on security and networks(Separately!)
+
 **Name**: S Krishna  
 **SRN**: PES1201801930  
 **Link to profile**: [krishnas2k](https://github.com/krishnas2k)  
