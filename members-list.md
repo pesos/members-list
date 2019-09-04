@@ -15,7 +15,14 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 ## The list
 
+=======
 [Add your details over here] `← Don't remove this line`  
+
+**Name**: R  Sree Harsha Reddy  
+**SRN**: PES1201800233  
+**Link to Profile**:  [harsha7108](https://github.com/harsha7108)  
+**About Me**:  
+Hey! I like to learn new stuff .I'm a sport fanatic and a big fan of Manchester United.   
 
 **Name**: Srinath M P  
 **SRN**: PES1201801946  
@@ -69,7 +76,6 @@ Whatever I do must be done perfectly.
 **Link to Profile**: [soundaryaganesh](https://github.com/soundaryaganesh)  
 **About Me**:  
 Hey people! It's Soundarya here. I'm usually the girl with the guitar and who also uses a :) very often. Singing, swimming and playing tennis all day long doesn't tire me. I'm relatively new to Open Source. Waiting to meet and learn from y'all :)  
-
 
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
