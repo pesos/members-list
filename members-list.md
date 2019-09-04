@@ -64,6 +64,13 @@ Hi, I like anime ,tv shows  and can watch them all day long(and sometimes i do).
 **About Me"":  
 Whatever I do must be done perfectly.
 
+**Name**:  G Soundarya  
+**SRN**: PES1201801222  
+**Link to Profile**: [soundaryaganesh](https://github.com/soundaryaganesh)  
+**About Me**:  
+Hey people! It's Soundarya here. I'm usually the girl with the guitar and who also uses a :) very often. Singing, swimming and playing tennis all day long doesn't tire me. I'm relatively new to Open Source. Waiting to meet and learn from y'all :)  
+
+
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
 **Link to Profile**: [mundra-pranay](https://github.com/mundra-pranay)  
