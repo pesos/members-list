@@ -420,7 +420,6 @@ Gamer by birth, last respawned year 2000; Love physics and the math behind it; V
 **About Me**:
 Hey folks,This is Arpit here and I love doing uncommon stuffs.
 
-=======
 **Name**: Amrutha U  
 **SRN**: PES1201801879  
 **Link to Profile**: [amrutha00](https://github.com/amrutha00)  
