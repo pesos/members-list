@@ -402,3 +402,11 @@ born curious, love reading about quantum computing want to excel in this field a
 **Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
+
+**Name**: Shivansh Kohli <br/>
+**SRN**: PES1201801966    <br/>
+**Link to profile**: [shivansh8](https://github.com/shivansh8)<br/>
+**About me**: 
+Hey!! Shivansh here. i love coding,reading and gaming. Cricket is life.Athelete.Learner.
+
+
