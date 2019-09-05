@@ -407,6 +407,6 @@ Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
 **SRN**: PES1201801966    <br/>
 **Link to profile**: [shivansh8](https://github.com/shivansh8)<br/>
 **About me**: 
-Hey!! Shivansh here. i love coding,reading and gaming. Cricket is life.Athelete.Learner.
+Hey!! Shivansh here.I love coding,reading and gaming. Cricket is life. Athelete.Learner.
 
 
