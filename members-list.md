@@ -584,6 +584,6 @@ Like working on new stuffs.
 
 **Name**: Ramakrishna Siddharth V  
 **SRN**: PES1201800439
-**Link to profile**: [skywalker60](https://github.com/skywalker60
+**Link to profile**: [skywalker60](https://github.com/skywalker60)
 **About me**:  
 Hey! siddharth here, huge star wars fan and love video games , learning machine lerning and game dev!
