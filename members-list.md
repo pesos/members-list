@@ -609,3 +609,9 @@ Heyy, I'm siddart! I am a beginner but always enthusiastic to explore new topics
 **About me**:  
 I am a keen learner with acute interest in Data Science (Cliche) and the Math behind it.  
 
+**Name**: Saurav Nayak
+**SRN**: PES1201801307
+**Link to profile**: [Saurav51](https://github.com/Saurav51)
+**About me**:
+Coding enthusiast and always open to new ideas.  
+
