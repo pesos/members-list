@@ -23,8 +23,8 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 **Link to Profile**: [prathima-b](https://github.com/prathima-b)  
 **About Me**:  
 Hey!,I try to explore things but never really end up in a topic which is related to the one I started with and
-I like to be more of a routine-mechanical person than a research type in the future,
-I also have watched a lot of tv shows ... :) .
+I like to be more of a routine-mechanical person than a research type in the future.
+Also I love to play outdoor games.
 
 **Name**: Ch. Vishal Ratnam 
 **SRN**: PES1201701775  
