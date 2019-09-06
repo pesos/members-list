@@ -597,6 +597,12 @@ Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostl
 **About me**:  
 Like working on new stuffs.  
 
+**Name**: Ramakrishna Siddharth V  
+**SRN**: PES1201800439    
+**Link to profile**: [skywalker60](https://github.com/skywalker60)    
+**About me**:  
+Hey! siddharth here, huge star wars fan and love video games , learning machine lerning and game dev!  
+
 **Name**: Siddart Maddi  
 **SRN**: PES1201800269  
 **Link to profile**: [siddartmaddi](https://github.com/siddartmaddi)  
@@ -614,4 +620,3 @@ I am a keen learner with acute interest in Data Science (Cliche) and the Math be
 **Link to profile**: [Saurav51](https://github.com/Saurav51)
 **About me**:
 Coding enthusiast and always open to new ideas.  
-
