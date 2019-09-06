@@ -18,7 +18,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 [Add your details over here] `← Don't remove this line`  
 
-**Name**: Ch. Vishal Ratnam  
+**Name**: Ch. Vishal Ratnam 
 **SRN**: PES1201701775  
 **Link to Profile**:  [Vishalratnam](https://github.com/Vishalratnam)  
 **About Me**:  
@@ -579,7 +579,7 @@ Hey. I'm Jayanarayanan, and people call me Jay. New to open source, but looking 
 
 **Name**: Samhita Irrinki  
 **SRN**: PES1201800394  
-**Link to Profile**: [Samhita25](https://github.com/[Samhita25])  
+**Link to Profile**: [Samhita25](https://github.com/[Samhita25])
 **About Me**:  
 Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostly a beginner but really excited and keen on learning more. One hundered percent an extrovert and always excited to interact and throw ideas!  
 
@@ -589,8 +589,15 @@ Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostl
 **About me**:  
 Like working on new stuffs.  
 
+**Name**: Siddart Maddi  
+**SRN**: PES1201800269  
+**Link to profile**: [siddartmaddi](https://github.com/siddartmaddi)  
+**About me**:  
+Heyy, I'm siddart! I am a beginner but always enthusiastic to explore new topics and i can adapt to any situation quickly. I'm always ready to pitch in new ideas. Interested in NLP and Image processing and want to explore more in it.
+
 **Name**: Samarth Mathur  
 **SRN**: PES1201800290  
 **Link to profile**: [electricSamarth](https://github.com/electricSamarth)  
 **About me**:  
 I am a keen learner with acute interest in Data Science (Cliche) and the Math behind it.  
+
