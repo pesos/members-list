@@ -15,7 +15,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 ## The list
 
-=======
+
 [Add your details over here] `← Don't remove this line`  
 
 **Name**: Ch. Vishal Ratnam 
@@ -88,6 +88,13 @@ Hey people! It's Soundarya here. I'm usually the girl with the guitar and who al
 **Link to Profile**: [tanckk](https;//github.com/tanckk)  
 **About Me**:  
 Heyy! A football fan (playing, but not watching), lover of fiction, sci-fi and fantasy, and knowledge seeker. Looking forward to "formally" and "properly" working with GitHub and contributing to open source. Main motive is to learn though! ;)
+
+**Name**: Gaurav Pandey  
+**SRN**: PES1201801145  
+**Link to Profile**: [GauravPandey892](https://github.com/GauravPandey892)  
+**About Me**:  
+Knock, Knock. Who’s there? Gaurav. Gaurav who? Gaurav who likes to read books, run and play guitar.   
+Okay bye!!!
 
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
@@ -582,12 +589,15 @@ Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostl
 **About me**:  
 Like working on new stuffs.  
 
-**Name**: Siddart Maddi
-**SRN**: PES1201800269
+**Name**: Siddart Maddi  
+**SRN**: PES1201800269  
 **Link to profile**: [siddartmaddi](https://github.com/siddartmaddi)  
 **About me**:  
 Heyy, I'm siddart! I am a beginner but always enthusiastic to explore new topics and i can adapt to any situation quickly. I'm always ready to pitch in new ideas. Interested in NLP and Image processing and want to explore more in it.
 
-
-
+**Name**: Samarth Mathur  
+**SRN**: PES1201800290  
+**Link to profile**: [electricSamarth](https://github.com/electricSamarth)  
+**About me**:  
+I am a keen learner with acute interest in Data Science (Cliche) and the Math behind it.  
 
