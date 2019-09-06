@@ -15,7 +15,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 ## The list
 
-=======
+
 [Add your details over here] `← Don't remove this line`  
 
 **Name**: Ch. Vishal Ratnam  
