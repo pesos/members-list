@@ -581,3 +581,9 @@ Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostl
 **Link to profile**: [utkarshfz](https://github.com/utkarshfz)  
 **About me**:  
 Like working on new stuffs.  
+
+**Name**: Samarth Mathur  
+**SRN**: PES1201800290  
+**Link to profile**: [electricSamarth](https://github.com/electricSamarth)  
+**About me**:  
+I am a keen learner with acute interest in Data Science (Cliche) and the Math behind it.  
