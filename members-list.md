@@ -15,10 +15,18 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 ## The list
 
-=======
+
 [Add your details over here] `← Don't remove this line`  
 
-**Name**: Ch. Vishal Ratnam  
+**Name**: Prathima B  
+**SRN**: PES1201801889  
+**Link to Profile**: [prathima-b](https://github.com/prathima-b)  
+**About Me**:  
+Hey!,I try to explore things but never really end up in a topic which is related to the one I started with and
+I like to be more of a routine-mechanical person than a research type in the future.
+Also I love to play outdoor games.
+
+**Name**: Ch. Vishal Ratnam 
 **SRN**: PES1201701775  
 **Link to Profile**:  [Vishalratnam](https://github.com/Vishalratnam)  
 **About Me**:  
@@ -88,6 +96,13 @@ Hey people! It's Soundarya here. I'm usually the girl with the guitar and who al
 **Link to Profile**: [tanckk](https;//github.com/tanckk)  
 **About Me**:  
 Heyy! A football fan (playing, but not watching), lover of fiction, sci-fi and fantasy, and knowledge seeker. Looking forward to "formally" and "properly" working with GitHub and contributing to open source. Main motive is to learn though! ;)
+
+**Name**: Gaurav Pandey  
+**SRN**: PES1201801145  
+**Link to Profile**: [GauravPandey892](https://github.com/GauravPandey892)  
+**About Me**:  
+Knock, Knock. Who’s there? Gaurav. Gaurav who? Gaurav who likes to read books, run and play guitar.   
+Okay bye!!!
 
 **Name**: Pranay Mundra  
 **SRN**: PES1201801166  
@@ -572,7 +587,7 @@ Hey. I'm Jayanarayanan, and people call me Jay. New to open source, but looking 
 
 **Name**: Samhita Irrinki  
 **SRN**: PES1201800394  
-**Link to Profile**: [Samhita25](https://github.com/[Samhita25])  
+**Link to Profile**: [Samhita25](https://github.com/[Samhita25])
 **About Me**:  
 Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostly a beginner but really excited and keen on learning more. One hundered percent an extrovert and always excited to interact and throw ideas!  
 
@@ -587,3 +602,21 @@ Like working on new stuffs.
 **Link to profile**: [skywalker60](https://github.com/skywalker60)    
 **About me**:  
 Hey! siddharth here, huge star wars fan and love video games , learning machine lerning and game dev!  
+
+**Name**: Siddart Maddi  
+**SRN**: PES1201800269  
+**Link to profile**: [siddartmaddi](https://github.com/siddartmaddi)  
+**About me**:  
+Heyy, I'm siddart! I am a beginner but always enthusiastic to explore new topics and i can adapt to any situation quickly. I'm always ready to pitch in new ideas. Interested in NLP and Image processing and want to explore more in it.
+
+**Name**: Samarth Mathur  
+**SRN**: PES1201800290  
+**Link to profile**: [electricSamarth](https://github.com/electricSamarth)  
+**About me**:  
+I am a keen learner with acute interest in Data Science (Cliche) and the Math behind it.  
+
+**Name**: Saurav Nayak
+**SRN**: PES1201801307
+**Link to profile**: [Saurav51](https://github.com/Saurav51)
+**About me**:
+Coding enthusiast and always open to new ideas.  
