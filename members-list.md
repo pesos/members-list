@@ -620,3 +620,10 @@ I am a keen learner with acute interest in Data Science (Cliche) and the Math be
 **Link to profile**: [Saurav51](https://github.com/Saurav51)
 **About me**:
 Coding enthusiast and always open to new ideas.  
+
+**Name**: Arindaam Mandal  
+**SRN**: PES1201800274  
+**Link to profile**: [Arindaam](https://github.com/Arindaam)  
+**About me**:
+Football enthusiast.  
+
