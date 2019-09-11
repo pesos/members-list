@@ -15,8 +15,13 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 ## The list
 
-
 [Add your details over here] `← Don't remove this line`  
+
+**Name**: Raghavendra. M  
+**SRN**: PES1201801434  
+**Link to Profile**: [raghavendra-21](https://github.com/raghavendra-21)  
+**About Me**:  
+Hey! An enthusiastic learner here :')  
 
 **Name**: Ruthwik HM  
 **SRN**: PES1201800174  
