@@ -23,6 +23,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 **About Me**:  
 Hey! An enthusiastic learner here :')  
 
+**Name**: Ruthwik HM  
+**SRN**: PES1201800174  
+**Link to Profile**:  [RuthwikHM](https://github.com/RuthwikHM)  
+**About Me**:  
+An NBA fan and I also watch anime. Would really like to learn something new.  
+
 **Name**: Prathima B  
 **SRN**: PES1201801889  
 **Link to Profile**: [prathima-b](https://github.com/prathima-b)  
@@ -632,3 +638,8 @@ Coding enthusiast and always open to new ideas.
 **About me**:
 Football enthusiast.  
 
+**Name**: Umashankar Sivakumar  
+**SRN**: PES1201701296  
+**Link to profile**: [UmashankarTriforce](https://github.com/UmashankarTriforce)  
+**About me**:  
+Open Source Contributor and an Avid Coder
