@@ -20,9 +20,9 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 **Name**: Ruthwik HM  
 **SRN**: PES1201800174  
-**Link to Profile**:  [RuthwikHM](https://github.com/RuthwikHM)
-**About Me**:
-An NBA fan and I also watch anime. Would really like to learn something new. 
+**Link to Profile**:  [RuthwikHM](https://github.com/RuthwikHM)  
+**About Me**:  
+An NBA fan and I also watch anime. Would really like to learn something new.  
 
 **Name**: Prathima B  
 **SRN**: PES1201801889  
