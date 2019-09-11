@@ -18,6 +18,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 [Add your details over here] `← Don't remove this line`  
 
+**Name**: Ruthwik HM  
+**SRN**: PES1201800174  
+**Link to Profile**:  [RuthwikHM](https://github.com/RuthwikHM)
+**About Me**:
+An NBA fan and I also watch anime. Would really like to learn something new. 
+
 **Name**: Prathima B  
 **SRN**: PES1201801889  
 **Link to Profile**: [prathima-b](https://github.com/prathima-b)  
