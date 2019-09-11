@@ -15,8 +15,19 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 ## The list
 
-
 [Add your details over here] `← Don't remove this line`  
+
+**Name**: Raghavendra. M  
+**SRN**: PES1201801434  
+**Link to Profile**: [raghavendra-21](https://github.com/raghavendra-21)  
+**About Me**:  
+Hey! An enthusiastic learner here :')  
+
+**Name**: Ruthwik HM  
+**SRN**: PES1201800174  
+**Link to Profile**:  [RuthwikHM](https://github.com/RuthwikHM)  
+**About Me**:  
+An NBA fan and I also watch anime. Would really like to learn something new.  
 
 **Name**: Prathima B  
 **SRN**: PES1201801889  
@@ -631,4 +642,11 @@ Football enthusiast.
 **SRN**:PES1201801747  
 **Link to profile**:[NarayanPK](https://github.com/NarayanPK)  
 **About**:  
-I m kho-kho player,interseted in mathematics
+I m kho-kho player,interseted in mathematics  
+
+**Name**: Umashankar Sivakumar  
+**SRN**: PES1201701296  
+**Link to profile**: [UmashankarTriforce](https://github.com/UmashankarTriforce)  
+**About me**:  
+Open Source Contributor and an Avid Coder  
+
