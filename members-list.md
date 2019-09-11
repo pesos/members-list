@@ -629,6 +629,6 @@ Football enthusiast.
 
 **Name**: Umashankar Sivakumar
 **SRN**: PES1201701296
-**Link to profile**: [Arindaam](https://github.com/UmashankarTriforce)  
+**Link to profile**: [UmashankarTriforce](https://github.com/UmashankarTriforce)  
 **About me**:
 Open Source Contributor and an Avid Coder
