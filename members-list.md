@@ -17,6 +17,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 [Add your details over here] `← Don't remove this line`  
 
+**Name**: Anup B S  
+**SRN**: PES1201701730  
+**Link to Profile**: [AnupBS](https://github.com/AnupBS28)  
+**About Me**:
+Hey there! I Love playing sports especially TT,Cricket and Badminton !! Love coding sometimes :)
+
 **Name**: Raghavendra. M  
 **SRN**: PES1201801434  
 **Link to Profile**: [raghavendra-21](https://github.com/raghavendra-21)  
