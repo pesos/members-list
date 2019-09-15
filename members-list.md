@@ -402,3 +402,10 @@ born curious, love reading about quantum computing want to excel in this field a
 **Link to profile**: [Ojjie](https://github.com/Ojjie)<br/>
 **About me**: 
 Student Developer.Likes to quiz.Interested in Open Source.Master Procrastinator.
+
+**Name**: Sathvik Srinivas  
+**SRN**: PES1201800358  
+**Link to Profile**: [sathvik0710](https://github.com/sathvik0710)    
+**About Me**:   
+Hi, Sathvik here. Book lover. Fan of Greek mythology. Not that it has any connection with what happens here:) New to GitHub by the way. My GitHub profile name is sathvik0710. 
+
