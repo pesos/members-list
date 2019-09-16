@@ -17,6 +17,13 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 [Add your details over here] `← Don't remove this line`  
 
+**Name**: Pranav S Nair    
+**SRN**: PES1201800288    
+**Link to Profile**: [pranavsnair2000](https://github.com/pranavsnair2000)  
+**About Me**:  
+Pretty much a total noob when it comes to do with anything useful XD, but I like solving problems of almost any kind. Wanna make the best out of college and life in general. Find the concept of thoughts fascinating, along with other random stuff like infinite possibilities and like the multiverse n stuff. I guess I just generally like daydreaming in class a lot XD.
+
+
 **Name**: Anup B S  
 **SRN**: PES1201701730  
 **Link to Profile**: [AnupBS](https://github.com/AnupBS28)  
