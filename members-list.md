@@ -15,7 +15,13 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 ## The list
 
-[Add your details over here] `← Don't remove this line`  
+[Add your details over here] `← Don't remove this line` 
+
+**Name**:Suraj M S
+**SRN**:PES1201800363
+**Link to Profile**:[suraj-shivu](https://github.com/suraj-shivu)
+**About Me**:Hey I'm Suraj , I'm a total noob at stuff , but love to solve problems, love coding but end up getting distracted to read stuff like web novels,manga and thrillers. I'm interested in a lot of stuff such as mobile app development , data analytics , data science .
+
 **Name**: K A ADEAB 
 **SRN**: PES1201801308 
 **Link to Profile**: [AidenFawkes](https://github.com/AidenFawkes)  
