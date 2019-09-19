@@ -56,7 +56,7 @@ Hey!,I try to explore things but never really end up in a topic which is related
 I like to be more of a routine-mechanical person than a research type in the future.
 Also I love to play outdoor games.
 
-**Name**: Ch. Vishal Ratnam 
+**Name**: Ch. Vishal Ratnam  
 **SRN**: PES1201701775  
 **Link to Profile**:  [Vishalratnam](https://github.com/Vishalratnam)  
 **About Me**:  
@@ -71,7 +71,7 @@ Hey! I like to learn new stuff .I'm a sport fanatic and a big fan of Manchester 
 **Name**: Srinath M P  
 **SRN**: PES1201801946  
 **Link to Profile**:[Srinathmp](https://github.com/Srinathmp)  
-**About Me**:
+**About Me**:  
 Hi!! This is Srinath MP.I'm a problem seeker,perseverent solver,love reading novels,huge basketball fan.
 
 **Name**: Vybhav Bhadri  
@@ -112,7 +112,7 @@ Hi, I like anime ,tv shows  and can watch them all day long(and sometimes i do).
 **Name**: Swati Naik  
 **SRN**: PES1201801489  
 **Link to Profile**: [swati-25](Https://GitHub.com/swati-25)  
-**About Me"":  
+**About Me**:  
 Whatever I do must be done perfectly.
 
 **Name**:  G Soundarya  
