@@ -17,15 +17,15 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 
 [Add your details over here] `← Don't remove this line` 
 
-**Name**:Suraj M S
-**SRN**:PES1201800363
-**Link to Profile**:[suraj-shivu](https://github.com/suraj-shivu)
+**Name**:Suraj M S  
+**SRN**:PES1201800363  
+**Link to Profile**:[suraj-shivu](https://github.com/suraj-shivu)  
 **About Me**:Hey I'm Suraj , I'm a total noob at stuff , but love to solve problems, love coding but end up getting distracted to read stuff like web novels,manga and thrillers. I'm interested in a lot of stuff such as mobile app development , data analytics , data science .
-
-**Name**: K A ADEAB 
-**SRN**: PES1201801308 
+  
+**Name**: K A ADEAB  
+**SRN**: PES1201801308  
 **Link to Profile**: [AidenFawkes](https://github.com/AidenFawkes)  
-**About Me**: It's pronounced Adeeb not Adaeb or adiyab.I Spend most of my time on reddit and playing video games. 
+**About Me**: It's pronounced Adeeb not Adaeb or adiyab.I Spend most of my time on reddit and playing video games.  
 
 **Name**: Pranav S Nair    
 **SRN**: PES1201800288    
@@ -37,7 +37,7 @@ Pretty much a total noob when it comes to do with anything useful XD, but I like
 **Name**: Anup B S  
 **SRN**: PES1201701730  
 **Link to Profile**: [AnupBS](https://github.com/AnupBS28)  
-**About Me**:
+**About Me**:  
 Hey there! I Love playing sports especially TT,Cricket and Badminton !! Love coding sometimes :)
 
 **Name**: Raghavendra. M  
@@ -52,6 +52,12 @@ Hey! An enthusiastic learner here :')
 **About Me**:  
 An NBA fan and I also watch anime. Would really like to learn something new.  
 
+**Name**: Rishith Bhowmick  
+**SRN**: PES1201801912  
+**Link to Profile**:  [RishithBhowmick](https://github.com/RishithBhowmick)  
+**About Me**:  
+An interesting person with a passion of pursuing DS and ML and would like to make an impact in the open source commity.    
+
 **Name**: Prathima B  
 **SRN**: PES1201801889  
 **Link to Profile**: [prathima-b](https://github.com/prathima-b)  
@@ -60,7 +66,7 @@ Hey!,I try to explore things but never really end up in a topic which is related
 I like to be more of a routine-mechanical person than a research type in the future.
 Also I love to play outdoor games.
 
-**Name**: Ch. Vishal Ratnam 
+**Name**: Ch. Vishal Ratnam  
 **SRN**: PES1201701775  
 **Link to Profile**:  [Vishalratnam](https://github.com/Vishalratnam)  
 **About Me**:  
@@ -75,7 +81,7 @@ Hey! I like to learn new stuff .I'm a sport fanatic and a big fan of Manchester 
 **Name**: Srinath M P  
 **SRN**: PES1201801946  
 **Link to Profile**:[Srinathmp](https://github.com/Srinathmp)  
-**About Me**:
+**About Me**:  
 Hi!! This is Srinath MP.I'm a problem seeker,perseverent solver,love reading novels,huge basketball fan.
 
 **Name**: Vybhav Bhadri  
@@ -116,7 +122,7 @@ Hi, I like anime ,tv shows  and can watch them all day long(and sometimes i do).
 **Name**: Swati Naik  
 **SRN**: PES1201801489  
 **Link to Profile**: [swati-25](Https://GitHub.com/swati-25)  
-**About Me"":  
+**About Me**:  
 Whatever I do must be done perfectly.
 
 **Name**:  G Soundarya  
@@ -210,10 +216,10 @@ Hey !! I'm Bhargav SNV, I'm a huge Sci-Fi lover and I'm mostly into the cyber se
 **About Me**:  
 Hi! I love watching anime stuff,TV series and also interested in coding small games like 2048 which i have done it in my 2nd semester as a project.   
 
-**Name**: B Devesha Reddy
-**SRN**: PES1201800259
-**Link to Profile**: [RedDevesh](https://github.com/RedDevesh)
-**About Me**: 
+**Name**: B Devesha Reddy  
+**SRN**: PES1201800259  
+**Link to Profile**: [RedDevesh](https://github.com/RedDevesh)  
+**About Me**:  
 Hey! I'm Devesha, I like exploring and learning new things. I like to spend time in finding a new logic and implementing it in a code.
 
 **Name**: Rochak Kaushik  
