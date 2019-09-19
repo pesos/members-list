@@ -16,10 +16,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forwars to 
 ## The list
 
 [Add your details over here] `← Don't remove this line`  
-**Name**: K A ADEAB 
-**SRN**: PES1201801308 
+
+
+**Name**: K A ADEAB  
+**SRN**: PES1201801308  
 **Link to Profile**: [AidenFawkes](https://github.com/AidenFawkes)  
-**About Me**: It's pronounced Adeeb not Adaeb or adiyab.I Spend most of my time on reddit and playing video games. 
+**About Me**: It's pronounced Adeeb not Adaeb or adiyab.I Spend most of my time on reddit and playing video games.  
 
 **Name**: Pranav S Nair    
 **SRN**: PES1201800288    
@@ -31,7 +33,7 @@ Pretty much a total noob when it comes to do with anything useful XD, but I like
 **Name**: Anup B S  
 **SRN**: PES1201701730  
 **Link to Profile**: [AnupBS](https://github.com/AnupBS28)  
-**About Me**:
+**About Me**:  
 Hey there! I Love playing sports especially TT,Cricket and Badminton !! Love coding sometimes :)
 
 **Name**: Raghavendra. M  
