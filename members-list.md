@@ -48,6 +48,12 @@ Hey! An enthusiastic learner here :')
 **About Me**:  
 An NBA fan and I also watch anime. Would really like to learn something new.  
 
+**Name**: Rishith Bhowmick  
+**SRN**: PES1201801912  
+**Link to Profile**:  [RishithBhowmick](https://github.com/RishithBhowmick)  
+**About Me**:  
+An interesting person with a passion of pursuing DS and ML and would like to make an impact in the open source commity.    
+
 **Name**: Prathima B  
 **SRN**: PES1201801889  
 **Link to Profile**: [prathima-b](https://github.com/prathima-b)  
