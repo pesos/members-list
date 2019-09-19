@@ -206,10 +206,10 @@ Hey !! I'm Bhargav SNV, I'm a huge Sci-Fi lover and I'm mostly into the cyber se
 **About Me**:  
 Hi! I love watching anime stuff,TV series and also interested in coding small games like 2048 which i have done it in my 2nd semester as a project.   
 
-**Name**: B Devesha Reddy
-**SRN**: PES1201800259
-**Link to Profile**: [RedDevesh](https://github.com/RedDevesh)
-**About Me**: 
+**Name**: B Devesha Reddy  
+**SRN**: PES1201800259  
+**Link to Profile**: [RedDevesh](https://github.com/RedDevesh)  
+**About Me**:  
 Hey! I'm Devesha, I like exploring and learning new things. I like to spend time in finding a new logic and implementing it in a code.
 
 **Name**: Rochak Kaushik  
