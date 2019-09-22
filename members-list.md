@@ -590,11 +590,11 @@ Hii everyone, I'm Kavya. Enjoy watching random tv-series and listening to ballad
 **About Me**:  
 Hey, I'm Rahul. I'm interested in Machine Learning and Computer Vision. Excited to keep learning and working with like-minded people.
 
-**Name**: Ishan Agarwal
-**SRN**: PES1201800291
-**Link to profile**: [ishanagarwal1606](https://github.com/ishanagarwal1606)
-**About me**: 
-Challenge me to laziness, and i'll think about it, probably. Dream company : Google <3 , Learning competitive coding.
+**Name**: Ishan Agarwal  
+**SRN**: PES1201800291  
+**Link to profile**: [ishanagarwal1606](https://github.com/ishanagarwal1606)  
+**About me**:  
+Challenge me to laziness, and i'll think about it, probably. Dream company : Google <3 , Learning competitive coding.  
 
 **Name**: Nisha S  
 **SRN**: PES1201801777  
