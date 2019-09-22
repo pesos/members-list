@@ -18,6 +18,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`  
 
+**Name**:  Prateek Nayak  
+**SRN**:  PES1201800054  
+**Link to Profile**:  [Kriyszig](https://github.com/Kriyszig)  
+**About Me**:  
+A 1x developer with a keen interest in Cryptography (mostly Onion Routing), WebAssembly, Data Compression and Distributed Systems. I have been told I'm a very calm person so don't hesitate to reach out if you want to talk tech or anything in general.
+
 **Name**:  E.N.s.Sashank Reddy  
 **SRN**:  PES1201801852    
 **Link to Profile**:  [sashank-reddy](https://github.com/sashank-reddy)  
@@ -112,7 +118,7 @@ Hey there i am Saveri. I love music and painting and i am a chocolate lover! :P.
 
 **Name**: Ravichandu S  
 **SRN**: PES1201801802  
-**Link to Profile**: [WaterResistantCoder](https://github.com/[WaterResistantCoder])  
+**Link to Profile**: [WaterResistantCoder](https://github.com/WaterResistantCoder)  
 **About Me**: Gamer/Otaku/Coder.  
 
 **Name**: Archana J   
@@ -141,7 +147,7 @@ Hey people! It's Soundarya here. I'm usually the girl with the guitar and who al
 
 **Name**: Chinthan Krishna K  
 **SRN**: PES1201800121  
-**Link to Profile**: [tanckk](https;//github.com/tanckk)  
+**Link to Profile**: [tanckk](https://github.com/tanckk)  
 **About Me**:  
 Heyy! A football fan (playing, but not watching), lover of fiction, sci-fi and fantasy, and knowledge seeker. Looking forward to "formally" and "properly" working with GitHub and contributing to open source. Main motive is to learn though! ;)
 
@@ -641,7 +647,7 @@ Hey. I'm Jayanarayanan, and people call me Jay. New to open source, but looking 
 
 **Name**: Samhita Irrinki  
 **SRN**: PES1201800394  
-**Link to Profile**: [Samhita25](https://github.com/[Samhita25])
+**Link to Profile**: [Samhita25](https://github.com/Samhita25)
 **About Me**:  
 Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostly a beginner but really excited and keen on learning more. One hundered percent an extrovert and always excited to interact and throw ideas!  
 
