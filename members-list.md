@@ -16,7 +16,13 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 ## The list 
 
-[Add your details over here]`← Don't remove this line`  
+[Add your details over here]`← Don't remove this line` 
+
+**Name**:  Bhargav S. Kumar  
+**SRN**:  PES1201801459  
+**Link to Profile**:  [bhargavsk1077](https://github.com/bhargavsk1077)  
+**About Me**:  
+interested in network security, still a beginner tho, hoping to learn more here.
 
 **Name**:  Prateek Nayak  
 **SRN**:  PES1201800054  
