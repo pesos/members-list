@@ -716,3 +716,9 @@ Hey guys!! I love coding, reading and gaming. Cricket is life. Athlete.Learner.
 **Link to profile**: https://github.com/Sujith1910  
 **About me**:  
 Love football and coding.  
+
+**Name**: Aditya Vinod Kumar  
+**SRN**: PES1201700138  
+**Link to profile**: [adityavinodk](https://github.com/adityavinodk)  
+**About me**:  
+All about the Flow. The Logic. Somebody who cares a ton about what is going on around him. Very strongly opinionated. Apart from that, I focus on Machine Learning.
