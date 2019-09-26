@@ -717,8 +717,8 @@ Hey guys!! I love coding, reading and gaming. Cricket is life. Athlete.Learner.
 **About me**:  
 Love football and coding.  
 
-**Name**: Raunak Sengupta
-**SRN**: PES1201700072
-**Link to Profile**: [raunaks42](https://github.com/raunaks42)  
+**Name**: Raunak Sengupta  
+**SRN**: PES1201700072  
+**Link to profile**: [raunaks42](https://github.com/raunaks42)  
 **About Me**:    
 Hi! I like cats a little more than dogs.
