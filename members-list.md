@@ -81,7 +81,7 @@ An NBA fan and I also watch anime. Would really like to learn something new.
 **SRN**: PES1201801912  
 **Link to Profile**:  [RishithBhowmick](https://github.com/RishithBhowmick)  
 **About Me**:  
-An interesting person with a passion of pursuing DS and ML and would like to make an impact in the open source commity.    
+An interesting person with a passion of pursuing DS and ML and would like to make an impact in the open source community.    
 
 **Name**: Prathima B  
 **SRN**: PES1201801889  
@@ -125,7 +125,7 @@ I like to learn new stuff, play video games and watch youtubers play video games
 **SRN**: PES1201800791  
 **Link to Profile**:[saveri1205](https://github.com/saveri1205)  
 **About Me**:  
-Hey there i am Saveri. I love music and painting and i am a chocolate lover! :P.I am really excuted to be a part of PESOS
+Hey there i am Saveri. I love music and painting and i am a chocolate lover! :P.I am really excited to be a part of PESOS
 
 **Name**: Ravichandu S  
 **SRN**: PES1201801802  
