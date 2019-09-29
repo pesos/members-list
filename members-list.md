@@ -23,6 +23,18 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**:  [KC-tronix](https://github.com/KC-tronix)  
 **About Me**:  Wasted nearly one-fifth of my life just on sports and fifa. I like facing new challenges and coding has helped me do so. I dare anyone not to find me fun to work with(in all aspects). An enthusiastic learner at best in all major fields. The rest of me is for you all to figure out.
 
+**Name**:  Bhargav S. Kumar  
+**SRN**:  PES1201801459  
+**Link to Profile**:  [bhargavsk1077](https://github.com/bhargavsk1077)  
+**About Me**:  
+interested in network security, still a beginner tho, hoping to learn more here.
+
+**Name**:  Prateek Nayak  
+**SRN**:  PES1201800054  
+**Link to Profile**:  [Kriyszig](https://github.com/Kriyszig)  
+**About Me**:  
+A 1x developer with a keen interest in Cryptography (mostly Onion Routing), WebAssembly, Data Compression and Distributed Systems. I have been told I'm a very calm person so don't hesitate to reach out if you want to talk tech or anything in general.
+
 **Name**:  E.N.s.Sashank Reddy  
 **SRN**:  PES1201801852    
 **Link to Profile**:  [sashank-reddy](https://github.com/sashank-reddy)  
@@ -117,7 +129,7 @@ Hey there i am Saveri. I love music and painting and i am a chocolate lover! :P.
 
 **Name**: Ravichandu S  
 **SRN**: PES1201801802  
-**Link to Profile**: [WaterResistantCoder](https://github.com/[WaterResistantCoder])  
+**Link to Profile**: [WaterResistantCoder](https://github.com/WaterResistantCoder)  
 **About Me**: Gamer/Otaku/Coder.  
 
 **Name**: Archana J   
@@ -146,7 +158,7 @@ Hey people! It's Soundarya here. I'm usually the girl with the guitar and who al
 
 **Name**: Chinthan Krishna K  
 **SRN**: PES1201800121  
-**Link to Profile**: [tanckk](https;//github.com/tanckk)  
+**Link to Profile**: [tanckk](https://github.com/tanckk)  
 **About Me**:  
 Heyy! A football fan (playing, but not watching), lover of fiction, sci-fi and fantasy, and knowledge seeker. Looking forward to "formally" and "properly" working with GitHub and contributing to open source. Main motive is to learn though! ;)
 
@@ -589,11 +601,11 @@ Hii everyone, I'm Kavya. Enjoy watching random tv-series and listening to ballad
 **About Me**:  
 Hey, I'm Rahul. I'm interested in Machine Learning and Computer Vision. Excited to keep learning and working with like-minded people.
 
-**Name**: Ishan Agarwal
-**SRN**: PES1201800291
-**Link to profile**: [ishanagarwal1606](https://github.com/ishanagarwal1606)
-**About me**: 
-Challenge me to laziness, and i'll think about it, probably. Dream company : Google <3 , Learning competitive coding.
+**Name**: Ishan Agarwal  
+**SRN**: PES1201800291  
+**Link to profile**: [ishanagarwal1606](https://github.com/ishanagarwal1606)  
+**About me**:  
+Challenge me to laziness, and i'll think about it, probably. Dream company : Google <3 , Learning competitive coding.  
 
 **Name**: Nisha S  
 **SRN**: PES1201801777  
@@ -646,7 +658,7 @@ Hey. I'm Jayanarayanan, and people call me Jay. New to open source, but looking 
 
 **Name**: Samhita Irrinki  
 **SRN**: PES1201800394  
-**Link to Profile**: [Samhita25](https://github.com/[Samhita25])
+**Link to Profile**: [Samhita25](https://github.com/Samhita25)
 **About Me**:  
 Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostly a beginner but really excited and keen on learning more. One hundered percent an extrovert and always excited to interact and throw ideas!  
 
@@ -709,3 +721,16 @@ Hey guys!! I love coding, reading and gaming. Cricket is life. Athlete.Learner.
 **Link to profile**: https://github.com/Sujith1910  
 **About me**:  
 Love football and coding.  
+
+**Name**: Raunak Sengupta  
+**SRN**: PES1201700072  
+**Link to profile**: [raunaks42](https://github.com/raunaks42)  
+**About Me**:    
+Hi! I like cats a little more than dogs.
+
+**Name**: Aditya Vinod Kumar  
+**SRN**: PES1201700138  
+**Link to profile**: [adityavinodk](https://github.com/adityavinodk)  
+**About me**:  
+All about the Flow. The Logic. Somebody who cares a ton about what is going on around him. Very strongly opinionated. Apart from that, I focus on Machine Learning.  
+
