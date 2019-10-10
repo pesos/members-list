@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**:  Shamanth K M .    
+**SRN**: PES1201901400 . 
+**Link to Profile**: [Shamanthkolegodu](https://github.com/Shamanthkolegodu) . 
+**About Me**: Unicyclist. Intrsted in frontend developing, still a beginner tho. Love coding xD.
+
 **Name**:  Krishna Chaitanya B V  
 **SRN**:  PES1201800420  
 **Link to Profile**:  [KC-tronix](https://github.com/KC-tronix)  
