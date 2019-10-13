@@ -581,3 +581,12 @@ Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostl
 **Link to profile**: [utkarshfz](https://github.com/utkarshfz)  
 **About me**:  
 Like working on new stuffs.  
+
+**Name**:  Abhijit Mohanty  
+**SRN**:  PES1201801293  
+**Link to Profile**:  [mohantyabhijit074](https://github.com/mohantyabhijit074)    
+**About Me**:  
+Hey! I am Abhijit, and i am a sports enthusiast and a defence brat and like to join defence(AIR FORCE).I like to learn new things everyday.  
+
+
+
