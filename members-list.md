@@ -673,6 +673,12 @@ Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostl
 **About me**:  
 Like working on new stuffs.  
 
+**Name**:  Abhijit Mohanty  
+**SRN**:  PES1201801293  
+**Link to Profile**:  [mohantyabhijit074](https://github.com/mohantyabhijit074)    
+**About Me**:  
+Hey! I am Abhijit, and i am a sports enthusiast and a defence brat and like to join defence(AIR FORCE).I like to learn new things everyday.  
+
 **Name**: Ramakrishna Siddharth V  
 **SRN**: PES1201800439    
 **Link to profile**: [skywalker60](https://github.com/skywalker60)    
