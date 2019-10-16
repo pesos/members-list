@@ -755,7 +755,7 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **Link to Profile**: [tanishaagarwal346](https://github.com/tanishaagarwal346)  
 **About Me**:  I declare variables , not wars.  
 
-**Name**:  Adithya M S 
+**Name**:  Adithya M S  
 **SRN**:  PES1201901926  
 **Link to Profile**:  [Adithya-S-Bhat](https://github.com/Adithya-S-Bhat)  
 **About Me**:  Hey guys!! I love coding, reading and gaming. Cricket is life.Learner.
