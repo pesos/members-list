@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Yousha Mahamuni  
+**SRN**:  PES201900653 
+**Link to Profile**:  [yousha806](https://github.com/yousha806)   
+**About Me**:  Currently in the process of exploring different tech fields to find my interest. I'm interested in coding (still a beginner), music and Economics. 
+
 **Name**:  Shamanth K M        
 **SRN**: PES1201901400    
 **Link to Profile**: [Shamanthkolegodu](https://github.com/Shamanthkolegodu)    
