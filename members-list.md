@@ -742,7 +742,7 @@ Hi! I like cats a little more than dogs.
 **Name**: Aditya Vinod Kumar  
 **SRN**: PES1201700138  
 **Link to profile**: [adityavinodk](https://github.com/adityavinodk)  
-**About Me**:
+**About Me**:  
 All about the Flow. The Logic. Somebody who cares a ton about what is going on around him. Very strongly opinionated. Apart from that, I focus on Machine Learning.  
 
 **Name**: Taher Taiyab Lokhandwala  
