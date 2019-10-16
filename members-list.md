@@ -742,7 +742,7 @@ Hi! I like cats a little more than dogs.
 **Name**: Aditya Vinod Kumar  
 **SRN**: PES1201700138  
 **Link to profile**: [adityavinodk](https://github.com/adityavinodk)  
-**About me**:  
+**About 
 All about the Flow. The Logic. Somebody who cares a ton about what is going on around him. Very strongly opinionated. Apart from that, I focus on Machine Learning.  
 
 **Name**: Taher Taiyab Lokhandwala  
@@ -754,3 +754,8 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **SRN**: PES1201800429  
 **Link to Profile**: [tanishaagarwal346](https://github.com/tanishaagarwal346)  
 **About Me**:  I declare variables , not wars.  
+
+**Name**:  Adithya M S 
+**SRN**:  PES1201901926  
+**Link to Profile**:  [Adithya-S-Bhat](https://github.com/Adithya-S-Bhat)  
+**About Me**:  Hey guys!! I love coding, reading and gaming. Cricket is life.Learner.
