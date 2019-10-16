@@ -18,6 +18,16 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Yousha Mahamuni  
+**SRN**:  PES201900653  
+**Link to Profile**:  [yousha806](https://github.com/yousha806)  
+**About Me**:  Currently in the process of exploring different tech fields to find my interest. I'm interested in coding (still a beginner), music and Economics.  
+
+**Name**:  Shamanth K M        
+**SRN**: PES1201901400    
+**Link to Profile**: [Shamanthkolegodu](https://github.com/Shamanthkolegodu)    
+**About Me**: Unicyclist. Intrsted in frontend developing, still a beginner tho. Love coding xD.   
+
 **Name**:  Krishna Chaitanya B V  
 **SRN**:  PES1201800420  
 **Link to Profile**:  [KC-tronix](https://github.com/KC-tronix)  
@@ -668,6 +678,12 @@ Hey, Samhita here! Really looking forward to having fun with PESOS xD. I'm mostl
 **About me**:  
 Like working on new stuffs.  
 
+**Name**:  Abhijit Mohanty  
+**SRN**:  PES1201801293  
+**Link to Profile**:  [mohantyabhijit074](https://github.com/mohantyabhijit074)    
+**About Me**:  
+Hey! I am Abhijit, and i am a sports enthusiast and a defence brat and like to join defence(AIR FORCE).I like to learn new things everyday.  
+
 **Name**: Ramakrishna Siddharth V  
 **SRN**: PES1201800439    
 **Link to profile**: [skywalker60](https://github.com/skywalker60)    
@@ -731,6 +747,25 @@ Hi! I like cats a little more than dogs.
 **Name**: Aditya Vinod Kumar  
 **SRN**: PES1201700138  
 **Link to profile**: [adityavinodk](https://github.com/adityavinodk)  
-**About me**:  
+**About Me**:  
 All about the Flow. The Logic. Somebody who cares a ton about what is going on around him. Very strongly opinionated. Apart from that, I focus on Machine Learning.  
 
+**Name**: Taher Taiyab Lokhandwala  
+**SRN**: PES1201801485  
+**Link to Profile**: [taherlokhandwala](https://github.com/taherlokhandwala)  
+**About Me**:  Hey!Confused which tv-series to watch ? Ask me.When I'm not watching a series or playing fifa or sleeping ,Web dev is what I do.  
+
+**Name**: Tanisha Agarwal  
+**SRN**: PES1201800429  
+**Link to Profile**: [tanishaagarwal346](https://github.com/tanishaagarwal346)  
+**About Me**:  I declare variables , not wars.  
+
+**Name**:  Adithya M S  
+**SRN**:  PES1201901926  
+**Link to Profile**:  [Adithya-S-Bhat](https://github.com/Adithya-S-Bhat)  
+**About Me**:  Hey guys!! I love coding, reading and gaming. Cricket is life.Learner.
+
+**Name**:  P. Shreya    
+**SRN**: PES1201900155    
+**Link to Profile**: [CrystalDarkStar](https://github.com/CrystalDarkStar)  
+**About Me**: Clueless about everything, including the stuff I'm supposed to write here. 
