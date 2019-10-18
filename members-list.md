@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**:  Shishir A S  
+**SRN**:  PES1201801721
+**Link to Profile**:  [shishir610](https://github.com/shishir610)
+**About Me**:  If I ever give an excuse to not hang out, I'm either in tabla class, riding the skateboard or playing football. Also, I love code (duh). 
+
 **Name**: Yousha Mahamuni  
 **SRN**:  PES201900653  
 **Link to Profile**:  [yousha806](https://github.com/yousha806)  
