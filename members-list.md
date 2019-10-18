@@ -18,6 +18,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Vishruth Veerendranath  
+**SRN**: PES1201900077  
+**Link to Profile**: [vishruth-v](https://github.com/vishruth-v)  
+**About Me:**: A geeky Music, Coding, Technology and Physics enthusiast. Love to explore, experience and learn new things.
+
+
 **Name**: Shishir A S  
 **SRN**:  PES1201801721  
 **Link to Profile**:  [shishir610](https://github.com/shishir610)  <br/>
