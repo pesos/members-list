@@ -18,10 +18,10 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
-**Name**: Vibha Masti
-**SRN**:  PES1UG19CS565
-**Link to Profile**:  [vibhamasti](https://github.com/vibhamasti)  
-**About Me**:  A really excited person in love with math, physics and music, who spends her free time either baking, playing the Veena or getting frustrated at Project Euler. 
+**Name**: Vibha Masti  
+**SRN**:  PES1UG19CS565  
+**Link to Profile**:  [vibhamasti](https://github.com/vibhamasti) <br/> 
+**About Me**:  A really excited person in love with math, physics and music, who spends her free time either baking, playing the Veena or getting frustrated at Project Euler. <br/>
 
 **Name**: Vishruth Veerendranath  
 **SRN**: PES1201900077  
