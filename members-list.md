@@ -18,9 +18,9 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
-**Name**:Aniruddha Krishna Jha
+**Name**:Aniruddha Krishna Jha  
 **SRN**: PES1201900233
-**Link yo Profile** :[aniruddhakj](https://github.com/aniruddhakj)
+**Link to Profile** :[aniruddhakj](https://github.com/aniruddhakj)
 **About Me**: Coder for life, Anime and Manga Lover, Sports enthusiast, Philatelist.
 
 **Name**: Vibha Masti  
