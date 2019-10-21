@@ -24,7 +24,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **About Me:**: A geeky Music, Coding, Technology and Physics enthusiast. Love to explore, experience and learn new things.
 
 
-**Name**: V Nitish
+**Name**: V Nitish  
 **SRN**: PES1201901900  
 **Link to Profile**: [Nitish-apex](https://github.com/Nitish-apex)  
 **About Me:**: A guy who got into coding from all those sci-fi movies,anime lover,MSD forever,atheist,Peace seeker
