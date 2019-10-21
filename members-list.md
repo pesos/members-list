@@ -23,10 +23,23 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**:  [vibhamasti](https://github.com/vibhamasti) <br/> 
 **About Me**:  A really excited person in love with math, physics and music, who spends her free time either baking, playing the Veena or getting frustrated at Project Euler. <br/>
 
+
+**Name**: Abhiram Puranik<br>
+**SRN**:  PES1201901929<br>
+**Link to profile**: [abhiramwastaken](https://github.com/abhiramwastaken)<br>
+**About me**: A music lover, technology and cyber security enthusiast, finds coding really interesting to solve problems. 
+
+
 **Name**: Vishruth Veerendranath  
 **SRN**: PES1201900077  
 **Link to Profile**: [vishruth-v](https://github.com/vishruth-v)  
 **About Me:**: A geeky Music, Coding, Technology and Physics enthusiast. Love to explore, experience and learn new things.
+
+
+**Name**: V Nitish  
+**SRN**: PES1201901900  
+**Link to Profile**: [Nitish-apex](https://github.com/Nitish-apex)  
+**About Me:**: A guy who got into coding from all those sci-fi movies,anime lover,MSD forever,atheist,Peace seeker
 
 
 **Name**: Shishir A S  
