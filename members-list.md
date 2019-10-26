@@ -18,8 +18,8 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
-**Name**:Aditya Sivaram Nair
-**SRN**:PES1201700012
+**Name**:Aditya Sivaram Nair<br/>  
+**SRN**:PES1201700012<br/>
 **Link To Profile**:[adsnair](https://github.com/adsnair)<br/>
 **About Me**:I love math,algorithms and data structures.Looking forward to do excited things in open source!.<br/>
 
