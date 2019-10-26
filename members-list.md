@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Sarthak Gupta  
+**SRN**: PES1201700077  
+**Link to Profile** :[sarthak7gupta](https://github.com/sarthak7gupta)  
+**About Me**: Photographer, Programmer, Artist, Film Buff, Learner, Geek  
+
 **Name**:Aniruddha Krishna Jha  
 **SRN**: PES1201900233  
 **Link to Profile** :[aniruddhakj](https://github.com/aniruddhakj)  
