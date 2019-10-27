@@ -19,6 +19,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 [Add your details over here]`← Don't remove this line`
 
 
+**Name**:Samyukta Mahesh  
+**SRN**: PES1201900269  
+**Link to Profile** :[Samclouder](https://github.com/Samclouder)  
+**About Me**: I'm kinda awkward around strangers but at the same time hyper af, I don't know how it works. I love basketball and I guess I love coding too. I'm really curious and I love to learn new things, so I guess that's why I am here. :)
+
 **Name**:Aditya Sivaram Nair   
 **SRN**:PES1201700012<br/>
 **Link To Profile**:[adsnair](https://github.com/adsnair)<br/>
