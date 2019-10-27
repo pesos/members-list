@@ -18,10 +18,37 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+
 **Name**:Samyukta Mahesh  
 **SRN**: PES1201900269  
 **Link to Profile** :[Samclouder](https://github.com/Samclouder)  
 **About Me**: I'm kinda awkward around strangers but at the same time hyper af, I don't know how it works. I love basketball and I guess I love coding too. I'm really curious and I love to learn new things, so I guess that's why I am here. :)
+
+**Name**:Aditya Sivaram Nair   
+**SRN**:PES1201700012<br/>
+**Link To Profile**:[adsnair](https://github.com/adsnair)<br/>
+**About Me**:I love math,algorithms and data structures.Looking forward to do excited things in open source!.<br/>
+
+**Name**:  Pavan Karthick M  
+**SRN**:  PES1201900250  
+**Link to Profile**:  [def-pavankarthick](https://github.com/def-pavankarthick)  
+**About Me**:  Learner for the whole life, Need More buddies ,From <strong>Andhra</strong>;,technology and cyber security enthusiast,Can contact using insta (@urs_truly_pavankarthick) , Once you meet you'll never regret xD   
+
+**Name**: Sumukha MK  
+**SRN**: PES1201801995  
+**Link to Profile** :[Sumukha2000](https://github.com/Sumukha2000)  
+**About Me**: Dancer, bathroom singer ─‿─ , Photography lover and a <strong>cs-kiddo XD</strong>;
+I'm here to learn and contribute(hopefully) ^◡^
+
+**Name**: Abhinav Vigneshwar B M  
+**SRN**: PES1201701500  
+**Link to Profile** :[abhinav889](https://github.com/abhinav889)  
+**About Me**: I just wanted to learn how you make a pull request :),plus ofcourse join the community      
+
+**Name**: Sarthak Gupta  
+**SRN**: PES1201700077  
+**Link to Profile** :[sarthak7gupta](https://github.com/sarthak7gupta)  
+**About Me**: Photographer, Programmer, Artist, Film Buff, Learner, Geek  
 
 **Name**:Aniruddha Krishna Jha  
 **SRN**: PES1201900233  
@@ -809,3 +836,20 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **SRN**: PES1201900155    
 **Link to Profile**: [CrystalDarkStar](https://github.com/CrystalDarkStar)  
 **About Me**: Clueless about everything, including the stuff I'm supposed to write here. 
+
+**Name**:  Mohammed Numan  
+**SRN**: PES1201902604    
+**Link to Profile**: [Mohammed-Numan](https://github.com/Mohammed-Numan)  
+**About Me**: Hi I'm Mohammed. New to Open Source. Looking forward to learn a lot.
+
+**Name**: Sanket D  
+**SRN**: PES1201802057  
+**Link to Profile**: [firefire-iceice](https://github.com/firefire-iceice)  
+**About Me**: Newbie here! Can't wait to start contributing  
+
+
+**Name**: Yajna Pandith  
+**SRN**: PES1201801106
+**Link to Profile**: [yajna-pandith](https://github.com/yajna-pandith) 
+**About Me**: Chess enthusiast. Here to learn good coding practices.
+
