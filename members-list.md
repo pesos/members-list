@@ -854,8 +854,8 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **About Me**: Chess enthusiast. Here to learn good coding practices.
 
 
-**Name**: Raghav Saboo
-**SRN**: PES1201801909
-**Link to Profile**: [RaghavSaboo77]https://github.com/RaghavSaboo77
-**About Me**: Love to code, play games and watch movies.
+**Name**: Raghav Saboo  
+**SRN**: PES1201801909  
+**Link to Profile**: [RaghavSaboo77]https://github.com/RaghavSaboo77  
+**About Me**: Love to code, play games and watch movies.  
 
