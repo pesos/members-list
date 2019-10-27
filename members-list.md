@@ -824,3 +824,10 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **SRN**: PES1201802057  
 **Link to Profile**: [firefire-iceice](https://github.com/firefire-iceice)  
 **About Me**: Newbie here! Can't wait to start contributing  
+
+
+**Name**: Yajna Pandith  
+**SRN**: PES1201801106
+**Link to Profile**: [yajna-pandith](https://github.com/yajna-pandith) 
+**About Me**: Chess enthusiast. Here to learn good coding practices.
+
