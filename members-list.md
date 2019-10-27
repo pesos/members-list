@@ -16,11 +16,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 ## The list 
 
-[Add your details over here]`← Don't remove this line`
-**Name**: Sumukha MK 
-**SRN**: PES1201801995
+[Add your details over here]`← Don't remove this line` 
+**Name**: Sumukha MK  
+**SRN**: PES1201801995  
 **Link to Profile** :[Sumukha2000](https://github.com/Sumukha2000)  
-**About Me**: Dancer, bathroom singer (─‿─), Photography lover and a <strong>cs-kiddo XD</strong>;
+**About Me**: Dancer, bathroom singer ─‿─ , Photography lover and a <strong>cs-kiddo XD</strong>;
 I'm here to learn and contribute(hopefully) ^◡^
 
 **Name**: Abhinav Vigneshwar B M  
