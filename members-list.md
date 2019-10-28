@@ -3,10 +3,10 @@
 ## Format
 
 > Please adhere to this format when adding your name to this list  
-> **Name**: [Your Full Name Here] `<-- Don't forget to add two spaces here`  
-**SRN**: [SRN] `<-- Don't forget to add two spaces here`  
-**Link to Profile**: `[name](https://github.com/[name])`  `<-- Don't forget to add two spaces here` <br/>
-**About Me**:  `<-- Don't forget to add two spaces here`<br/>
+> **Name**: Dhruv Menon `<-- Don't forget to add two spaces here`  
+**SRN**: PES1201902219 `<-- Don't forget to add two spaces here`  
+**Link to Profile**: dhruv017 github.com/dhruv017  `<-- Don't forget to add two spaces here` <br/>
+**About Me**: Still new to everything happening around and I'm pretty confused and excited. I love shawarmas and cavins and I'm always broke. Hoping to learn and contribute something  to opensource.  
 Write a short,fun description about yourself. Please be genuine and light-hearted. This isn't a flexing contest.
 Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS". Tell us something we don't know
 
@@ -17,7 +17,10 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 
 [Add your details over here]`← Don't remove this line`
-
+ **Name**: Dhruv Menon    
+**SRN**: PES1201902219    
+**Link to Profile**: dhruv017 github.com/dhruv017    <br/>
+**About Me**: Still new to everything happening around and I'm pretty confused and excited. I love shawarmas and cavins and I'm always broke. Hoping to learn and contribute something  to opensource.  
 
 **Name**:Samyukta Mahesh  
 **SRN**: PES1201900269  
@@ -849,11 +852,42 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 
 
 **Name**: Yajna Pandith  
-**SRN**: PES1201801106
-**Link to Profile**: [yajna-pandith](https://github.com/yajna-pandith) 
-**About Me**: Chess enthusiast. Here to learn good coding practices.
+**SRN**: PES1201801106  
+**Link to Profile**: [yajna-pandith](https://github.com/yajna-pandith)  
+**About Me**: Chess enthusiast. Here to learn good coding practices.  
+
+
+**Name**: Mahima Dubey
+**SRN**: PES1201900161
+**Link to Profile**: [mahimadubey](https://github.com/mahimadubey) 
+**About Me**: learning git for the first time.
+
+
+**Name**: Snigdha S Chenjeri  
+**SRN**: PES1201800045  
+**Link to Profile**: [snigsc](https://github.com/snigsc)   
+**About Me**: Clueless.  
+
+
+**Name**: Raghav Saboo  
+**SRN**: PES1201801909  
+**Link to Profile**: [RaghavSaboo77](https://github.com/RaghavSaboo77)  
+**About Me**: Love to code, play games and watch movies.  
+
+
+**Name**: Rohan Iyengar  
+**SRN**: PES1201800547  
+**Link to Profile**: [rohaniyengar1028](https://github.com/rohaniyengar1028)   
+**About Me**: Trying to learn (?). Here to feel like I'm doing something about my career :).  
+
 
 **Name**: Chirag Rudresh  
 **SRN**: PES1201801191  
 **Link to Profile**: [chirar15](https://github.com/chiragr15)  
 **About Me**: Basketball player and a hectic LeBron fan. Love front end web dev 
+
+
+**Name**:  Abdul Mannan    <br>
+**SRN**:  PES1201901271  <br>
+**Link to Profile**: [abdulmk787](https://github.com/abdulmk787)  <br>
+**About Me**:   Really jobless so better to learn stuff than just sleep xD
