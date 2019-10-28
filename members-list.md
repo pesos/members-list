@@ -3,10 +3,10 @@
 ## Format
 
 > Please adhere to this format when adding your name to this list  
-> **Name**: [Your Full Name Here] `<-- Don't forget to add two spaces here`  
-**SRN**: [SRN] `<-- Don't forget to add two spaces here`  
-**Link to Profile**: `[name](https://github.com/[name])`  `<-- Don't forget to add two spaces here` <br/>
-**About Me**:  `<-- Don't forget to add two spaces here`<br/>
+> **Name**: Dhruv Menon `<-- Don't forget to add two spaces here`  
+**SRN**: PES1201902219 `<-- Don't forget to add two spaces here`  
+**Link to Profile**: dhruv017 github.com/dhruv017  `<-- Don't forget to add two spaces here` <br/>
+**About Me**: Still new to everything happening around and I'm pretty confused and excited. I love shawarmas and cavins and I'm always broke. Hoping to learn and contribute something  to opensource.  
 Write a short,fun description about yourself. Please be genuine and light-hearted. This isn't a flexing contest.
 Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS". Tell us something we don't know
 
