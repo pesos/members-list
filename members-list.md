@@ -853,3 +853,7 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **Link to Profile**: [yajna-pandith](https://github.com/yajna-pandith) 
 **About Me**: Chess enthusiast. Here to learn good coding practices.
 
+**Name**: Chirag Rudresh  
+**SRN**: PES1201801191  
+**Link to Profile**: [chirar15](https://github.com/chiragr15)  
+**About Me**: Basketball player and a hectic LeBron fan. Love front end web dev 
