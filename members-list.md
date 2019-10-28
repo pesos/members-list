@@ -849,9 +849,15 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 
 
 **Name**: Yajna Pandith  
-**SRN**: PES1201801106
-**Link to Profile**: [yajna-pandith](https://github.com/yajna-pandith) 
-**About Me**: Chess enthusiast. Here to learn good coding practices.
+**SRN**: PES1201801106  
+**Link to Profile**: [yajna-pandith](https://github.com/yajna-pandith)  
+**About Me**: Chess enthusiast. Here to learn good coding practices.  
+
+
+**Name**: Snigdha S Chenjeri  
+**SRN**: PES1201800045  
+**Link to Profile**: [snigsc](https://github.com/snigsc)   
+**About Me**: Clueless.  
 
 
 **Name**: Raghav Saboo  
