@@ -17,7 +17,13 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 
 [Add your details over here]`← Don't remove this line`
- **Name**: Dhruv Menon    
+
+**Name**: Arya Rajiv Chaloli  
+**SRN**: PES1201700253  
+**Link to Profile**: [AryaRajivChaloli](https://github.com/AryaRajivChaloli)<br/>
+**About Me**: Eager... 
+
+**Name**: Dhruv Menon    
 **SRN**: PES1201902219    
 **Link to Profile**: dhruv017 github.com/dhruv017    <br/>
 **About Me**: Still new to everything happening around and I'm pretty confused and excited. I love shawarmas and cavins and I'm always broke. Hoping to learn and contribute something  to opensource.  
