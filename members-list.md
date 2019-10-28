@@ -877,7 +877,7 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **Link to Profile**: [rohaniyengar1028](https://github.com/rohaniyengar1028)   
 **About Me**: Trying to learn (?). Here to feel like I'm doing something about my career :).  
 
- **Name**:  Abdul Mannan    
-**SRN**:  PES1201901271
-**Link to Profile**: [abdulmk787](https://github.com/abdulmk787)
+ **Name**:  Abdul Mannan    <br>
+**SRN**:  PES1201901271  <br>
+**Link to Profile**: [abdulmk787](https://github.com/abdulmk787)  <br>
 **About Me**:   Really jobless so better to learn stuff than just sleep xD
