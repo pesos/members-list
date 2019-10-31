@@ -893,12 +893,20 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **About Me**:   Really jobless so better to learn stuff than just sleep xD
 
 
+**Name**: Deeksha Sudarshan  
+**SRN**: PES1UG19EC087  
+**Link to Profile**: [deekshaesha](https://github.com/deekshaesha)  
+**About Me**: Just clueless about this event.  
+
+
 **Name**: Dhriti  
 **SRN**: PES1201801894  
 **Link to Profile**: [DhritiAM](https://github.com/DhritiAM)    
 **About Me**: I like to read novels and travel. My hobbies include: playing veena. Trying to explore new interests.
 
+
 **Name**: Vishnu S Reddy  
 **SRN**: PES2201800118  
 **Link to Profile**: [Vishnu-S-Redy](https://github.com/Vishnu-S-Reddy)  
 **About Me**: Trying to learn. Here to learn and improve my resume. 
+
