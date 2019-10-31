@@ -21,7 +21,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Name**: Arya Rajiv Chaloli  
 **SRN**: PES1201700253  
 **Link to Profile**: [AryaRajivChaloli](https://github.com/AryaRajivChaloli)<br/>
-**About Me**: Eager... 
+**About Me**: Eager...  
 
 **Name**: Dhruv Menon    
 **SRN**: PES1201902219    
@@ -897,3 +897,22 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **SRN**:  PES1201901271  <br>
 **Link to Profile**: [abdulmk787](https://github.com/abdulmk787)  <br>
 **About Me**:   Really jobless so better to learn stuff than just sleep xD
+
+
+**Name**: Deeksha Sudarshan  
+**SRN**: PES1UG19EC087  
+**Link to Profile**: [deekshaesha](https://github.com/deekshaesha)  
+**About Me**: Just clueless about this event.  
+
+
+**Name**: Dhriti  
+**SRN**: PES1201801894  
+**Link to Profile**: [DhritiAM](https://github.com/DhritiAM)    
+**About Me**: I like to read novels and travel. My hobbies include: playing veena. Trying to explore new interests.
+
+
+**Name**: Vishnu S Reddy  
+**SRN**: PES2201800118  
+**Link to Profile**: [Vishnu-S-Redy](https://github.com/Vishnu-S-Reddy)  
+**About Me**: Trying to learn. Here to learn and improve my resume. 
+
