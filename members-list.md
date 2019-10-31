@@ -892,7 +892,13 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **Link to Profile**: [abdulmk787](https://github.com/abdulmk787)  <br>
 **About Me**:   Really jobless so better to learn stuff than just sleep xD
 
+
 **Name**: Dhriti  
 **SRN**: PES1201801894  
 **Link to Profile**: [DhritiAM](https://github.com/DhritiAM)    
 **About Me**: I like to read novels and travel. My hobbies include: playing veena. Trying to explore new interests.
+
+**Name**: Vishnu S Reddy  
+**SRN**: PES2201800118  
+**Link to Profile**: [Vishnu-S-Redy](https://github.com/Vishnu-S-Reddy)  
+**About Me**: Trying to learn. Here to learn and improve my resume. 
