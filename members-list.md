@@ -18,6 +18,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+
+**Name**: Vishnu R Dixit  
+**SRN**: PES1201801448    
+**Link to Profile**: [Rvdixit23](https://github.com/Rvdixit23)  
+**About Me**:  Emulator gamer, jack of all trades and in the hunt for the right level of abstraction for me.
+
 **Name**: Arya Rajiv Chaloli  
 **SRN**: PES1201700253  
 **Link to Profile**: [AryaRajivChaloli](https://github.com/AryaRajivChaloli)<br/>
