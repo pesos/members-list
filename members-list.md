@@ -19,6 +19,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 [Add your details over here]`← Don't remove this line`
 
 
+**Name**: Dev Mashru  
+**SRN**: PES1UG19CS136   
+**Link to Profile**: [Dev](https://github.com/DevMashru)  
+**About Me**:  Custom ROM developer and Cyber Security enthusiast. TechGeek. I use arch btw ;)
+
 **Name**: Vishnu R Dixit  
 **SRN**: PES1201801448    
 **Link to Profile**: [Rvdixit23](https://github.com/Rvdixit23)  
