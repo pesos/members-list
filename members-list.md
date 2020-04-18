@@ -18,6 +18,10 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Ritik Hariani  
+**SRN**: PES1201801558  
+**Link to Profile**: [Dev](https://github.com/RITIKHARIANI)  
+**About Me**:  Machine Learning enthusiast. Web developer. Cyber security enthusiast. Golfer. Foodie. Karate Champion.
 
 **Name**: Dev Mashru  
 **SRN**: PES1UG19CS136   
