@@ -3,12 +3,14 @@
 ## Format
 
 > Please adhere to this format when adding your name to this list  
-> **Name**: [Your Full Name Here] `<-- Don't forget to add two spaces here`  
+
+**Name**: [Your Full Name Here] `<-- Don't forget to add two spaces here`  
 **SRN**: [SRN] `<-- Don't forget to add two spaces here`  
 **Link to Profile**: `[name](https://github.com/[name])`  `<-- Don't forget to add two spaces here` <br/>
 **About Me**:  `<-- Don't forget to add two spaces here`<br/>
 Write a short, fun description about yourself. Please be genuine and light-hearted. This isn't a flexing contest.
 Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS". Tell us something we don't know
+
 
 ---  
 
@@ -18,6 +20,16 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Sowmya M    
+**SRN**: PES1UG19CS497    
+**Link to Profile**: [Sowmya7501](https://github.com/Sowmya7501)   
+**About Me**: I am a music lover and a cyber security enthusiast.I feel everything is boring except coding and obviously netflix;).  
+
+
+**Name**: Ritik Hariani  
+**SRN**: PES1201801558  
+**Link to Profile**: [Dev](https://github.com/RITIKHARIANI)  
+**About Me**:  Machine Learning enthusiast. Web developer. Cyber security enthusiast. Golfer. Foodie. Karate Champion.
 
 **Name**: Dev Mashru  
 **SRN**: PES1UG19CS136   
