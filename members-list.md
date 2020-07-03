@@ -20,6 +20,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Adithya Bhat P R  
+**SRN**: PES1201800304  
+**Link to Profile**: [AdithyaBhatPR](https://github.com/AdithyaBhatPR)  
+**About Me**:  
+Hi! I go by the handle "AdithyaBhatPR", I am a passionate learner. I like pencil-sketching. Contributing to Open-source is amazing and in my opinion is the best way to show your skill.  
+
 **Name**: Sowmya M    
 **SRN**: PES1UG19CS497    
 **Link to Profile**: [Sowmya7501](https://github.com/Sowmya7501)   
