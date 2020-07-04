@@ -20,6 +20,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Himanshu Jain  
+**SRN**: PES1201802828  
+**Link to Profile**: [himanshujain171](https://github.com/himanshujain171)  
+**About Me**: Data Science enthusiast. Backend Developer. Coding. Technology. Oh and also can't forget my food :)) Foodie. Love contributing to open source :>)  
+
 **Name**: Adithya Bhat P R  
 **SRN**: PES1201800304  
 **Link to Profile**: [AdithyaBhatPR](https://github.com/AdithyaBhatPR)  
