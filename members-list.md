@@ -961,6 +961,12 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **Link to Profile**: [sakshi2912](https://github.com/sakshi2912)  
 **About Me**: I don't know how to respond to compliments. 
 
+**Name**: Kunal Bhat    
+**SRN**: PES1UG19CS237    
+**Link to Profile**: [panzerox123](https://github.com/panzerox123)  
+**About Me**:  <br/>
+Not really that interesting of a person. I do enjoy the occasional video game (Witcher 3 and Borderlands 2 being my current favorites). I'm as generic of a programmer as it gets, I like Linux, ThinkPads and coffee.  
+
 **Name**: Hrishit Chaudhuri  
 **SRN**: PES1201900050  
 **Link to Profile**: [hrishitchaudhuri](https://github.com/hrishitchaudhuri)  
