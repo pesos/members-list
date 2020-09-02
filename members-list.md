@@ -961,3 +961,7 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **Link to Profile**: [sakshi2912](https://github.com/sakshi2912)  
 **About Me**: I don't know how to respond to compliments. 
 
+**Name**: Hrishit Chaudhuri  
+**SRN**: PES1201900050  
+**Link to Profile**: [hrishitchaudhuri](https://github.com/hrishitchaudhuri)  
+**About Me**:  Always on the lookout for books with fancy covers. Penguin Modern Classics is a blessing. 
