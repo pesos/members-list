@@ -1002,3 +1002,7 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**: [SuvigyaJain1](https://github.com/SuvigyaJain1)   <br/>
 **About Me**: Looking to learn more about and contribute a lot to open source. Tell me if you have any interesting projects in python you need contributors for  <br/>
 
+**Name**: Sudhanva Rajesh  
+**SRN**: PES1UG19CS512  
+**Link to Profile**: [Sudhanvarajesh](https://github.com/sudhanvarajesh)   <br/>
+**About Me**: new to all of this, cant wait to learn more and contribute! :)  <br/>
