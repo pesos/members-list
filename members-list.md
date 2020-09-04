@@ -20,11 +20,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
-**Name**: Nihal Ramaswamy
-**SRN**: PES1UG19CS297
+**Name**: Nihal Ramaswamy  
+**SRN**: PES1UG19CS297  
 **Link to Profile**: [Nihal Ramaswamy](https://github.com/Addilergy)  
-**About Me**: 
-Just another programmer.
+**About Me**:  
+Just another programmer.  
 
 **Name**: Niranjan Bhaskar K
 **SRN**: PES1201801486
