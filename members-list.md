@@ -1042,3 +1042,8 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**: PES1UG19CS512  
 **Link to Profile**: [Sudhanvarajesh](https://github.com/sudhanvarajesh)   <br/>
 **About Me**: new to all of this, cant wait to learn more and contribute! :)  <br/>
+
+**Name**: Vaibhav Raj     
+**SRN**: PES1UG19CS554     
+**Link to Profile**: [Darknight745](https://github.com/Darknight745)  <br/>
+**About Me**: I like learning about Computer Networks and Cyber Security and yeah I am a Batman fan.  <br/>
