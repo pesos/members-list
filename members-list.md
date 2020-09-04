@@ -30,6 +30,17 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**: [kartika-nair](https://github.com/kartika-nair)
 **About Me**:  Hi, I'm Kartika and my sleep schedule doesn't match the time zone I live in.
 
+**Name**: Nihal Ramaswamy  
+**SRN**: PES1UG19CS297  
+**Link to Profile**: [Nihal Ramaswamy](https://github.com/Addilergy)  
+**About Me**:   
+Just another programmer.  
+
+**Name**: Kartika Nair  
+**SRN**: PES1UG19CS213  
+**Link to Profile**: [kartika-nair](https://github.com/kartika-nair)  
+**About Me**:  Hi, I'm Kartika and my sleep schedule doesn't match the time zone I live in.  
+
 **Name**: Niranjan Bhaskar K
 **SRN**: PES1201801486
 **Link to Profile**: [CaelestisZ](https://github.com/CaelestisZ)  
@@ -62,6 +73,11 @@ Hi! I go by the handle "AdithyaBhatPR", I am a passionate learner. I like pencil
 **SRN**: PES1UG19CS136   
 **Link to Profile**: [Dev](https://github.com/DevMashru)  
 **About Me**:  Custom ROM developer and Cyber Security enthusiast. TechGeek. I use arch btw ;)
+
+**Name**: Manish Reddy M   
+**SRN**: PES1UG19CS262   
+**Link to Profile**: [Manish](https://github.com/Manish-22)   <br/>
+**About Me**: Hey there I love algorithms and I am new to open source. Hoping to learn a lot here! 
 
 **Name**: Mihir M Kestur  
 **SRN**: PES1UG19CS272    
@@ -1006,4 +1022,9 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**: PES1201901140  
 **Link to Profile**: [SuvigyaJain1](https://github.com/SuvigyaJain1)   <br/>
 **About Me**: Looking to learn more about and contribute a lot to open source. Tell me if you have any interesting projects in python you need contributors for  <br/>
+
+**Name**:Anushree Govindarajan
+**SRN**:PES1201900786
+**Link to Profile**:https://github.com/AnushreeG2001
+**About Me** Looking forward to learn new things  !
 
