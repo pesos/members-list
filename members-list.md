@@ -20,6 +20,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**:Divyansh Raina  
+**SRN**:PES1UG19CS149  
+**Link to Profile**:[QuantumBoy-729](https://github.com/QuantumBoy-729)  
+**About Me**:About me, ok - I love physics and music!! I am an example for a perfect Nightowl and like cats and dogs equally :- )  
+
 **Name**: Sathi Sreyahsri  
 **SRN**: PES1UG19CS434  
 **Link to Profile**: [sreya-01](https://github.com/sreya-01)  
@@ -1039,6 +1044,12 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **About Me**: new to all of this, cant wait to learn more and contribute! :)  <br/>
 
 **Name**: Rahul D. Makhija  
-**SRN**: PES1UG19CS368 
+**SRN**: PES1UG19CS368  
 **Link to Profile**: [rahulmakhija](https://github.com/rahulmakhija30)   <br/>
 **About Me**: Keen learner :D  <br/>
+
+**Name**: Vaibhav Raj     
+**SRN**: PES1UG19CS554     
+**Link to Profile**: [Darknight745](https://github.com/Darknight745)  <br/>
+**About Me**: I like learning about Computer Networks and Cyber Security and yeah I am a Batman fan.  <br/>
+
