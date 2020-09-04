@@ -20,10 +20,10 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
-**Name**: Kartika Nair
-**SRN**: PES1UG19CS213
-**Link to Profile**: [kartika-nair](https://github.com/kartika-nair)
-**About Me**:  Hi, I'm Kartika and my sleep schedule doesn't match the time zone I live in.
+**Name**: Kartika Nair  
+**SRN**: PES1UG19CS213  
+**Link to Profile**: [kartika-nair](https://github.com/kartika-nair)  
+**About Me**:  Hi, I'm Kartika and my sleep schedule doesn't match the time zone I live in.  
 
 **Name**: Niranjan Bhaskar K
 **SRN**: PES1201801486
