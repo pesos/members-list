@@ -25,11 +25,6 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**: [ananya2712](https://github.com/ananya2712)  
 **About Me**:  A professional binge-watcher who loves listening to music (I also sing). Can't wait to contribute to this community my terrible jokes and considerable awkwardness with a splash of coding :)
 
-**Name**: Kartika Nair
-**SRN**: PES1UG19CS213
-**Link to Profile**: [kartika-nair](https://github.com/kartika-nair)
-**About Me**:  Hi, I'm Kartika and my sleep schedule doesn't match the time zone I live in.
-
 **Name**: Nihal Ramaswamy  
 **SRN**: PES1UG19CS297  
 **Link to Profile**: [Nihal Ramaswamy](https://github.com/Addilergy)  
@@ -41,10 +36,10 @@ Just another programmer.
 **Link to Profile**: [kartika-nair](https://github.com/kartika-nair)  
 **About Me**:  Hi, I'm Kartika and my sleep schedule doesn't match the time zone I live in.  
 
-**Name**: Niranjan Bhaskar K
-**SRN**: PES1201801486
+**Name**: Niranjan Bhaskar K  
+**SRN**: PES1201801486  
 **Link to Profile**: [CaelestisZ](https://github.com/CaelestisZ)  
-**About Me**: 
+**About Me**:  
 Hi! I go by the handle "CaelestisZ". I enjoy creating elegant responsive websites and developing android applications. Oh yeah, I also have prior experience building (/improving/overclocking) Linux-based kernels for the Qualcomm Snapdragon and Samsung Exynos devices. 
 
 **Name**: Himanshu Jain  
