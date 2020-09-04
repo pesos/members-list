@@ -993,9 +993,9 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**: [hrishitchaudhuri](https://github.com/hrishitchaudhuri)  
 **About Me**:  Always on the lookout for books with fancy covers. Penguin Modern Classics is a blessing.
 
-**Name**:  Smruthi BT  
-**SRN**:  PES1201900311 
-**Link to Profile**:  [smruthibt](https://github.com/smruthibt)
+**Name**:  Smruthi BT   
+**SRN**:  PES1201900311  
+**Link to Profile**:  [smruthibt](https://github.com/smruthibt)  
 **About Me**:  ML and AI enthusiast. Also a classical dancer, mostly here to embrace diversity and meet lotsss of new people, and to contribute of course!!!
 
 **Name**: Abhishek Mishra  
