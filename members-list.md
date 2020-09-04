@@ -53,6 +53,11 @@ Hi! I go by the handle "AdithyaBhatPR", I am a passionate learner. I like pencil
 **Link to Profile**: [Dev](https://github.com/DevMashru)  
 **About Me**:  Custom ROM developer and Cyber Security enthusiast. TechGeek. I use arch btw ;)
 
+**Name**: Mihir M Kestur  
+**SRN**: PES1UG19CS272    
+**Link to Profile**: [mihirkestur](https://github.com/mihirkestur)  
+**About Me**:  I like biking and watching cricket, enjoy a good coding challenge. 
+
 **Name**: Vishnu R Dixit  
 **SRN**: PES1201801448    
 **Link to Profile**: [Rvdixit23](https://github.com/Rvdixit23)  
