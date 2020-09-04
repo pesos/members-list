@@ -53,6 +53,11 @@ Hi! I go by the handle "AdithyaBhatPR", I am a passionate learner. I like pencil
 **Link to Profile**: [Dev](https://github.com/DevMashru)  
 **About Me**:  Custom ROM developer and Cyber Security enthusiast. TechGeek. I use arch btw ;)
 
+**Name**: Manish Reddy M   
+**SRN**: PES1UG19CS262   
+**Link to Profile**: [Manish](https://github.com/Manish-22)   <br/>
+**About Me**: Hey there I love algorithms and I am new to open source. Hoping to learn a lot here! 
+
 **Name**: Mihir M Kestur  
 **SRN**: PES1UG19CS272    
 **Link to Profile**: [mihirkestur](https://github.com/mihirkestur)  
