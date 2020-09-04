@@ -20,6 +20,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Sathi Sreyahsri  
+**SRN**: PES1UG19CS434  
+**Link to Profile**: [sreya-01](https://github.com/sreya-01)  
+**About Me**: Hey there! I'm a day dreamer! overthinker!, I like listening to music, drawing and composing poems! :). Apart from that I'm a newbie to FOSS, hopefully I will be doing some great stuff ;).  
+
 **Name**: Ananya Uppal  
 **SRN**: PES1UG19CS058  
 **Link to Profile**: [ananya2712](https://github.com/ananya2712)  
