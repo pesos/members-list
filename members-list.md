@@ -987,6 +987,11 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**: [sujanchegu](https://github.com/[sujanchegu])   <br/>
 **About Me**: I am a security enthusiast & part time CTFer. All my passion is Math, Linux, C++ & Vim.  <br/>
 
+**Name**: Sathvik Rao MP
+**SRN**: PES1UG19CS436  
+**Link to Profile**: [SathvikRao](https://github.com/SathvikRao)  
+**About Me**: I love to learn and experiment with new stuff.I am very curious.Love being part of pes opensource community.Apart from that i love history and Classic Rock.
+
 **Name**: Suvigya Jain    
 **SRN**: PES1201901140  
 **Link to Profile**: [SuvigyaJain1](https://github.com/SuvigyaJain1)   <br/>
