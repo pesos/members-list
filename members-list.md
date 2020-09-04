@@ -990,7 +990,7 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 
 **Name**: Sathvik Rao MP
 **SRN**: PES1UG19CS436  
-**Link to Profile**: [SathvikRao](https://github.com/SathvikRao/Rao-codes)  
+**Link to Profile**: [SathvikRao](https://github.com/SathvikRao)  
 **About Me**: I love to learn and experiment with new stuff.I am very curious.Love being part of pes opensource community.Apart from that i love history and Classic Rock.
 
 
