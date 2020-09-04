@@ -1037,3 +1037,8 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**: PES1UG19CS512  
 **Link to Profile**: [Sudhanvarajesh](https://github.com/sudhanvarajesh)   <br/>
 **About Me**: new to all of this, cant wait to learn more and contribute! :)  <br/>
+
+**Name**: Rahul D. Makhija  
+**SRN**: PES1UG19CS368 
+**Link to Profile**: [rahulmakhija](https://github.com/rahulmakhija30)   <br/>
+**About Me**: Keen learner :D  <br/>
