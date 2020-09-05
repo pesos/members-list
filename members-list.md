@@ -33,7 +33,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Name**: Sathi Sreyahsri  
 **SRN**: PES1UG19CS434  
 **Link to Profile**: [sreya-01](https://github.com/sreya-01)  
-**About Me**: Hey there! I'm a day dreamer! overthinker!, I like listening to music, drawing and composing poems! :). Apart from that I'm a newbie to FOSS, hopefully I will be doing some great stuff ;).  
+**About Me**: Hey there! I'm a day dreamer! overthinker!, I like listening to music, drawing and composing poems! :). Apart from that I'm a newbie to FOSS, hopefully I will be doing some great stuff ;). 
+
+**Name**: Abhishek V  
+**SRN**: PES2UG19CS012  
+**Link to Profile**: [Abhishek4848](https://github.com/Abhishek4848)  
+**About Me**: Debugging...
 
 **Name**: Ananya Uppal  
 **SRN**: PES1UG19CS058  
