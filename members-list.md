@@ -20,6 +20,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Pranav Rajnish  
+**SRN**: PES1UG19CS344  
+**Link To Profile**: [Deadlypenguin2312](https://github.com/Deadlypenguin2312)  
+**About Me**: Hey! I love listening to music(rock, alt, and a little bit of everything else), gaming and I sing sometimes.Here to learn and contribute :^).  
+
 **Name**:Divyansh Raina  
 **SRN**:PES1UG19CS149  
 **Link to Profile**:[QuantumBoy-729](https://github.com/QuantumBoy-729)  
