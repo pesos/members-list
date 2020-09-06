@@ -1067,3 +1067,9 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**: PES1UG19CS263
 **Link to Profile**: [manjiripathak16](https://github.com/manjiripathak16)  <br/>
 **About Me**: Annoyingly optimistic, loves coding, I write poetry and I also sing. Excited to contribute and learn new things at every turn :)  <br/>
+
+**Name**: Sathwik Acharya 
+**SRN**: PES1UG19CS437  
+**Link to Profile**: [sathwikacharya](https://github.com/sathwikacharya)  
+**About Me**: Witty, Huge fan of football, an enthusiastic drummer and always on the hunt for something new
+
