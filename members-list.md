@@ -1063,3 +1063,7 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**: [Darknight745](https://github.com/Darknight745)  <br/>
 **About Me**: I like learning about Computer Networks and Cyber Security and yeah I am a Batman fan.  <br/>
 
+**Name**: Manjiri Pathak
+**SRN**: PES1UG19CS263
+**Link to Profile**: [manjiripathak16](https://github.com/manjiripathak16)  <br/>
+**About Me**: Annoyingly optimistic, loves coding, I write poetry and I also sing. Excited to contribute and learn new things at every turn :)  <br/>
