@@ -22,7 +22,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 **Name**: Aanchal Narendran.  
 **SRN**: PES1UG19CS006   
-**Link To Profile**: [aanchal-n] (https://github.com/aanchal-n)    
+**Link To Profile**: [aanchal-n](https://github.com/aanchal-n)  
 **About Me**: Hey, I'm Aanchal. I donut share food but happily share code. Not entirely new to the open source world, but extremely terrified of contributing :).  
 
 **Name**: Pranav Rajnish  
