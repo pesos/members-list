@@ -1080,5 +1080,5 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 
 **Name**: Vineeth Kumar
 **SRN**: PES2UG19ME056  
-**Link to Profile**: [2vergent](https://github.com/[2vergent])   <br/>
+**Link to Profile**: [2vergent](https://github.com/2vergent)  <br/>
 **About Me**:  Open-minded, movie-buff, PC enthusiast, and coding has always been a ritualistic practice for me.  <br/>
