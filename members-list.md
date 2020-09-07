@@ -1078,3 +1078,7 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**: [sathwikacharya](https://github.com/sathwikacharya)  
 **About Me**: Witty, Huge fan of football, an enthusiastic drummer and always on the hunt for something new  
 
+**Name**: Vineeth Kumar  
+**SRN**: PES2UG19ME056  
+**Link to Profile**: [2vergent](https://github.com/2vergent)  <br/>
+**About Me**:  Open-minded, movie-buff, PC enthusiast, and coding has always been a ritualistic practice for me.  <br/>
