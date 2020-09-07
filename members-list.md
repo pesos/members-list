@@ -1082,3 +1082,8 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**: PES2UG19ME056  
 **Link to Profile**: [2vergent](https://github.com/2vergent)  <br/>
 **About Me**:  Open-minded, movie-buff, PC enthusiast, and coding has always been a ritualistic practice for me.  <br/>
+
+**Name**: Aayush  
+**SRN**: PES1201801033  
+**Link to Profile**: [NaikAayush](https://github.com/NaikAayush)  <br/>
+**About Me**: Love working on out of reach ideas, cause it helps me push my limits. I spend more time on YouTube than on sleep, and pass time by flying drones.   <br/>
