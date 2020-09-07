@@ -1083,7 +1083,7 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**: [2vergent](https://github.com/2vergent)  <br/>
 **About Me**:  Open-minded, movie-buff, PC enthusiast, and coding has always been a ritualistic practice for me.  <br/>
 
-**Name**: Prajwal A 
-**SRN**: PES1UG19CS334
+**Name**: Prajwal A <br/>
+**SRN**: PES1UG19CS334 <br/>
 **Link to Profile**: [LawJarp-A](https://github.com/LawJarp-A)  <br/>
-**About Me**:  I love to code, I love puzzles and challenges, and I enjoy contributing and creating open source code among a lot of lot of things in life. I am thoruogh bookaholic and enjoy playing the guitar sometimes.   <br/>
+**About Me**:  I love to code, I love puzzles and challenges, and I enjoy contributing and creating open source code among a lot of lot of things in life. I am thorough bookaholic and enjoy playing the guitar sometimes.<br/>
