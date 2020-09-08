@@ -4,10 +4,13 @@
 
 > Please adhere to this format when adding your name to this list  
 
-**Name**: Guhan k  
-**SRN**: PES1UG19CS171   
-**Link to Profile**: [kabbina](https://github.com/kabbina)  
-**About Me**:  Just a noob who likes games and anime.
+**Name**: [Your Full Name Here] `<-- Don't forget to add two spaces here`  
+**SRN**: [SRN] `<-- Don't forget to add two spaces here`  
+**Link to Profile**: `[name](https://github.com/[name])`  `<-- Don't forget to add two spaces here` <br/>
+**About Me**:  `<-- Don't forget to add two spaces here`<br/>
+Write a short, fun description about yourself. Please be genuine and light-hearted. This isn't a flexing contest.
+Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS". Tell us something we don't know
+
 
 ---  
 
@@ -16,6 +19,11 @@
 ## The list 
 
 [Add your details over here]`← Don't remove this line`
+
+**Name**: Guhan k  
+**SRN**: PES1UG19CS171   
+**Link to Profile**: [kabbina](https://github.com/kabbina)  
+**About Me**:  Just a noob who likes games and anime.  
 
 **Name**: Aanchal Narendran.  
 **SRN**: PES1UG19CS006   
