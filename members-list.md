@@ -1093,8 +1093,10 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**: [LawJarp-A](https://github.com/LawJarp-A)  <br/>
 **About Me**:  I love to code, I love puzzles and challenges, and I enjoy contributing and creating open source code among a lot of lot of things in life. I am thorough bookaholic and enjoy playing the guitar sometimes.<br/>
 
-Name: Mrudhulraj Natarajan
-SRN: PES1UG19CS281
-Link to Profile: Mrudhulraj
-About Me: Just a person who admires NLP and Image processing. Tbh want to contribute a lot to Open Source and active user in Medium(https://medium.com/@mrudhulraj.n) Btw huge bball fan and interested a little in photography.
+**Name**: Mrudhulraj Natarajan <br/>
+**SRN**: PES1UG19CS281 <br/>
+**Link to Profile**: [Mrudhulraj](https://github.com/Mrudhulraj)  <br/>
+**About Me**:  Just a person who admires NLP and Image processing. Tbh want to contribute a lot to Open Source and active user in Medium(https://medium.com/@mrudhulraj.n) Btw huge bball fan and interested a little in photography.<br/>
+
+
 
