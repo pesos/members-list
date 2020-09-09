@@ -57,7 +57,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 **Name**: Nihal Ramaswamy  
 **SRN**: PES1UG19CS297  
-**Link to Profile**: [Nihal Ramaswamy](https://github.com/Addilergy)  
+**Link to Profile**: [Nihal Ramaswamy](https://github.com/nihal-ramaswamy)  
 **About Me**:   
 Just another programmer.  
 
