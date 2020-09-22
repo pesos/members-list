@@ -1103,8 +1103,8 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**: [Mrudhulraj](https://github.com/Mrudhulraj)  <br/>
 **About Me**:  Just a person who admires NLP and Image processing. Tbh want to contribute a lot to Open Source and active user in Medium(https://medium.com/@mrudhulraj.n) Btw huge bball fan and interested a little in photography.<br/>
 
-**Name**: Mayank Agrawal <br/>  
-**SRN**: PES1UG19EE060  <br/>
+**Name**: Mayank Agrawal  
+**SRN**: PES1UG19EE060
 **Link to Profile**: [Mayank1403](https://github.com/Mayank1403)   <br/>
 **About Me**: Keen learner :D. Like to design and implement FrontEnd for Web Apps. <br/>
 
