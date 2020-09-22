@@ -1112,3 +1112,8 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**: PES1UG19EE060  <br/>
 **Link to Profile**: [Mayank1403](https://github.com/Mayank1403)   <br/>
 **About Me**: Keen learner :D. Like to design and implement FrontEnd for Web Apps. <br/>
+
+**Name**: Om Amitesh <br/> 
+**SRN**: PES1UG19CS310 <br/> 
+**Link to Profile**: https://github.com/Om-Amitesh <br/>
+**About Me**: I just love experimenting around and finding creative answers! Also Im up for blogging on medium(just started tho, https://medium.com/@omamitesh). First shot at open source so, wish me luck! xD<br/>
