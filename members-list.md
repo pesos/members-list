@@ -1104,7 +1104,7 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **About Me**:  Just a person who admires NLP and Image processing. Tbh want to contribute a lot to Open Source and active user in Medium(https://medium.com/@mrudhulraj.n) Btw huge bball fan and interested a little in photography.<br/>
 
 **Name**: Amritesh <br/>
-**SRN**: PES1UG19CS056 <br/>  
+**SRN**: PES1UG19CS056 <br/>
 **Link to Profile**: https://github.com/ammrit2312  <br/>
 **About Me**:  Just someone who wants to make things that help people a lot. I love to learn and help in new projects. More interested in getting the knowledge.  <br/>
 
