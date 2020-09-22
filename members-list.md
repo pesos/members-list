@@ -1106,7 +1106,7 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Name**: Mayank Agrawal <br/>  
 **SRN**: PES1UG19EE060  <br/>
 **Link to Profile**: [Mayank1403](https://github.com/Mayank1403)   <br/>
-**About Me**: Keen learner :D  <br/>
+**About Me**: Keen learner :D. Like to design and implement FrontEnd for Web Apps. <br/>
 
 
 
