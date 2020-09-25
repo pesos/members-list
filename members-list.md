@@ -1117,3 +1117,9 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**: PES1UG19CS310  <br/> 
 **Link to Profile**: [Om-Amitesh](https://github.com/Om-Amitesh)  <br/>
 **About Me**: I just love experimenting around and finding creative answers! Also Im up for blogging on medium(just started tho, https://medium.com/@omamitesh). First shot at open source so, wish me luck! xD<br/>
+
+**Name**: Royston E Tauro  <br/> 
+**SRN**: PES1UG19CS396  <br/> 
+**Link to Profile**: [lucasace](https://github.com/lucasace)  <br/>
+**About Me**: Fascinated by Computer Vision!! Just started Open-Source and tbh a bit terrified xD <br/>
+
