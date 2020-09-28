@@ -1123,3 +1123,8 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**: [lucasace](https://github.com/lucasace)  <br/>
 **About Me**: Fascinated by Computer Vision!! Just started Open-Source and tbh a bit terrified xD <br/>
 
+
+**Name**: Akshay B  <br/> 
+**SRN**: PES1UG19CS044  <br/> 
+**Link to Profile**: [AB-Law](https://github.com/AB-Law)  <br/>
+**About Me**:  A huge football fan. Likes watching thrillers/drama movies. Also a little anxious but looking to contribute to something  <br/>
