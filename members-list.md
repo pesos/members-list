@@ -1128,3 +1128,8 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**: PES1UG19CS044  <br/> 
 **Link to Profile**: [AB-Law](https://github.com/AB-Law)  <br/>
 **About Me**:  A huge football fan. Likes watching thrillers/drama movies. Also a little anxious but looking to contribute to something  <br/>
+
+**Name**: Sanjiv Sridhar  <br/> 
+**SRN**: PES1UG19CS432  <br/> 
+**Link to Profile**: [Sanjiv01](https://github.com/Sanjiv01)  <br/>
+**About Me**:  I have basic knowledge of ML , learning and it is my main area of interest, hope to contribute and be a part of big projects, love to play csgo and minecraft.  <br/>
