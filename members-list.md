@@ -20,6 +20,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Madan Virendra Patil  
+**SRN**: PES1UG19CS248  
+**Link To Profile**: [mvpmaddy](https://github.com/mvpmaddy)  
+**About me**: I'm a passionate learner. Love listning to music, a noob to open source contribution.  
+
 **Name**: Guhan k  
 **SRN**: PES1UG19CS171   
 **Link to Profile**: [kabbina](https://github.com/kabbina)  
