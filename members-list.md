@@ -1133,3 +1133,8 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**: PES1UG19CS432  <br/> 
 **Link to Profile**: [Sanjiv01](https://github.com/Sanjiv01)  <br/>
 **About Me**:  I have basic knowledge of ML , learning and it is my main area of interest, hope to contribute and be a part of big projects, love to play csgo and minecraft.  <br/>
+
+**Name**: Nidhi Gupta  <br/> 
+**SRN**: PES2UG19CS256  <br/> 
+**Link to Profile**: [NidhxGupta](https://github.com/NidhxGupta)  <br/>
+**About Me**:  I'm interested in Web Development, Cloud and AI/ML. Looking forward to learn new things and contribute as much as I can to this community.<br/>
