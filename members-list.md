@@ -20,6 +20,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Shreyas Bhaktharam  
+**SRN**: PES1UG19CS464  
+**Link To Profile**:[shreyasb20](https://github.com/ShreyasBhaktharam)  
+**About me**: I love listening to music (I'm a sucker for lo-fi/indie music) and I also play the piano.  
+
 **Name**: Madan Virendra Patil  
 **SRN**: PES1UG19CS248  
 **Link To Profile**: [mvpmaddy](https://github.com/mvpmaddy)  
