@@ -1148,3 +1148,9 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**: PES2UG19CS256  <br/> 
 **Link to Profile**: [NidhxGupta](https://github.com/NidhxGupta)  <br/>
 **About Me**:  I'm interested in Web Development, Cloud and AI/ML. Looking forward to learn new things and contribute as much as I can to this community.<br/>
+
+
+**Name**:Chetan Athni  
+**SRN**:PES1201800468  
+**Link to Profile**:[chetanathni](https://github.com/chetanathni)  
+**About Me** Just another ECE kid trying to find my calling in the world of computer science! Primarily interested in the fields of Cloud Computing, IoT and Parallel/Distributed Computing. On a lighter & totally unrelated note, here's a controversial opinion: The Office >>> Friends xD  
