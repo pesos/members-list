@@ -1153,4 +1153,4 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Name**: Chetan Athni  
 **SRN**:  PES1201800468  
 **Link to Profile**: [chetanathni](https://github.com/chetanathni)  
-**About Me**: Just another ECE kid trying to find my calling in the world of computer science! Primarily interested in the fields of Cloud Computing, IoT and Parallel Systems.<br/> On a lighter & totally unrelated note, here's a controversial opinion: The Office >>> Friends xD  
+**About Me**: Just another ECE kid trying to find my calling in the world of computer science! Primarily interested in the fields of Cloud Computing, IoT and Parallel Systems. On a lighter & totally unrelated note, here's a controversial opinion: The Office >>> Friends xD  
