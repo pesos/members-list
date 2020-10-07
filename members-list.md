@@ -20,6 +20,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: K S Ramalakshmi  
+**SRN**: PES1202000683  <br/>
+**Link to Profile**: [ksramalakshmi](https://github.com/ksramalakshmi) <br/>
+**About Me**: Love socializing with people, creating a healthy network, avid Netflix binger and hard-core Michael Scott fan.
+
 **Name**: Shreyas Bhaktharam  
 **SRN**: PES1UG19CS464  
 **Link To Profile**:[shreyasb20](https://github.com/ShreyasBhaktharam)  
