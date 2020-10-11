@@ -129,6 +129,11 @@ Hi! I go by the handle "AdithyaBhatPR", I am a passionate learner. I like pencil
 **Link to Profile**: [Rvdixit23](https://github.com/Rvdixit23)  
 **About Me**:  Emulator gamer, jack of all trades and in the hunt for the right level of abstraction for me.
 
+**Name**: Dhruva Kashyap  
+**SRN**: PES1201801457  
+**Link To Profile**: [DhruvaKashyap](https://github.com/DhruvaKashyap)  
+**About me**: I am not a fruit, neither a vegetable. I don't like the colour magenta.  
+
 **Name**: Arya Rajiv Chaloli  
 **SRN**: PES1201700253  
 **Link to Profile**: [AryaRajivChaloli](https://github.com/AryaRajivChaloli)<br/>
