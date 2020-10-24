@@ -20,6 +20,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: S RITESH KUMAR  
+**SRN**: PES1UG19CS403  
+**Link to Profile**: [RIT3shSapata](https://github.com/RIT3shSapata)  <br/>
+**About Me**: A Tech Geek and I love coding. I love watching anime and reading manga. I enjoy solving puzzles and the rubiks cube.  <br/>
+
 **Name**: K S Ramalakshmi  
 **SRN**: PES1202000683  <br/>
 **Link to Profile**: [ksramalakshmi](https://github.com/ksramalakshmi) <br/>
