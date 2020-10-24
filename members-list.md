@@ -20,8 +20,8 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
-**Name**: Nihal Shetty
-**SRN**: PES1UG19CS298 
+**Name**: Nihal Shetty  
+**SRN**: PES1UG19CS298  
 **Link to Profile**: DragoMark(https://github.com/DragoMark)  <br/>
 **About Me**: Spend most of my time on anime/manga and coding. Can't do anything without music. I like drawing or making covers when I'm bored.  <br/>
 
