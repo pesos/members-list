@@ -25,6 +25,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**: [DragoMark](https://github.com/DragoMark)  <br/>
 **About Me**: Spend most of my time on anime/manga and coding. Can't do anything without music. I like drawing or making covers when I'm bored.  <br/>
 
+**Name**: K Manish Gowd  
+**SRN**: PES1UG19CS200  
+**Link to Profile**: [Manish0925](https://github.com/Manish0925)  <br/>
+**About Me**: A highly intuititive programmer who loves cross-platform optimization and approaches things in an unconventional manner.  <br/>
+
 **Name**: S RITESH KUMAR  
 **SRN**: PES1UG19CS403  
 **Link to Profile**: [RIT3shSapata](https://github.com/RIT3shSapata)  <br/>
