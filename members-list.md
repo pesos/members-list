@@ -20,6 +20,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Anirudh Rowjee  
+**SRN**: PES2202000184  
+**Link to Profile**: [anirudhRowjee](https://github.com/anirudhRowjee)  
+**About Me**: Hey! Glad to meet you. I'm Anirudh, and I love learning how things work (usually by breaking them - sorry, mom and dad - I'm sure you're glad I can only break builds in production now :smile:). I like math and finding the most optimal _jugaad_ to everyday problems. Sometimes I write poems :wq  
+
+
 **Name**: K Manish Gowd  
 **SRN**: PES1UG19CS200  
 **Link to Profile**: [Manish0925](https://github.com/Manish0925)  <br/>
