@@ -20,6 +20,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name** : Pramatha Gajanan Bhat  
+**SRN**  : PES1UG19CS339  
+**Link to Profile** : [private-bryan](https://github.com/private-bryan)   
+**About Me**:  Hello! I am Pramatha. I open up without any hesitation with anyone who is friendly, approachable, well spoken. I lose courage to speak otherwise. I'm much efficient at my work if there is no one bossing above my head like an elder sibling. I will have performance anxiety then. And now here to learn more and contribute to the existing projects and take your help for mine as well.  
+
 **Name**: Anirudh Rowjee  
 **SRN**: PES2202000184  
 **Link to Profile**: [anirudhRowjee](https://github.com/anirudhRowjee)  
