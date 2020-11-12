@@ -20,6 +20,13 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+
+**Name**: Ishita Chaudhary. 
+**SRN**:  PES1UG19CS190. 
+**Link to Profile**: [ishita1864](https://github.com/ishita1864). 
+**About Me**:  
+A loud, hyperactive girl with a vivid imagination and a keen interest in reading, writing and coding(when there isn’t a deadline to follow :)). Loves talking and learning new things.
+
 **Name** : Pramatha Gajanan Bhat  
 **SRN**  : PES1UG19CS339  
 **Link to Profile** : [private-bryan](https://github.com/private-bryan)   
