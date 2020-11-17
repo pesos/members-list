@@ -20,10 +20,10 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
-**Name**:  Ananya S K`<-- Don't forget to add two spaces here` <br/>
-**SRN**:  PES1UG19EC039`<-- Don't forget to add two spaces here` <br/>  
-**Link to Profile**: [ananyaskudaloor]'(https://github.com/ananyaskudaloor)'  `<-- Don't forget to add two spaces here` <br/>
-**About Me**:  I am a passionate learner and I do have a lot of ideas. `<-- Don't forget to add two spaces here` <br/>
+**Name**:  Ananya S K <br/>
+**SRN**:  PES1UG19EC039 d<br/>  
+**Link to Profile**: [ananyaskudaloor](https://github.com/ananyaskudaloor)   <br/>
+**About Me**:  I am a passionate learner and I do have a lot of ideas.  <br/>
 
 **Name**: Ishita Chaudhary   
 **SRN**:  PES1UG19CS190   
