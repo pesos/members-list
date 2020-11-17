@@ -21,7 +21,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 [Add your details over here]`← Don't remove this line`
 
 **Name**:  Ananya S K <br/>
-**SRN**:  PES1UG19EC039 <br/>  
+**SRN**:  PES1UG19EC039
 **Link to Profile**: [ananyaskudaloor](https://github.com/ananyaskudaloor)   <br/>
 **About Me**:  I am a passionate learner and I do have a lot of ideas.  <br/>
 
