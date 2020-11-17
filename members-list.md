@@ -25,6 +25,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**: [ananyaskudaloor](https://github.com/ananyaskudaloor)   <br/>
 **About Me**:  I am a passionate learner and I do have a lot of ideas.  <br/>
 
+**Name**: Nihal Shetty  
+**SRN**: PES1UG19CS298  
+**Link to Profile**: [DragoMark](https://github.com/DragoMark)  <br/>
+**About Me**: Spend most of my time on anime/manga and coding. Can't do anything without music. I like drawing or making covers when I'm bored.  <br/>
+
 **Name**: Ishita Chaudhary   
 **SRN**:  PES1UG19CS190   
 **Link to Profile**: [ishita1864](https://github.com/ishita1864)    
@@ -41,11 +46,10 @@ A loud, hyperactive girl with a vivid imagination and a keen interest in reading
 **Link to Profile**: [anirudhRowjee](https://github.com/anirudhRowjee)  
 **About Me**: Hey! Glad to meet you. I'm Anirudh, and I love learning how things work (usually by breaking them - sorry, mom and dad - I'm sure you're glad I can only break builds in production now :smile:). I like math and finding the most optimal _jugaad_ to everyday problems. Sometimes I write poems :wq  
 
-
 **Name**: K Manish Gowd  
 **SRN**: PES1UG19CS200  
 **Link to Profile**: [Manish0925](https://github.com/Manish0925)  <br/>
-**About Me**: A highly intuititive programmer who loves cross-platform optimization and approaches things in an unconventional manner.  <br/>
+**About Me**: A highly intuitive programmer having an unconventional approach. Love making the world a better and happier place to live in.  <br/>
 
 **Name**: S RITESH KUMAR  
 **SRN**: PES1UG19CS403  
