@@ -41,7 +41,7 @@ A loud, hyperactive girl with a vivid imagination and a keen interest in reading
 **Name**: K Manish Gowd  
 **SRN**: PES1UG19CS200  
 **Link to Profile**: [Manish0925](https://github.com/Manish0925)  <br/>
-**About Me**: A highly intuititive programmer who loves cross-platform optimization and approaches things in an unconventional manner.  <br/>
+**About Me**: A highly intuitive programmer having an unconventional approach. Love making the world a better and happier place to live in.  <br/>
 
 **Name**: S RITESH KUMAR  
 **SRN**: PES1UG19CS403  
