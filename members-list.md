@@ -4,12 +4,10 @@
 
 > Please adhere to this format when adding your name to this list  
 
-**Name**:  `<-- Don't forget to add two spaces here` <br/>
-**SRN**: `<-- Don't forget to add two spaces here` <br/>  
-**Link to Profile**: [name]'(https://github.com/name)'  `<-- Don't forget to add two spaces here` <br/>
-**About Me**: `<-- Don't forget to add two spaces here` <br/>
-Write a short, fun description about yourself. Please be genuine and light-hearted. This isn't a flexing contest.
-Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS". Tell us something we don't know
+**Name**:  Janya Mahesh  `<-- Don't forget to add two spaces here` <br/>
+**SRN**:  PES1UG19CS194  `<-- Don't forget to add two spaces here` <br/>  
+**Link to Profile**: [JanyaMahesh]'(https://github.com/JanyaMahesh)'  `<-- Don't forget to add two spaces here` <br/>
+**About Me**:  Coding is life.Cycling enthusiast.Love challenges.Believes in hardwork.  `<-- Don't forget to add two spaces here` <br/>
 
 
 ---  
