@@ -4,10 +4,10 @@
 
 > Please adhere to this format when adding your name to this list  
 
-**Name**:  Janya Mahesh <br/>
-**SRN**:  PES1UG19CS194  <br/>  
-**Link to Profile**: [JanyaMahesh](https://github.com/JanyaMahesh)   <br/>
-**About Me**:  Coding is life. Cycling enthusiast. Love challenges. Believes in hardwork. <br/>
+**Name**:   `<--Don't forget to add two spaces here`<br/>
+**SRN**:  `<--Don't forget to add two spaces here`  <br/>  
+**Link to Profile**: [name](https://github.com/profile) `<--Don't forget to add two spaces here`   <br/>
+**About Me**:  `<--Don't forget to add two spaces here` <br/>
 
 
 ---  
@@ -17,6 +17,11 @@
 ## The list 
 
 [Add your details over here]`← Don't remove this line`
+
+**Name**:  Janya Mahesh <br/>
+**SRN**:  PES1UG19CS194 <br/>
+**Link to Profile**: [JanyaMahesh](https://github.com/JanyaMahesh)   <br/>
+**About Me**: Coding is life. Cycling enthusiast. Love challenges. Believes in hardwork.  <br/>
 
 **Name**:  Ananya S K <br/>
 **SRN**:  PES1UG19EC039 <br/>
