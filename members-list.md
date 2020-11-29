@@ -7,7 +7,7 @@
 **Name**:  Janya Mahesh <br/>
 **SRN**:  PES1UG19CS194  <br/>  
 **Link to Profile**: [JanyaMahesh]'(https://github.com/JanyaMahesh)'   <br/>
-**About Me**:  Coding is life.Cycling enthusiast.Love challenges.Believes in hardwork. <br/>
+**About Me**:  Coding is life. Cycling enthusiast. Love challenges. Believes in hardwork. <br/>
 
 
 ---  
