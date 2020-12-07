@@ -21,7 +21,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 [Add your details over here]`← Don't remove this line`
 **Name**: Niveditha K </br>
 **SRN**: PES1202000474 </br>
-**Link to Profile**: [Niveditha-K17]'(https://github.com/Niveditha-K17)'
+**Link to Profile**: [Niveditha-K17]'(https://github.com/Niveditha-K17)' </br>
 **About Me**:  I am interested to learn languages. Pretty new to the world of coding. I can work hard but I get bored soon, so I look for ways to break monotony. I really enjoy dance and am learning to play the flute. Not sure if I am "passionate" about tech, but certainly intrigued and eager to learn. I like socialiazing and am prolly the only person who think I am funny:p
 
 **Name**:  Ananya S K <br/>
