@@ -19,6 +19,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 
 [Add your details over here]`← Don't remove this line`
+</br>
 **Name**: Niveditha K </br>
 **SRN**: PES1202000474 </br>
 **Link to Profile**: [Niveditha-K17]'(https://github.com/Niveditha-K17)' </br>
