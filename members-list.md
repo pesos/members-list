@@ -25,6 +25,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**: [rhr7019](https://github.com/rhr7019)  <br/>
 **About Me**:  I am a data science enthusiast and enjoy coding. I like spending my free time producing electronic music.  <br/> 
 
+**Name**:  Janya Mahesh <br/>
+**SRN**:  PES1UG19CS194 <br/>
+**Link to Profile**: [JanyaMahesh](https://github.com/JanyaMahesh)   <br/>
+**About Me**: Coding is life. Cycling enthusiast. Love challenges. Believes in hardwork.  <br/>
+
 **Name**:  Ananya S K <br/>
 **SRN**:  PES1UG19EC039 <br/>
 **Link to Profile**: [ananyaskudaloor](https://github.com/ananyaskudaloor)   <br/>
