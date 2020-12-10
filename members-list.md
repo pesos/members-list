@@ -20,6 +20,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**:  Rahul H Raj <br/>
+**SRN**:  PES1202000844 <br/>
+**Link to Profile**: [rhr7019](https://github.com/rhr7019)  <br/>
+**About Me**:  I am a data science enthusiast and enjoy coding. I like spending my free time producing electronic music.  <br/> 
+
 **Name**:  Janya Mahesh <br/>
 **SRN**:  PES1UG19CS194 <br/>
 **Link to Profile**: [JanyaMahesh](https://github.com/JanyaMahesh)   <br/>
