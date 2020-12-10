@@ -25,6 +25,16 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**:  [rakshithshenoy]'(https://github.com/rakshithshenoy)'  `<-- Don't forget to add two spaces here` <br/>
 **About Me**:  I'm a passionate guitarist and love learning about Web Technologies. Six months of binging shows on Netflix was fun but now I can't wait to make my first Open Source contribution <br/>
 
+**Name**:  Rahul H Raj <br/>
+**SRN**:  PES1202000844 <br/>
+**Link to Profile**: [rhr7019](https://github.com/rhr7019)  <br/>
+**About Me**:  I am a data science enthusiast and enjoy coding. I like spending my free time producing electronic music.  <br/> 
+
+**Name**:  Janya Mahesh <br/>
+**SRN**:  PES1UG19CS194 <br/>
+**Link to Profile**: [JanyaMahesh](https://github.com/JanyaMahesh)   <br/>
+**About Me**: Coding is life. Cycling enthusiast. Love challenges. Believes in hardwork.  <br/>
+
 **Name**:  Ananya S K <br/>
 **SRN**:  PES1UG19EC039 <br/>
 **Link to Profile**: [ananyaskudaloor](https://github.com/ananyaskudaloor)   <br/>
