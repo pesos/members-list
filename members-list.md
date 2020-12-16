@@ -1210,3 +1210,9 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**:  PES1201800468  
 **Link to Profile**: [chetanathni](https://github.com/chetanathni)  
 **About Me**: Just another ECE kid trying to find my calling in the world of computer science! Primarily interested in the fields of Cloud Computing, IoT and Parallel Systems. On a lighter & totally unrelated note, here's a controversial opinion: The Office >>> Friends xD  
+
+
+**Name**: Suhas KV  <br/>
+**SRN**: PES2UG20EC093  <br/>
+**Link to Profile**: [suhaskv1](https://github.com/suhaskv1)  <br/>
+**About Me**: Recently realised how amazing Linux is. I am really interested in Operating Systems and custom firmware like Coreboot. I am new to open source contributing but I am extremely eager. I love playing basketball, reading weird tales by Murakami and listening to offbeat music from the math metal genre. May the force be with you!  <br/>
