@@ -21,8 +21,8 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 [Add your details over here]`← Don't remove this line`
 
 **Name**:  Rakshith Shenoy <br/>
-**SRN**:  PES1202000670 <br/>  
-**Link to Profile**:  [rakshithshenoy](https://github.com/rakshithshenoy) <br/>
+**SRN**:  PES1202000670 <br/>
+**Link to Profile**: [rakshithshenoy](https://github.com/rakshithshenoy)  <br/>
 **About Me**:  I'm a passionate guitarist and love learning about Web Technologies. Six months of binging shows on Netflix was fun but now I can't wait to make my first Open Source contribution <br/>
 
 **Name**:  Rahul H Raj <br/>
