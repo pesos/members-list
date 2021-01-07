@@ -20,6 +20,13 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Anush Somasundaram <br/>
+**SRN**: PES1UG20CS068 <br/>
+**Link to Profile**: [AnushSomasundaram](https://github.com/AnushSomasundaram) <br/>
+**About Me**: Pretty good sense of humour, I'm pretty stupid, but I think i'll be just fine. I love movies, name any title i've probably watched it.
+<br/>
+
+
 **Name**:  Ramya NP <br/>
 **SRN**:  PES1UG19CS380<br/>
 **Link to Profile**:  [RamyaNP](https://github.com/RamyaNP) <br/>
