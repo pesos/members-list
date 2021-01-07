@@ -47,6 +47,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**: [pavan-n-654](https://github.com/pavan-n-654) <br/>
 **About Me**:  Machine Learning and competitive coding enthusiast  <br/>
 
+**Name**:  Rakshith Shenoy <br/>
+**SRN**:  PES1202000670 <br/>
+**Link to Profile**: [rakshithshenoy](https://github.com/rakshithshenoy)  <br/>
+**About Me**:  I'm a passionate guitarist and love learning about Web Technologies. Six months of binging shows on Netflix was fun but now I can't wait to make my first Open Source contribution <br/>
+
 **Name**:  Rahul H Raj <br/>
 **SRN**:  PES1202000844 <br/>
 **Link to Profile**: [rhr7019](https://github.com/rhr7019)  <br/>
