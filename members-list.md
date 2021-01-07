@@ -25,6 +25,13 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]'<--Don't remove this line--'</br>
 
+
+**Name**: Noel Saju </br>
+**SRN**: PES2UG20CS446 </br>
+**Link to Profile**: [Noel-jediknight](https://github.com/Noel-jediknight) </br>
+**About Me**: Hey people! I'm Noel. I enjoy trying out anything new and intriguing and programming is one of these. If any of you binge more than or as much as i do then its probably unhealthy(please stop:))I enjoy reading, listening to songs and can play basic keyboard and guitar. I'm pretty friendly and hope to meet a lot of people,learn stuff and most importantly, have fun!(p.s:cryptography enthusiast cuz puzzles are dope)
+
+
 **Name**: Niveditha K </br>
 **SRN**: PES1202000474 </br>
 **Link to Profile**: [Niveditha-K17](https://github.com/Niveditha-K17) </br>
