@@ -3,13 +3,19 @@
 ## Format
 
 > Please adhere to this format when adding your name to this list  
-
+  
 **Name**:  `<-- Don't forget to add two spaces here` <br/>
 **SRN**: `<-- Don't forget to add two spaces here` <br/>
 **Link to Profile**: `[name](https://github.com/name)` `<-- Don't forget to add two spaces here` <br/>
 **About Me**: `<-- Don't forget to add two spaces here` <br/>
 Write a short, fun description about yourself. Please be genuine and light-hearted. This isn't a flexing contest.
 Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS". Tell us something we don't know
+
+**Name**:  Chiranth R  <br/>
+**SRN**: PES1UG20CS116  <br/>
+**Link to Profile**: [ChiranthR30](https://github.com/ChiranthR30) <br/>
+**About Me**: Im a learner in this coding stuff. Dont know what but have very keen interest in artificial intelligence.Music enthusiast <br/>
+
 
 
 ---  
