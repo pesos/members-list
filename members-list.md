@@ -26,6 +26,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 [Add your details here]'<--Don't remove this line--'</br>
 
 
+**Name**:  Akash Mehta <br/>
+**SRN**:  PES1UG19CS040  <br/>
+**Link to Profile**: [Kash6](https://github.com/Kash6)  <br/>
+**About Me**:  Just existing to traverse and probably get lost in this wonderful library of knowledge, which is also kinda scary at times. Love to contribute and help with stuff I know. Dipping my feet in ml and cloud at the moment. Ambivert by will.   <br/>
+
 **Name**: Noel Saju </br>
 **SRN**: PES2UG20CS446 </br>
 **Link to Profile**: [Noel-jediknight](https://github.com/Noel-jediknight) </br>
