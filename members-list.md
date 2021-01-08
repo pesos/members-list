@@ -4,10 +4,10 @@
 
 > Please adhere to this format when adding your name to this list  
   
-**Name**:  `<-- Don't forget to add two spaces here` <br/>
-**SRN**: `<-- Don't forget to add two spaces here` <br/>
-**Link to Profile**: `[name](https://github.com/name)` `<-- Don't forget to add two spaces here` <br/>
-**About Me**: `<-- Don't forget to add two spaces here` <br/>
+**Name**: HARSH VERMA    `<-- Don't forget to add two spaces here` <br/>
+**SRN**: PES1UG20EC078  `<-- Don't forget to add two spaces here` <br/>
+**Link to Profile**: [vermaharshh]( https://github.com/vermaharshh)  `[name](https://github.com/name)` `<-- Don't forget to add two spaces here` <br/>
+**About Me**: I love c++ and python and currently a learner in it. i am highly interested in data science, artificial intelligence and internet of things technology.   `<-- Don't forget to add two spaces here` <br/>
 Write a short, fun description about yourself. Please be genuine and light-hearted. This isn't a flexing contest.
 Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS". Tell us something we don't know
 
