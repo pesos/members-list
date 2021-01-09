@@ -11,13 +11,6 @@
 Write a short, fun description about yourself. Please be genuine and light-hearted. This isn't a flexing contest.
 Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS". Tell us something we don't know
 
-**Name**:  Chiranth R  <br/>
-**SRN**: PES1UG20CS116  <br/>
-**Link to Profile**: [ChiranthR30](https://github.com/ChiranthR30) <br/>
-**About Me**: Im a learner in this coding stuff. Dont know what but have very keen interest in artificial intelligence.Music enthusiast <br/>
-
-
-
 ---  
 
 **Do not modify anything above this line**  
@@ -25,10 +18,20 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]'<--Don't remove this line--'</br>
 
+**Name**:  Chiranth R  <br/>
+**SRN**: PES1UG20CS116  <br/>
+**Link to Profile**: [ChiranthR30](https://github.com/ChiranthR30) <br/>
+**About Me**: Im a learner in this coding stuff. Dont know what but have very keen interest in artificial intelligence.Music enthusiast <br/>
+
 **Name**:  Abhishek Hiremath  <br/>
 **SRN**: PES2UG20CS011  <br/>
 **Link to Profile**: [AstroAbhishek02](https://github.com/AstroAbhishek02) <br/>
 **About Me**: Astrophile, budding programmer. The object-oriented way to get rich is by inheritance. This bio is like abstraction, Im only telling you what you should know <br/>
+
+**Name**:  Sanketh Chebbi  <br/>
+**SRN**: PES1UG20ME098  <br/>
+**Link to Profile**: [sankethchebbi](https://github.com/sankethchebbi) <br/>
+**About Me**: I like rap music and movies. Technology enthusiast. Full stack-overflow developer.  <br/>
 
 **Name**:  Akash Mehta <br/>
 **SRN**:  PES1UG19CS040  <br/>
