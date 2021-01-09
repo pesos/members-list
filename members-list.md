@@ -25,6 +25,10 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]'<--Don't remove this line--'</br>
 
+**Name**:  Sanketh Chebbi  <br/>
+**SRN**: PES1UG20ME098  <br/>
+**Link to Profile**: [sankethchebbi](https://github.com/sankethchebbi) <br/>
+**About Me**: I like rap music and movies. Technology enthusiast. Full stack-overflow developer.  <br/>
 
 **Name**:  Akash Mehta <br/>
 **SRN**:  PES1UG19CS040  <br/>
