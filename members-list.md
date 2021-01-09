@@ -16,7 +16,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Do not modify anything above this line**  
 
 ## The list 
-[Add your details here]'<--Don't remove this line--'</br>
+[Add your details here]`<--Don't remove this line`<br/>
 
 **Name**:  Chiranth R  <br/>
 **SRN**: PES1UG20CS116  <br/>
