@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**:  Pulkit Jain  <br/>
+**SRN**: PES1PG20CA037  <br/>
+**Link to Profile**: [pulkitjain708](https://github.com/pulkitjain708) <br/>
+**About Me**: Learner , Avid Reader and Loves Javascript <br/>
+
 **Name**:  Chiranth R  <br/>
 **SRN**: PES1UG20CS116  <br/>
 **Link to Profile**: [ChiranthR30](https://github.com/ChiranthR30) <br/>
