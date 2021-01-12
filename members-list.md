@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**:  Atharv Tiwari <br/>
+**SRN**:  PES1UG20CS087 <br/>
+**Link to Profile**: [atharvtiwari](https://github.com/atharvtiwari/) <br/>
+**About Me**:  ahaha i dunno what to put here. i love stories. whatever the medium. love the terminal, not cuz i know what to do with it but because of it's aesthetic xD. been using os tools and playing os games since forever (cuz i'm broke haha) but i'm fairly clueless about the work behind them. so naturally i'm curious :qa! oops. <br/>
+
 **Name**:  Pulkit Jain  <br/>
 **SRN**: PES1PG20CA037  <br/>
 **Link to Profile**: [pulkitjain708](https://github.com/pulkitjain708) <br/>
