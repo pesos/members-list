@@ -1277,3 +1277,9 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**: PES2UG20EC093  <br/>
 **Link to Profile**: [suhaskv1](https://github.com/suhaskv1)  <br/>
 **About Me**: Recently realised how amazing Linux is. I am really interested in Operating Systems and custom firmware like Coreboot. I am new to open source contributing but I am extremely eager. I love playing basketball, reading weird tales by Murakami and listening to offbeat music from the math metal genre. May the force be with you!  <br/>
+
+
+**Name**:  Prateek Pangal Rao  <br/>
+**SRN**:  PES1UG20CS303  <br/>
+**Link to Profile**:  [r-prateek](https://github.com/r-prateek)  <br/>
+**About Me**: New to open source, and curious about the way it works. I love music, especially rock from the 70's and 80's and I'm also interested in AI/ML. I love a good novel and I don't play games. Don't ask me why :)  <br/>
