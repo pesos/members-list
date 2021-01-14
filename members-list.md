@@ -1288,3 +1288,9 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**:  PES1UG20CS303  <br/>
 **Link to Profile**:  [r-prateek](https://github.com/r-prateek)  <br/>
 **About Me**: New to open source, and curious about the way it works. I love music, especially rock from the 70's and 80's and I'm also interested in AI/ML. I love a good novel and I don't play games. Don't ask me why :)  <br/>
+
+
+**Name**:  Aaditya S Goel <br/>
+**SRN**: PES1UG20CS001 <br/>
+**Link to Profile**: [Aadigoel](https://github.com/Aadigoel)  <br/>
+**About Me**: "You are not a drop in an ocean, but rather an entire ocean in a drop" -Rumi(I think). I have a general appreciation for all things beautiful. I enjoy everything from CS and Math to Bio, Economics and even Philosophy(xP Ik ik, people get all judgy when you say phil..its not all bad, trust me). And ofc all the seven arts. I intend to explore a lot of things, and have fun while doing it :D   <br/>
