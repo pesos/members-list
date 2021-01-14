@@ -1288,3 +1288,9 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**:  PES1UG20CS303  <br/>
 **Link to Profile**:  [r-prateek](https://github.com/r-prateek)  <br/>
 **About Me**: New to open source, and curious about the way it works. I love music, especially rock from the 70's and 80's and I'm also interested in AI/ML. I love a good novel and I don't play games. Don't ask me why :)  <br/>
+
+**Name**:  Shreyas S Kaundinya <br/>
+**SRN**:  PES1UG20CS409  <br/>
+**Link to Profile**:  [shreyaskaundinya](https://github.com/shreyaskaundinya)  <br/>
+**About Me**: Namaskara/Hey all, I'm a chill person, love music and do produce some music on the side, with that I've come to being able to take feedback and work on that. I'm fond of cooking, and coffee. Trekking and fast and furious are my jam.  <br/>
+
