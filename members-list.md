@@ -1255,7 +1255,6 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**: [lucasace](https://github.com/lucasace)  <br/>
 **About Me**: Fascinated by Computer Vision!! Just started Open-Source and tbh a bit terrified xD <br/>
 
-
 **Name**: Akshay B  <br/> 
 **SRN**: PES1UG19CS044  <br/> 
 **Link to Profile**: [AB-Law](https://github.com/AB-Law)  <br/>
@@ -1271,26 +1270,27 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**: [NidhxGupta](https://github.com/NidhxGupta)  <br/>
 **About Me**:  I'm interested in Web Development, Cloud and AI/ML. Looking forward to learn new things and contribute as much as I can to this community.<br/>
 
-
 **Name**: Chetan Athni  
 **SRN**:  PES1201800468  
 **Link to Profile**: [chetanathni](https://github.com/chetanathni)  
 **About Me**: Just another ECE kid trying to find my calling in the world of computer science! Primarily interested in the fields of Cloud Computing, IoT and Parallel Systems. On a lighter & totally unrelated note, here's a controversial opinion: The Office >>> Friends xD  
-
 
 **Name**: Suhas KV  <br/>
 **SRN**: PES2UG20EC093  <br/>
 **Link to Profile**: [suhaskv1](https://github.com/suhaskv1)  <br/>
 **About Me**: Recently realised how amazing Linux is. I am really interested in Operating Systems and custom firmware like Coreboot. I am new to open source contributing but I am extremely eager. I love playing basketball, reading weird tales by Murakami and listening to offbeat music from the math metal genre. May the force be with you!  <br/>
 
-
 **Name**:  Prateek Pangal Rao  <br/>
 **SRN**:  PES1UG20CS303  <br/>
 **Link to Profile**:  [r-prateek](https://github.com/r-prateek)  <br/>
 **About Me**: New to open source, and curious about the way it works. I love music, especially rock from the 70's and 80's and I'm also interested in AI/ML. I love a good novel and I don't play games. Don't ask me why :)  <br/>
 
+**Name**:  Aaditya S Goel <br/>
+**SRN**: PES1UG20CS001 <br/>
+**Link to Profile**: [Aadigoel](https://github.com/Aadigoel)  <br/>
+**About Me**: "You are not a drop in an ocean, but rather an entire ocean in a drop" -Rumi(I think). I have a general appreciation for all things beautiful. I enjoy everything from CS and Math to Bio, Economics and even Philosophy(xP Ik ik, people get all judgy when you say phil..its not all bad, trust me). And ofc all the seven arts. I intend to explore a lot of things, and have fun while doing it :D   <br/>
+
 **Name**:  Shreyas S Kaundinya <br/>
 **SRN**:  PES1UG20CS409  <br/>
 **Link to Profile**:  [shreyaskaundinya](https://github.com/shreyaskaundinya)  <br/>
 **About Me**: Namaskara/Hey all, I'm a chill person, love music and do produce some music on the side, with that I've come to being able to take feedback and work on that. I'm fond of cooking, and coffee. Trekking and fast and furious are my jam.  <br/>
-
