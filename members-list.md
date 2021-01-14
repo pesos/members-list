@@ -23,6 +23,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**:  [saeeganeshks](https://github.com/saeeganeshks)  <br/>
 **About Me**: Exploring the world of programming and just enjoying the process. Tech enthusiast. Basketball player.  <br/>
 
+**Name**:  Anindita H.K  <br/>
+**SRN**:  PES1UG20CS054  <br/>
+**Link to Profile**:  [A-HK](https://github.com/A-HK)  <br/>
+**About Me**: Occasional keyboard (the instrument) player. Aspiring open source ~~cult~~ community member. Harry Potter fanatic. Person who doesn't know how to write a bio about herself. Willing to wage a war with people who think that pineapple on pizza is okay.  <br/>
+
 **Name**:  Atharv Tiwari <br/>
 **SRN**:  PES1UG20CS087 <br/>
 **Link to Profile**: [atharvtiwari](https://github.com/atharvtiwari/) <br/>
