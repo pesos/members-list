@@ -63,6 +63,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**: [Noel-jediknight](https://github.com/Noel-jediknight) </br>
 **About Me**: Hey people! I'm Noel. I enjoy trying out anything new and intriguing and programming is one of these. If any of you binge more than or as much as i do then its probably unhealthy(please stop:))I enjoy reading, listening to songs and can play basic keyboard and guitar. I'm pretty friendly and hope to meet a lot of people,learn stuff and most importantly, have fun!(p.s:cryptography enthusiast cuz puzzles are dope)
 
+**Name**:  Rahul Ramesh </br>
+**SRN**:  PES1UG20CS319 </br>
+**Link to Profile**: [r4hu7](https://github.com/r4hu7) </br>
+**About Me**: I'm interested in coding and have particpated in a couple of hackathons in my school. Apart from the technical stuff, I am a pianist and am also learning how to play the guitar. Particpated and won in multiple battle of bands in my school. I also organsied and hosted the TEDx even in my high school and i'm interested in public speaking, muns and debates and stuff. Anyway, after 8 months of binging on netflix and doing nothing, pretty excited to join xD, see y'all soon hopefully. 
+</br>
 
 **Name**: Niveditha K </br>
 **SRN**: PES1202000474 </br>
