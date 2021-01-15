@@ -24,6 +24,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 ## The list 
 [Add your details here]'<--Don't remove this line--'</br>
+**Name**:  Rahul Ramesh </br>
+**SRN**:  PES1UG20CS319 </br>
+**Link to Profile**: [r4hu7](https://github.com/r4hu7) </br>
+**About Me**: I'm interested in coding and have particpated in a couple of hackathons in my school. Apart from the technical stuff, I am a pianist and am also learning how to play the guitar. Particpated and won in multiple battle of bands in my school. I also organsied and hosted the TEDx even in my high school and i'm interested in public speaking, muns and debates and stuff. Anyway, after 8 months of binging on netflix and doing nothing, pretty excited to join xD, see y'all soon hopefully. 
+</br>
 
 **Name**: Niveditha K </br>
 **SRN**: PES1202000474 </br>
