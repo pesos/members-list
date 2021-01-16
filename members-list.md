@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**:  Gowtham H D  <br/>
+**SRN**:  PES1PG20CA026  <br/>
+**Link to Profile**:  [gowthamBhat](https://github.com/gowthamBhat)  <br/>
+**About Me**: I remember my first line of code for me it was an experience that changed my life forever, but I think it was maybe just the colors on my screen the text editors that looked really cool something about seeing code on screen attracted me something about that drew me there.  <br/>
+
 **Name**:  Saee Ganesh K S  <br/>
 **SRN**:  PES2UG20CS542  <br/>
 **Link to Profile**:  [saeeganeshks](https://github.com/saeeganeshks)  <br/>
