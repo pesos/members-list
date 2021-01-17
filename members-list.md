@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**:  Adithya R Narayan  <br/>
+**SRN**:  PES1UG20CS014  <br/>
+**Link to Profile**:  [AdithyaR07](https://github.com/AdithyaR07)  <br/>
+**About Me**:  I started learning programming from age 14 and have been quite addicted to it. Coding is life. Really interested in open source. Wish to crack GSoC.    <br/>
+
 **Name**:  Gowtham H D  <br/>
 **SRN**:  PES1PG20CA026  <br/>
 **Link to Profile**:  [gowthamBhat](https://github.com/gowthamBhat)  <br/>
