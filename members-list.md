@@ -28,6 +28,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**:  [Rudransh-K](https://github.com/Rudransh-K)  <br/>
 **About Me**:I'm fairly new to OpenSource but I've done a lot of coding myself, Tech-Enthusiast. Glad to be a part of PESOS and I hope I can start contributing soon. Cheers!  <br/>
 
+**Name**:  Spoorthi Kalkunte  <br/>
+**SRN**:  PES1UG20CS433  <br/>
+**Link to Profile**:  [legbing](https://github.com/legbing)  <br/>
+**About Me**: I am an avid music lover and love to code. I am not very good at expressing myself and shy away from coversations. I love learning about new things every day, not necessarily on computers.  <br/>
+
 **Name**:  Vanshika Goel  <br/>
 **SRN**:  PES1UG20CS484  <br/>
 **Link to Profile**:  [goel-vanshika](https://github.com/goel-vanshika)  <br/>
