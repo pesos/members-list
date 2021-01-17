@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**:  Atharva  <br/>
+**SRN**:  PLSREJECTTHIS  <br/>
+**Link to Profile**:  [tfidfwastaken](https://github.com/tfidfwastaken)  <br/>
+**About Me**: Wet sandwiches are mediocre.  <br/>
+
 **Name**:  Vanshika Goel  <br/>
 **SRN**:  PES1UG20CS484  <br/>
 **Link to Profile**:  [goel-vanshika](https://github.com/goel-vanshika)  <br/>
