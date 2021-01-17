@@ -1310,8 +1310,8 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**:  [shreyaskaundinya](https://github.com/shreyaskaundinya)  <br/>
 **About Me**: Namaskara/Hey all, I'm a chill person, love music and do produce some music on the side, with that I've come to being able to take feedback and work on that. I'm fond of cooking, and coffee. Trekking and fast and furious are my jam.  <br/>
 
-**Name**:  Krishna N Mehta
-**SRN**:  PES1202001441
-**Link to Profile**:  [cybraia]https://github.com/cybraia 
-**About Me**:  Want to keep learning new things.
+**Name**:  Krishna N Mehta  <br/>
+**SRN**:  PES1202001441  <br/>
+**Link to Profile**:  [cybraia]https://github.com/cybraia  <br/>
+**About Me**:  Want to keep learning new things.  <br/>
 
