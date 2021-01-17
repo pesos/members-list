@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**:  Rudransh Kulkarni  <br/>
+**SRN**:  PES1UG20CS361  <br/>
+**Link to Profile**:  [Rudransh-K](https://github.com/Rudransh-K)  <br/>
+**About Me**:I'm fairly new to OpenSource but I've done a lot of coding myself, Tech-Enthusiast. Glad to be a part of PESOS and I hope I can start contributing soon. Cheers!  <br/>
+
 **Name**:  Vanshika Goel  <br/>
 **SRN**:  PES1UG20CS484  <br/>
 **Link to Profile**:  [goel-vanshika](https://github.com/goel-vanshika)  <br/>
