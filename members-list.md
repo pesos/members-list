@@ -1312,6 +1312,6 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 
 **Name**:  Krishna N Mehta  <br/>
 **SRN**:  PES1202001441  <br/>
-**Link to Profile**:  [cybraia]https://github.com/cybraia  <br/>
+**Link to Profile**:  [cybraia]https://github.com/cybraia <br/>
 **About Me**:  Want to keep learning new things.  <br/>
 
