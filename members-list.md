@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**:  Urmil Kalaria <br/>
+**SRN**: PES1UG20CS189 <br/>
+**Link to Profile**: [urmilkalaria](https://github.com/urmilkalaria) <br/>
+**About Me**: I don't know much about Opensource, but the idea behind it has always fascinated me. I like to read books and that was when I was introduced to Open source, A biography book of Mr. Linus Torvald (Just for Fun) had a great impact on me. I wanted to learn every aspect of Opensource and wanted to contribute something to the community.  <br/>
+
 **Name**:  Adithya R Narayan  <br/>
 **SRN**:  PES1UG20CS014  <br/>
 **Link to Profile**:  [AdithyaR07](https://github.com/AdithyaR07)  <br/>
