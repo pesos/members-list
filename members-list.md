@@ -167,6 +167,11 @@ A loud, hyperactive girl with a vivid imagination and a keen interest in reading
 **Link to Profile**: [Manish0925](https://github.com/Manish0925)  <br/>
 **About Me**: A highly intuitive programmer having an unconventional approach. Love making the world a better and happier place to live in.  <br/>
 
+**Name**:  Uthpal P  
+**SRN**:  PES1UG19CS548  
+**Link to Profile**:  [Uthpal-p](https://github.com/Uthpal-p)  
+**About Me**:  Just a guy who loves Physics, does a lil bit of coding and trying to find a way out of Introversion XD.  
+
 **Name**: S RITESH KUMAR  
 **SRN**: PES1UG19CS403  
 **Link to Profile**: [RIT3shSapata](https://github.com/RIT3shSapata)  <br/>
