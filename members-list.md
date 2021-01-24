@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**: Crystal Praveen Kumar <br/>
+**SRN**: PES1UG20EE022  <br/>
+**Link to Profile**: [crystalpk](https://github.com/crystalpk) <br/>
+**About Me**: I like dancing and reading novels. I love gardening and listening to  BTS.  <br/>
+
 **Name**:  Urmil Kalaria <br/>
 **SRN**: PES1UG20CS189 <br/>
 **Link to Profile**: [urmilkalaria](https://github.com/urmilkalaria) <br/>
