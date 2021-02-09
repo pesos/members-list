@@ -17,6 +17,10 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
+**Name**:  Joy Jefferson <br/>
+**SRN**:  PES2UG19CS270 <br/>
+**Link to Profile**:  [jeff10joy](https://github.com/jeff10joy)  <br/>
+**About Me**:  Hi,there! I'm Joy,a zealont learner and a Deep Learning enthusiast.Sometimes I feel guilty when I copy-paste from Stack Overflow :)) <br/>
 
 **Name**: Crystal Praveen Kumar <br/>
 **SRN**: PES1UG20EE022  <br/>
