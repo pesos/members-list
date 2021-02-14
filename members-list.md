@@ -1354,3 +1354,7 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**:  [cybraia](https://github.com/cybraia) <br/>
 **About Me**:  Want to keep learning new things.  <br/>
 
+**Name**:  Debaditya Ray  <br/>
+**SRN**:  PES1UG19CS133  <br/>
+**Link to Profile**:  [Dray56](https://github.com/Dray56)  <br/>
+**About Me**:  Fascinated by all the knowledge the world offers and looking forward to absorb most of it.  <br/>
