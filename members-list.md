@@ -1362,4 +1362,4 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Name**:  Anudeep CVS  <br/>
 **SRN**:  PES1UG19CS070  <br/>
 **Link to Profile**:  [deepcvs](https://github.com/deepcvs)  <br/>
-**About Me**:  I have rudimentary knowledge concerning a couple of things. Love music. Flume is the GOAT.  <br/>
+**About Me**:  I have a solid understanding about a few things here and there. Love music. Flume is the GOAT.  <br/>
