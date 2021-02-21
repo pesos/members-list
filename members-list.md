@@ -77,6 +77,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**: [pulkitjain708](https://github.com/pulkitjain708) <br/>
 **About Me**: Learner , Avid Reader and Loves Javascript <br/>
 
+**Name**:  Vibatha <br/>
+**SRN**: PES1UG19BD081  <br/>
+**Link to Profile**: [Vibatha](https://github.com/vibatha) <br/>
+**About Me**:  I am a designer who is still a beginner in coding with an eagerness to explore the world of open source. 
+
 **Name**:  Chiranth R  <br/>
 **SRN**: PES1UG20CS116  <br/>
 **Link to Profile**: [ChiranthR30](https://github.com/ChiranthR30) <br/>
