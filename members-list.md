@@ -17,6 +17,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
+
+**Name**:  Phaneesh R Katti <br/>
+**SRN**:  PES2UG19CS281 <br/>
+**Link to Profile**:  [Phaneesh-Katti](https://github.com/Phaneesh-Katti)  <br/>
+**About Me**:  I enjoy Physics and coding and a budding developer, musc enthusiast and card trickster :)) <br/>
+
 **Name**:  Joy Jefferson <br/>
 **SRN**:  PES2UG19CS270 <br/>
 **Link to Profile**:  [jeff10joy](https://github.com/jeff10joy)  <br/>
