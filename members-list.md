@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**:  Rohan N <br/>
+**SRN**:  PES1UG20CS351 <br/>
+**Link to Profile**:  [RogueBuddha](https://github.com/RogueBuddha)  <br/>
+**About Me**:  Hello!! I am a total newbie into this world of Tech, but am a pro when it comes to enthusiasm. Yes! my favourite is "The Matrix"!. <br/>
+
 **Name**:  Phaneesh R Katti <br/>
 **SRN**:  PES2UG19CS281 <br/>
 **Link to Profile**:  [Phaneesh-Katti](https://github.com/Phaneesh-Katti)  <br/>
