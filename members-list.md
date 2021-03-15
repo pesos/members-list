@@ -16,7 +16,10 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Do not modify anything above this line**  
 
 ## The list 
-[Add your details here]`<--Don't remove this line`<br/>
+**Name**:  S M SUTHARSAN RAJ  <br/>
+**SRN**:  PES1UG20CS362 <br/>
+**Link to Profile**:  [smsraj2001](https://github.com/smsraj2001)  <br/>
+**About Me**:  A coding enthusiast and a good reader too. Loves music, drawings and trains. Happy coming to the pesos.  <br/> 
 
 **Name**:  Rohan N <br/>
 **SRN**:  PES1UG20CS351 <br/>
