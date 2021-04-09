@@ -276,43 +276,37 @@ Also I love to play outdoor games.
 **Name**: Ch. Vishal Ratnam  
 **SRN**: PES1201701775  
 **Link to Profile**:  [Vishalratnam](https://github.com/Vishalratnam)  
-**About Me**:  
-Hey! I can code all day.  
+**About Me**: Hey! I can code all day.  
 
 **Name**: R  Sree Harsha Reddy  
 **SRN**: PES1201800233  
 **Link to Profile**:  [harsha7108](https://github.com/harsha7108)  
-**About Me**:  
-Hey! I like to learn new stuff .I'm a sport fanatic and a big fan of Manchester United.   
+**About Me**: Hey! I like to learn new stuff .I'm a sport fanatic and a big fan of Manchester United.   
 
 **Name**: Srinath M P  
 **SRN**: PES1201801946  
 **Link to Profile**:[Srinathmp](https://github.com/Srinathmp)  
-**About Me**:  
-Hi!! This is Srinath MP.I'm a problem seeker,perseverent solver,love reading novels,huge basketball fan.
+**About Me**: Hi!! This is Srinath MP.I'm a problem seeker,perseverent solver,love reading novels,huge basketball fan.  
 
 **Name**: A Praneeth 
 **SRN**: PES1UG19CS082  
-**Link to Profile**: [praneeth-arasada](https://github.com/praneeth-arasada)
+**Link to Profile**: [praneeth-arasada](https://github.com/praneeth-arasada)  
 **About Me**: Always intrested in learning something new!!!
 
 **Name**: Vybhav Bhadri  
 **SRN**: PES1201801764  
 **Link to Profile**: [vybhav-bhadri](https://github.com/vybhav-bhadri)  
-**About Me**:  
-Hello World!!,I'm trying to get a summer body from the day I started to learn coding.  
+**About Me**: Hello World!!,I'm trying to get a summer body from the day I started to learn coding.  
 
 **Name**: Aneesh Nagesh Bhat  
 **SRN**: PES1201800216  
 **Link to Profile**: [aneeshnbhat](https://github.com/aneeshnbhat)  
-**About Me**:  
-I like to learn new stuff, play video games and watch youtubers play video games, I'm interested in machine-learning, and like to code. 
+**About Me**: I like to learn new stuff, play video games and watch youtubers play video games, I'm interested in machine-learning, and like to code. 
 
 **Name**: S Surya Saveri  
 **SRN**: PES1201800791  
 **Link to Profile**:[saveri1205](https://github.com/saveri1205)  
-**About Me**:  
-Hey there i am Saveri. I love music and painting and i am a chocolate lover! :P.I am really excited to be a part of PESOS
+**About Me**: Hey there i am Saveri. I love music and painting and i am a chocolate lover! :P.I am really excited to be a part of PESOS  
 
 **Name**: Ravichandu S  
 **SRN**: PES1201801802  
