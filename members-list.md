@@ -291,6 +291,11 @@ Hey! I like to learn new stuff .I'm a sport fanatic and a big fan of Manchester 
 **About Me**:  
 Hi!! This is Srinath MP.I'm a problem seeker,perseverent solver,love reading novels,huge basketball fan.
 
+**Name**: A Praneeth 
+**SRN**: PES1UG19CS082  
+**Link to Profile**: [praneeth-arasada](https://github.com/praneeth-arasada)
+**About Me**: Always intrested in learning something new!!!
+
 **Name**: Vybhav Bhadri  
 **SRN**: PES1201801764  
 **Link to Profile**: [vybhav-bhadri](https://github.com/vybhav-bhadri)  
