@@ -1351,7 +1351,7 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 
 **Name**:  Prateek Pangal Rao  <br/>
 **SRN**:  PES1UG20CS303  <br/>
-**Link to Profile**:  [r-prateek](https://github.com/r-prateek)  <br/>
+**Link to Profile**:  [prateekrao](https://github.com/prateekrao)  <br/>
 **About Me**: New to open source, and curious about the way it works. I love music, especially rock from the 70's and 80's and I'm also interested in AI/ML. I love a good novel and I don't play games. Don't ask me why :)  <br/>
 
 **Name**:  Aaditya S Goel <br/>
