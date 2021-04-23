@@ -1378,3 +1378,8 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN**:  PES1UG19CS070  <br/>
 **Link to Profile**:  [deepcvs](https://github.com/deepcvs)  <br/>
 **About Me**:  I have a solid understanding about a few things here and there. Love music. Flume is the GOAT.  <br/>
+
+**Name**: Utkarsh Gupta <br/>
+**SRN** PES1UG19CS549 <br/>
+**Link to Profile**: [utkarsh348](https://github.com/utkarsh348) <br/>
+**About Me**: I'm all about good design and am currently exploring new fields within CS, looking for projects and problems that really interest me. I love working with other people and if you have any SynthPop playlists, please send them my way.
