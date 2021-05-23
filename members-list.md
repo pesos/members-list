@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**:  Sathwik P Kallapur <br/>
+**SRN**:  PES1201801328 <br/>
+**Link to Profile**:  [7wik-pk](https://github.com/7wik-pk)  <br/>
+**About Me**:  I'm interested in writing high performance, efficient, low latency software. Naturally, me working with python is out of the question. I'm also very particular about working with systems-oriented projects and I can't stand data science/machine learning. Shoutout to Madhav Jivrajani for bringing me here.
+
 **Name**:  Rohan N <br/>
 **SRN**:  PES1UG20CS351 <br/>
 **Link to Profile**:  [RogueBuddha](https://github.com/RogueBuddha)  <br/>
