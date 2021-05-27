@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**:  Shubhankar V Kuranagatti <br/>
+**SRN**:  PES2UG20CS466 <br/>
+**Link to Profile**:  [KewlShubh](https://github.com/name)  <br/>
+**About Me**: Heyy guys! I am a complete noob in this world of tech. However I have keen interest in cybersecurity. I belong to that 1% of people who want to do everything yet end up doing nothing :p Hope to learn a lot and contribute as well. Cheers! <br/>
+
 **Name**:  Sathwik P Kallapur <br/>
 **SRN**:  PES1201801328 <br/>
 **Link to Profile**:  [7wik-pk](https://github.com/7wik-pk)  <br/>
