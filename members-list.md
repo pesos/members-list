@@ -20,7 +20,7 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 **Name**:  Avnish Aryan Jha <br/>
 **SRN**:  PES1UG19EC073 <br/>
-**Link to Profile**:  [avnish100](https://github.com/name)  </br>
+**Link to Profile**:  [avnish100](https://github.com/avnish100)  </br>
 **About Me**: I'm interested in varied fields from data science to psychology.Enjoy learning and creating.<br/>
 
 **Name**:  Shubhankar V Kuranagatti <br/>
