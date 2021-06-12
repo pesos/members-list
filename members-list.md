@@ -17,6 +17,10 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
+**Name**:  Ishaan Shettigar  <br/>
+**SRN**:  PES1UG20CS170  <br/>
+**Link to Profile**:  [IshaanShettigar]https://github.com/IshaanShettigar  <br/>
+**About Me**:  I'm a newbie when it comes to open source and I know how to code but nothing to brag about.I'm intrigued by the world of programming and would love to learn new things and contribute to some cool projects. <br/>
 
 **Name**:  Avnish Aryan Jha <br/>
 **SRN**:  PES1UG19EC073 <br/>
