@@ -1398,3 +1398,9 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **SRN** PES1UG19CS549 <br/>
 **Link to Profile**: [utkarsh348](https://github.com/utkarsh348) <br/>
 **About Me**: I'm all about good design and am currently exploring new fields within CS, looking for projects and problems that really interest me. I love working with other people and if you have any SynthPop playlists, please send them my way.
+
+**Name**:  Siddharth Magadum  <br/>
+**SRN**:  PES1UG19CS482  <br/>
+**Link to Profile**:  [siddharthmagadum16](https://github.com/siddharthmagadum16)  <br/>
+**About Me**:  I'm just a curious student trying to develop and explore things. I'm also interested in contributing in open source  <br/>
+
