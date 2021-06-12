@@ -91,6 +91,10 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Name**:  Anindita H.K  <br/>
 **SRN**:  PES1UG20CS054  <br/>
 **Link to Profile**:  [A-HK](https://github.com/A-HK)  <br/>
+**Name**:   Rohan M Goud  <br/>
+**SRN**:   PES1UG20EE051   <br/>
+**Link to profile**: [all-of-rohan](https://github.com/all-of-rohan)  <br/>
+**ABout Me**  I am very new to the operations of github and open source resources, but still quite enjoy the process and the idea of contribution, am a Tech enthusiast and an Taekwondo champion.
 **About Me**: Occasional keyboard (the instrument) player. Aspiring open source ~~cult~~ community member. Harry Potter fanatic. Person who doesn't know how to write a bio about herself. Willing to wage a war with people who think that pineapple on pizza is okay.  <br/>
 
 **Name**:  Atharv Tiwari <br/>
