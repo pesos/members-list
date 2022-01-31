@@ -18,6 +18,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
+**Name**:  T SAI YASHWANTH <br/>
+**SRN**:  PES2UG21CS568 <br/>
+**Link to Profile**:  [theyashwanthsai](https://github.com/theyashwanthsai)  <br/> 
+**About Me**:   I build games, websites or simple projects and learn. I also share my learnings in public as it helps me become better and grow. I really love the idea of open source. I am lazy but I work when I love what I am doing. <br/> 
+
 **Name**:  Avnish Aryan Jha <br/>
 **SRN**:  PES1UG19EC073 <br/>
 **Link to Profile**:  [avnish100](https://github.com/avnish100)  </br>
