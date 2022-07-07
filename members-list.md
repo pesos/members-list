@@ -38,6 +38,12 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**:  [RogueBuddha](https://github.com/RogueBuddha)  <br/>
 **About Me**:  Hello!! I am a total newbie into this world of Tech, but am a pro when it comes to enthusiasm. Yes! my favourite is "The Matrix"!. <br/>
 
+**Name**: Abhbishek Honnapure <br/>
+**SRN**:  PES2UG21CS020 <br/>
+**Link to Profile**:  [its-abhishek](https://github.com/its-abhishek)  </br>
+**About Me**: Hi👋 guys, I'm abhishek, who believe's in self learning 👨‍💻. A web developer and blockchain🔗 enthusiast. Know abt me more on [Linkdin](https://www.linkedin.com/in/abhishek-honnapure-547636232/). Looking forward to learn new things and contribute as much as I can to this community. <br/>
+
+
 **Name**:  Phaneesh R Katti <br/>
 **SRN**:  PES2UG19CS281 <br/>
 **Link to Profile**:  [Phaneesh-Katti](https://github.com/Phaneesh-Katti)  <br/>
