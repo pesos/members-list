@@ -1404,3 +1404,11 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**:  [siddharthmagadum16](https://github.com/siddharthmagadum16)  <br/>
 **About Me**:  I'm just a curious student trying to develop and explore things. I'm also interested in contributing in open source  <br/>
 
+
+**Name**:  Sangamesh s  <br/>
+**SRN**:  PES1UG20CS374  <br/>
+**Link to Profile**:  [sangu143](https://github.com/sangu143)  <br/>
+**About Me**:   I was interested in open source because of the great libraries and frameworks that makes the coding more easier and also we can network with some great minds through networking in open source so I wanted to join pesos<br/>
+
+
+
