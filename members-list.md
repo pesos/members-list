@@ -1404,3 +1404,8 @@ Not really that interesting of a person. I do enjoy the occasional video game (W
 **Link to Profile**:  [siddharthmagadum16](https://github.com/siddharthmagadum16)  <br/>
 **About Me**:  I'm just a curious student trying to develop and explore things. I'm also interested in contributing in open source  <br/>
 
+**Name**:  Vishal M  <br/>
+**SRN**:  PES1UG20CS508  <br/>
+**Link to Profile**:  [VishalPraneeth](https://github.com/VishalPraneeth)  <br/>
+**About Me**:  I am an engineering student passionate about DevOps, SRE, Cloud and open source. Always seeking to expand my knowledge and skills, I am dedicated to staying at the forefront of the industry. Strong collaborator and communicator, I am excited about the future of these technologies and look forward to making a meaningful contribution to the field.  <br/>
+
