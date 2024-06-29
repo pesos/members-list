@@ -18,12 +18,6 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 [Add your details here]`<--Don't remove this line`<br/>
 
-**Name**:  Shailja Shaktwat <br/>
-**SRN**:  PES1UG23CS534 <br/>
-**Link to Profile**:  [euphoricair7](https://github.com/euphoricair7)  </br>
-**About Me**: Heya, exploring cyber sec, and side stuff, like using Arch.<br/>
-
-
 **Name**:  Avnish Aryan Jha <br/>
 **SRN**:  PES1UG19EC073 <br/>
 **Link to Profile**:  [avnish100](https://github.com/avnish100)  </br>
