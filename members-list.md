@@ -83,11 +83,6 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 **Link to Profile**:  [gowthamBhat](https://github.com/gowthamBhat)  <br/>
 **About Me**: I remember my first line of code for me it was an experience that changed my life forever, but I think it was maybe just the colors on my screen the text editors that looked really cool something about seeing code on screen attracted me something about that drew me there.  <br/>
 
-**Name**:  Saee Ganesh K S  <br/>
-**SRN**:  PES2UG20CS542  <br/>
-**Link to Profile**:  [saeeganeshks](https://github.com/saeeganeshks)  <br/>
-**About Me**: Exploring the world of programming and just enjoying the process. Tech enthusiast. Basketball player.  <br/>
-
 **Name**:  Anindita H.K  <br/>
 **SRN**:  PES1UG20CS054  <br/>
 **Link to Profile**:  [A-HK](https://github.com/A-HK)  <br/>
